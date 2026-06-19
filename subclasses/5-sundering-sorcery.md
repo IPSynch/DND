@@ -22,9 +22,9 @@ The listed spells are always prepared and don't count against your prepared tota
 | Sorcerer Level | Spells |
 |----------------|--------|
 | 3 | *Magic Missile Slashes*, *Catapult* |
-| 5 | *Shatter*, *Tasha's Mind Whip* |
+| 5 | *Shatter*, *Fly* |
 | 7 | *Banishment*, *Dimension Door* |
-| 9 | *Steel Wind Strike* (recast as Force), *Telekinesis* |
+| 9 | *Wall of Force*, *Telekinesis* |
 
 ---
 
