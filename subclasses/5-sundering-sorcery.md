@@ -9,8 +9,8 @@
 > or **Dismantled**.
 
 Inspired by Cleave and Dismantle: a precision-slash for tough single targets, an
-area-wide tear for crowds. Mechanically this origin is the **Magic Missile** and
-**Force damage** specialist — Magic Missile becomes a free, scaling cantrip, and
+area-wide tear for crowds. Mechanically this origin is the **Magic Missile Slashes** and
+**Force damage** specialist — Magic Missile Slashes becomes a free, scaling cantrip, and
 every feature pumps your never-miss Force output higher.
 
 ---
@@ -21,7 +21,7 @@ The listed spells are always prepared and don't count against your prepared tota
 
 | Sorcerer Level | Spells |
 |----------------|--------|
-| 3 | *Magic Missile*, *Catapult* |
+| 3 | *Magic Missile Slashes*, *Catapult* |
 | 5 | *Shatter*, *Tasha's Mind Whip* |
 | 7 | *Bigby's Hand*, *Wall of Force* |
 | 9 | *Steel Wind Strike* (recast as Force), *Telekinesis* |
@@ -32,7 +32,7 @@ The listed spells are always prepared and don't count against your prepared tota
 
 You wield two complementary techniques of cutting Force.
 
-- **Magic Missile is a cantrip for you.** It is always prepared, doesn't count
+- **Magic Missile Slashes is a cantrip for you.** It is always prepared, doesn't count
   against your cantrips known, and when you cast it **without expending a spell
   slot** it functions as the 1st-level spell (three slashes). As a cantrip it
   **scales with your level like other cantrips: 4 slashes at level 5, 5 slashes at
@@ -40,10 +40,10 @@ You wield two complementary techniques of cutting Force.
   per the spell as normal, on top of this baseline.) Each slash is a thin blade of
   Force.
 - **Cleave (focus a single target).** When you direct **two or more slashes of a
-  *Magic Missile* at the same creature**, that creature can't benefit from
+  *Magic Missile Slashes* at the same creature**, that creature can't benefit from
   **Resistance to Force damage** against this casting, and each of those slashes
   deals **+1 damage.**
-- **Dismantle (sweep a crowd).** When you cast *Magic Missile*, you can instead
+- **Dismantle (sweep a crowd).** When you cast *Magic Missile Slashes*, you can instead
   release it as a sweeping arc: a 15-foot **Cone**. Each creature in the Cone
   makes a **Dexterity saving throw**, taking **1d4+1 Force damage per slash** the
   casting would have produced (half as much on a success). All slashes are spent on
@@ -57,8 +57,8 @@ Your cuts grow deeper and quicker.
 
 - **Sharpened Force.** Once on each of your turns, you can **add your Charisma
   modifier** to one Force damage roll (any Force spell, including each casting of
-  *Magic Missile* — applied once to the total).
-- **Deep Cut.** Whenever you roll a **maximum result on a *Magic Missile* damage
+  *Magic Missile Slashes* — applied once to the total).
+- **Deep Cut.** Whenever you roll a **maximum result on a *Magic Missile Slashes* damage
   die**, that slash deals an **extra die** of Force damage (re-rolls of the extra
   die don't chain).
 - **Flick (Bonus Action).** As a **Bonus Action**, you can hurl a single slash of
@@ -74,12 +74,12 @@ Your blade ignores the distinctions that protect lesser foes.
 
 - **Nothing Resists the Edge.** Your Force damage **ignores Resistance** and
   treats **Immunity to Force as Resistance.**
-- **Honed Slashes.** Your *Magic Missile* slashes now deal **1d6+1** each (up from
+- **Honed Slashes.** Your *Magic Missile Slashes* slashes now deal **1d6+1** each (up from
   1d4+1), and your **Dismantle** Cone grows to a **30-foot Cone.**
 - **Sever (rider).** The first time on each of your turns that you deal Force
   damage to a creature, its **Speed is halved** and it **can't take Reactions**
   until the start of its next turn — its tendons, in a sense, have been cut.
-- **Cut Through Cover.** Your *Magic Missile* and Dismantle ignore **half and
+- **Cut Through Cover.** Your *Magic Missile Slashes* and Dismantle ignore **half and
   three-quarters cover** (the slashes simply curve around it).
 
 ---
@@ -101,16 +101,16 @@ ceaseless, inescapable.
   - This is, in effect, a never-missing field of force blades. You can dismiss the
     Domain as a Bonus Action, and you can use this feature once per **Long Rest**,
     or by spending **6 Sorcery Points.**
-- **Perfected Missiles (passive).** Your *Magic Missile* slashes now deal **1d8+1**
-  each and you gain **one additional slash.** Your *Magic Missile* **can't be
+- **Perfected Missiles (passive).** Your *Magic Missile Slashes* slashes now deal **1d8+1**
+  each and you gain **one additional slash.** Your *Magic Missile Slashes* **can't be
   thwarted by the *Shield* spell** (the slashes part around the ward and strike
-  anyway), and you can cast *Magic Missile* (cantrip version) as a **Bonus Action.**
+  anyway), and you can cast *Magic Missile Slashes* (cantrip version) as a **Bonus Action.**
 
 ---
 
 ### Designer notes
 
-- **Magic Missile** is the perfect chassis for "never-misses, you just choose how":
+- **Magic Missile Slashes** is the perfect chassis for "never-misses, you just choose how":
   Cleave dumps all slashes into one foe (with anti-Resistance and bonus damage),
   Dismantle fans them across a crowd. Both scale on the same slash count, so every
   level-up upgrades both modes at once.
