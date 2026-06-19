@@ -34,19 +34,19 @@ You wield two complementary techniques of cutting Force.
 
 - **Magic Missile is a cantrip for you.** It is always prepared, doesn't count
   against your cantrips known, and when you cast it **without expending a spell
-  slot** it functions as the 1st-level spell (three darts). As a cantrip it
-  **scales with your level like other cantrips: 4 darts at level 5, 5 darts at
-  level 11, 6 darts at level 17.** (Casting it with a spell slot still adds darts
-  per the spell as normal, on top of this baseline.) Each dart is a thin blade of
+  slot** it functions as the 1st-level spell (three slashes). As a cantrip it
+  **scales with your level like other cantrips: 4 slashes at level 5, 5 slashes at
+  level 11, 6 slashes at level 17.** (Casting it with a spell slot still adds slashes
+  per the spell as normal, on top of this baseline.) Each slash is a thin blade of
   Force.
-- **Cleave (focus a single target).** When you direct **two or more darts of a
+- **Cleave (focus a single target).** When you direct **two or more slashes of a
   *Magic Missile* at the same creature**, that creature can't benefit from
-  **Resistance to Force damage** against this casting, and each of those darts
+  **Resistance to Force damage** against this casting, and each of those slashes
   deals **+1 damage.**
 - **Dismantle (sweep a crowd).** When you cast *Magic Missile*, you can instead
   release it as a sweeping arc: a 15-foot **Cone**. Each creature in the Cone
-  makes a **Dexterity saving throw**, taking **1d4+1 Force damage per dart** the
-  casting would have produced (half as much on a success). All darts are spent on
+  makes a **Dexterity saving throw**, taking **1d4+1 Force damage per slash** the
+  casting would have produced (half as much on a success). All slashes are spent on
   the sweep.
 
 ---
@@ -59,12 +59,12 @@ Your cuts grow deeper and quicker.
   modifier** to one Force damage roll (any Force spell, including each casting of
   *Magic Missile* — applied once to the total).
 - **Deep Cut.** Whenever you roll a **maximum result on a *Magic Missile* damage
-  die**, that dart deals an **extra die** of Force damage (re-rolls of the extra
+  die**, that slash deals an **extra die** of Force damage (re-rolls of the extra
   die don't chain).
-- **Flick (Bonus Action).** As a **Bonus Action**, you can hurl a single dart of
+- **Flick (Bonus Action).** As a **Bonus Action**, you can hurl a single slash of
   Force at a creature within 60 feet (automatically hits for 1d4 + your Charisma
   modifier Force damage). You can spend **1 Sorcery Point** to instead loose a
-  number of such darts equal to your **Charisma modifier**, divided as you like.
+  number of such slashes equal to your **Charisma modifier**, divided as you like.
 
 ---
 
@@ -74,7 +74,7 @@ Your blade ignores the distinctions that protect lesser foes.
 
 - **Nothing Resists the Edge.** Your Force damage **ignores Resistance** and
   treats **Immunity to Force as Resistance.**
-- **Honed Darts.** Your *Magic Missile* darts now deal **1d6+1** each (up from
+- **Honed Slashes.** Your *Magic Missile* slashes now deal **1d6+1** each (up from
   1d4+1), and your **Dismantle** Cone grows to a **30-foot Cone.**
 - **Sever (rider).** The first time on each of your turns that you deal Force
   damage to a creature, its **Speed is halved** and it **can't take Reactions**
@@ -101,8 +101,8 @@ ceaseless, inescapable.
   - This is, in effect, a never-missing field of force blades. You can dismiss the
     Domain as a Bonus Action, and you can use this feature once per **Long Rest**,
     or by spending **6 Sorcery Points.**
-- **Perfected Missiles (passive).** Your *Magic Missile* darts now deal **1d8+1**
-  each and you gain **one additional dart.** Your *Magic Missile* **can't be
+- **Perfected Missiles (passive).** Your *Magic Missile* slashes now deal **1d8+1**
+  each and you gain **one additional slash.** Your *Magic Missile* **can't be
   thwarted by the *Shield* spell** (the slashes part around the ward and strike
   anyway), and you can cast *Magic Missile* (cantrip version) as a **Bonus Action.**
 
@@ -111,10 +111,10 @@ ceaseless, inescapable.
 ### Designer notes
 
 - **Magic Missile** is the perfect chassis for "never-misses, you just choose how":
-  Cleave dumps all darts into one foe (with anti-Resistance and bonus damage),
-  Dismantle fans them across a crowd. Both scale on the same dart count, so every
+  Cleave dumps all slashes into one foe (with anti-Resistance and bonus damage),
+  Dismantle fans them across a crowd. Both scale on the same slash count, so every
   level-up upgrades both modes at once.
-- The progression of dart dice — **1d4+1 → 1d6+1 (14) → 1d8+1 (18)** — plus
+- The progression of slash dice — **1d4+1 → 1d6+1 (14) → 1d8+1 (18)** — plus
   **Sharpened Force**, **Deep Cut**, and the **Flick** bonus action keeps your
   per-turn Force damage climbing without ever needing an attack roll.
 - The level 18 **Domain** is a deliberate "Domain Expansion": automatic,
