@@ -23,7 +23,7 @@ The listed spells are always prepared and don't count against your prepared tota
 |----------------|--------|
 | 3 | *Magic Missile Slashes*, *Catapult* |
 | 5 | *Shatter*, *Tasha's Mind Whip* |
-| 7 | *Bigby's Hand*, *Wall of Force* |
+| 7 | *Banishment*, *Dimension Door* |
 | 9 | *Steel Wind Strike* (recast as Force), *Telekinesis* |
 
 ---
