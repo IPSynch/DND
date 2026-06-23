@@ -77,13 +77,13 @@ point of all the others.*
 - **Certain Conclusion (passive).** You **critically hit on a roll of 17–20**, and
   your critical hits **deal maximum damage on all of their damage dice** instead of
   rolling them (you still roll any *extra* dice from features like Ratio).
-- **Final Verdict (active).** As part of the **Attack action**, you can spend **4
-  Focus Points** and declare a single Unarmed Strike a Final Verdict. That attack is
-  **automatically a critical hit** if it hits, and on a hit the target must succeed
-  on a **Constitution save** or take an extra **8 MA dice** of damage and be reduced
-  to **0 Hit Points** if this leaves it at a quarter of its maximum HP or below
-  (a clean close to the job). You can use Final Verdict once per **Short or Long
-  Rest**, or more often by spending the Focus Points again.
+- **Final Verdict (active).** As part of the **Attack action**, you can declare a
+  single Unarmed Strike a Final Verdict. That attack is **automatically a critical
+  hit** if it hits, and on a hit the target must succeed on a **Constitution save**
+  or take an extra **8 MA dice** of damage and be reduced to **0 Hit Points** if this
+  leaves it at a quarter of its maximum HP or below (a clean close to the job). You
+  can use Final Verdict **once per Short or Long Rest for free**; after that, you can
+  use it again by spending **4 Focus Points**.
 
 ---
 
