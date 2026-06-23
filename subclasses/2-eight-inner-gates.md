@@ -27,14 +27,18 @@ price to match.
 *The first lock. Release the brakes the brain places on the muscles, and weakness
 becomes power.*
 
-As a **Bonus Action**, spend **1 Focus Point** to open the **First Gate**. While a
-Gate is open:
+As a **Bonus Action**, spend **1 Focus Point** to open the **First Gate**. An open
+Gate lasts for **1 minute** (no Concentration required). It ends early if you
+**fall Unconscious**, or if you choose to close your Gates (**no action required**)
+on your turn. While a Gate is open:
 
 - Your **Speed increases by 15 feet**, you have **Advantage on Strength checks and
   Strength saving throws**, and your Unarmed Strikes deal an extra **MA die** of
   damage.
 - You can open higher Gates as you gain levels (below). Higher Gates **include** the
-  benefits of all lower Gates.
+  benefits of all lower Gates. Opening a higher Gate while one is already open
+  **does not reset the duration** — the 1-minute timer began when you opened your
+  first Gate this turn-sequence.
 
 **Strain.** Each time you **open a new Gate**, you take **Force damage equal to twice
 the Gate's number** (this damage ignores Resistance and Immunity and can't be reduced).
