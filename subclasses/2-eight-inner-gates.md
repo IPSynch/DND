@@ -15,107 +15,144 @@ spending Focus Points, trading your own well-being for staggering, escalating
 power — and the final Gate is the most devastating attack a Monk can throw, at a
 price to match.
 
-> **Conventions.** **Gates** are a stacked, ascending state. Opening a Gate is a
-> **Bonus Action** and raises you to that Gate *and every Gate below it*. The state
-> lasts **1 minute** (no Concentration) and ends if you fall Unconscious. "MA die"
-> is your **Martial Arts die**; save DCs are your **Monk DC**.
+## How the Eight Gates work
+
+There are **eight Gates**, numbered 1–8. Each subclass tier (levels 3, 6, 11, 17)
+unlocks **two** of them, and every Gate grants its own distinct benefit on top of
+all the Gates beneath it.
+
+- **Opening Gates.** On your turn you can take a **Bonus Action** to open Gates. You
+  open them **in ascending order**, one or more at a time, up to the highest Gate
+  your level allows. You must open Gate 1 before Gate 2, Gate 2 before Gate 3, and
+  so on — but you can open several in a single Bonus Action if you pay for each.
+- **Cost & Strain.** Opening a Gate costs the **Focus Points** listed for it, and
+  deals you **Strain**: Force damage equal to **twice that Gate's number** (e.g.,
+  Gate 4 deals 8). Strain ignores Resistance and Immunity and **can't be reduced or
+  prevented**. The body pays for what the locks were holding back.
+- **Duration.** Your open Gates last **1 minute** (no Concentration). The timer starts
+  when you open your **first** Gate; opening higher Gates does **not** reset it. Your
+  Gates close early if you **fall Unconscious** or choose to close them (**no action**)
+  on your turn. While Gates are open you keep the benefit of **every** Gate you have
+  opened.
+- **Benefits stack.** "While the Nth Gate is open" effects are cumulative. Reaching a
+  higher Gate keeps everything from the lower ones.
+
+> **Conventions.** "MA die" is your **Martial Arts die**; save DCs are your **Monk
+> DC** (8 + Proficiency + Wisdom modifier).
 
 ---
 
-## The Gate of Opening (Level 3)
+## The First Gates — Opening & Healing (Level 3)
 
-*The first lock. Release the brakes the brain places on the muscles, and weakness
-becomes power.*
+*The first two locks: shed the brain's restraint, then drink from your own reserves.*
 
-As a **Bonus Action**, spend **1 Focus Point** to open the **First Gate**. An open
-Gate lasts for **1 minute** (no Concentration required). It ends early if you
-**fall Unconscious**, or if you choose to close your Gates (**no action required**)
-on your turn. While a Gate is open:
+You can open the **First** and **Second** Gates.
 
-- Your **Speed increases by 15 feet**, you have **Advantage on Strength checks and
-  Strength saving throws**, and your Unarmed Strikes deal an extra **MA die** of
-  damage.
-- You can open higher Gates as you gain levels (below). Higher Gates **include** the
-  benefits of all lower Gates. Opening a higher Gate while one is already open
-  **does not reset the duration** — the 1-minute timer began when you opened your
-  first Gate this turn-sequence.
-
-**Strain.** Each time you **open a new Gate**, you take **Force damage equal to twice
-the Gate's number** (this damage ignores Resistance and Immunity and can't be reduced).
-The body pays for what the locks were holding back.
+- **Gate 1 — The Gate of Opening** *(1 Focus Point; Strain 2).* You release the brakes
+  the mind places on the muscles. While open: your **Speed increases by 15 feet**, you
+  have **Advantage on Strength checks and Strength saving throws**, and your Unarmed
+  Strikes deal an extra **MA die** of damage.
+- **Gate 2 — The Gate of Healing** *(1 Focus Point; Strain 4).* You flood the body with
+  its own second wind. When you open this Gate, you **regain Hit Points equal to twice
+  your monk level** and may **immediately end one of the following on yourself**:
+  Blinded, Charmed, Frightened, Poisoned, or one level of Exhaustion. While this Gate
+  is open, you **can't be Frightened or Charmed**.
 
 ---
 
-## The Gate of Life (Level 6)
+## The Inner Gates — Life & Pain (Level 6)
 
-*Crimson skin, screaming wind. Past here, there is no holding back left to do.*
+*Past here, the safe distance is gone. Crimson skin, screaming wind, and a body that
+ignores its own warnings.*
 
-You can now open the **Second** and **Third Gates** (Bonus Action, **2 Focus
-Points**, on top of any Strain). While the **Third Gate** or higher is open:
+You can now open the **Third** and **Fourth** Gates.
 
-- You gain a **+2 bonus to attack and damage rolls** with Unarmed Strikes, and your
-  Speed bonus increases to **+30 feet**.
-- The wind of your blows is a weapon: when you take the Attack action, you may force
-  each creature within **10 feet** to make a **Strength save** or be pushed 10 feet
-  and knocked **Prone**.
-- You have **Advantage on Death Saving Throws**, and while above 0 HP you **can't be
-  Frightened or Charmed** — fear has no grip on someone already past their limit.
-
----
-
-## The Gate of View (Level 11)
-
-*Fast enough that the air itself ignites against your skin.*
-
-You can now open the **Fourth through Seventh Gates** (Bonus Action, **3 Focus
-Points**, plus Strain). While the **Fifth Gate** or higher is open:
-
-- You gain an **additional Unarmed Strike** whenever you take the Attack action, and
-  your Unarmed Strikes deal an extra **2 MA dice** (replacing the level 3 die).
-- Friction sets you ablaze: your Unarmed Strikes deal **Fire damage** instead of
-  Bludgeoning if you choose, and a creature you hit takes an extra **1d10 Fire** and
-  begins **burning** (it takes the Fire damage again at the start of its turns until
-  it or an ally uses an action to douse it).
-- You have **Resistance to all damage except the Strain from your own Gates**, and
-  **Opportunity Attacks against you have Disadvantage**.
+- **Gate 3 — The Gate of Life** *(2 Focus Points; Strain 6).* Your blood roars and your
+  skin reddens. While open: you gain a **+2 bonus to attack and damage rolls** with
+  Unarmed Strikes, your Speed bonus increases to **+30 feet**, and you have **Advantage
+  on Death Saving Throws**. When you take the Attack action, the wind of your blows
+  forces each creature within **10 feet** to make a **Strength save** or be pushed 10
+  feet and knocked **Prone**.
+- **Gate 4 — The Gate of Pain** *(2 Focus Points; Strain 8).* You push through the limit
+  pain was meant to enforce. While open: you make **one additional Unarmed Strike**
+  whenever you take the Attack action, and your Unarmed Strikes deal an extra **2 MA
+  dice** (this replaces the Gate 1 extra die).
 
 ---
 
-## The Eighth Gate of Death (Level 17)
+## The Outer Gates — Limit & View (Level 11)
 
-*The last lock guards your life itself. Open it, and for a few blazing seconds you
-are stronger than anything alive — and then the bill comes due.*
+*Fast enough that the air itself ignites against your skin, and so far past the limit
+that the limit can no longer touch you.*
 
-As a **Bonus Action**, you can open the **Eighth Gate** by spending **6 Focus
-Points** and **reducing your current Hit Points to 1** (this does not trigger
-death-prevention features). For **1 minute** or until you choose to end it:
+You can now open the **Fifth** and **Sixth** Gates.
 
-- Your **Speed triples**, you gain a **flying Speed** equal to it, you have
-  **Resistance to all damage**, and you **automatically succeed on Strength and
-  Dexterity saving throws**.
-- Your Unarmed Strikes **automatically hit**, **critically hit on a roll of 17–20**,
-  and deal an extra **4 MA dice** of Fire damage.
-- **Evening Elephant / Night Guy.** Once per turn, you can spend your whole Attack
-  action on a single, perfect blow. The target (and each creature in a 15-foot-radius
-  Sphere around it) takes **12d12 Force damage**, or **half** on a successful
-  **Constitution save**, and is knocked **Prone** and **pushed 30 feet**. Structures
-  and unattended objects in the area are destroyed.
+- **Gate 5 — The Gate of Limit** *(3 Focus Points; Strain 10).* You blow past the last
+  cautious restraint. While open: your reach with Unarmed Strikes increases by **5
+  feet**, **Opportunity Attacks against you have Disadvantage**, and the first time
+  each turn you hit a creature it **can't take Reactions** until the start of its next
+  turn. You also gain **Resistance to Bludgeoning, Piercing, and Slashing** damage.
+- **Gate 6 — The Gate of View** *(3 Focus Points; Strain 12).* Friction sets you ablaze.
+  While open: your Unarmed Strikes can deal **Fire damage** instead of Bludgeoning,
+  they score a **critical hit on a roll of 19–20**, and a creature you hit takes an
+  extra **1d10 Fire** and begins **burning** (taking that Fire damage again at the start
+  of its turns until it or an ally uses an action to douse it). Once on each of your
+  turns, as part of the Attack action, you can unleash **Morning Peacock** — a blur of
+  flaming fists striking every creature in a **15-foot Cone** for **3 MA dice** of Fire
+  damage, or **half** on a **Dexterity save**.
 
-**The Price.** When the Eighth Gate closes, you **drop to 0 Hit Points** and gain
-**3 levels of Exhaustion**. You can only survive this if stabilized or healed; a
-true master opens the Eighth Gate knowing it may be the last thing they ever do.
-You can open the Eighth Gate once per **Long Rest**.
+---
+
+## The Final Gates — Wonder & Death (Level 17)
+
+*The seventh lock turns your sweat to evaporating mist and your fists to a tidal wave.
+The eighth guards your life itself.*
+
+You can now open the **Seventh** and **Eighth** Gates.
+
+- **Gate 7 — The Gate of Wonder** *(3 Focus Points; Strain 14).* Your body becomes a
+  storm. While open: you have **Resistance to all damage** (except Strain), you
+  **can't be Frightened**, and you **automatically succeed on Strength and Dexterity
+  saving throws**. Once per turn you can spend your action on **Daytime Tiger** — a
+  compressed shockwave of air slammed into a point within 60 feet: each creature in a
+  **20-foot-radius Sphere** takes **8 MA dice** of Bludgeoning or Fire damage (your
+  choice), or **half** on a **Constitution save**, and is knocked **Prone** and pushed
+  **20 feet** on a failure.
+
+- **Gate 8 — The Gate of Death** *(6 Focus Points + reduce your current Hit Points to
+  1; Strain doesn't apply — opening this Gate is its own price).* The last lock, and
+  the most terrible. Reducing yourself to 1 HP this way does not trigger
+  death-prevention features. While the Eighth Gate is open:
+  - Your **Speed triples**, you gain a **flying Speed** equal to it, and your Unarmed
+    Strikes **automatically hit**, **critically hit on a roll of 17–20**, and deal an
+    extra **4 MA dice** of Fire damage.
+  - **Night Guy / Evening Elephant.** Once per turn you can spend your whole Attack
+    action on a single, perfect blow. The target (and each creature in a 15-foot-radius
+    Sphere around it) takes **12d12 Force damage**, or **half** on a successful
+    **Constitution save**, and is knocked **Prone** and pushed **30 feet**. Structures
+    and unattended objects in the area are destroyed.
+  - **The Price.** When the Eighth Gate closes, you **drop to 0 Hit Points** and gain
+    **3 levels of Exhaustion**. You survive only if stabilized or healed. You can open
+    the Eighth Gate once per **Long Rest**.
 
 ---
 
 ### Designer notes
 
-- This is a glass-cannon by design. The **Strain** self-damage and the **Eighth
-  Gate's** brutal aftermath are the entire balancing mechanism — never hand-wave
-  them. A party cleric turns this subclass from "suicidal" into "terrifying," which
-  is exactly the source material's dynamic.
-- The Eighth Gate is meant to **end a boss**. Auto-hit, expanded crit, 4 extra MA
-  dice, *and* a 12d12 AoE finisher is more burst than any official Monk — that's the
-  point, and it costs you the encounter afterward.
-- Tuning lever: if dropping to 1 HP to enter is too swingy at your table, instead
-  require spending **half your current HP** (rounded up).
+- Every one of the eight Gates now has a discrete identity, opened in order: **1
+  Opening**, **2 Healing**, **3 Life**, **4 Pain**, **5 Limit**, **6 View**, **7
+  Wonder**, **8 Death** — two unlocked at each of the Monk's subclass tiers (3/6/11/17).
+- The **Strain** ladder (2/4/6/8/10/12/14) is the throttle: reaching the upper Gates
+  in one turn costs a brutal chunk of HP *before* you throw a punch, so a player must
+  weigh how deep to dive each fight. Never hand-wave it — a party healer is what turns
+  this subclass from "suicidal" into "terrifying," exactly the source-material dynamic.
+- Because you open Gates in sequence and pay for each, climbing from cold all the way
+  to **Gate 7** in one turn would cost **15 Focus Points** (1+1+2+2+3+3+3) and a
+  staggering **56 Strain** (2+4+6+8+10+12+14) — usually fatal. The intended play is to
+  open a Gate or two per turn as the fight escalates, not to leap straight to the top.
+- The **Eighth Gate** is meant to *end a boss*: auto-hit, 17–20 crit, +4 MA dice, and a
+  12d12 AoE finisher, paid for by dropping to 0 HP and 3 Exhaustion afterward. That's
+  more burst than any official Monk — the point — and it costs you the rest of the day.
+- Tuning levers: if opening multiple Gates per turn is too punishing (or too easy),
+  cap Gate-opening to **one Gate per turn**; if dropping to 1 HP for Gate 8 is too
+  swingy, instead require spending **half your current HP** (rounded up).
