@@ -80,10 +80,9 @@ point of all the others.*
 - **Final Verdict (active).** As part of the **Attack action**, you can declare a
   single Unarmed Strike a Final Verdict. That attack is **automatically a critical
   hit** if it hits, and on a hit the target must succeed on a **Constitution save**
-  or take an extra **8 MA dice** of damage and be reduced to **0 Hit Points** if this
-  leaves it at a quarter of its maximum HP or below (a clean close to the job). You
-  can use Final Verdict **once per Short or Long Rest for free**; after that, you can
-  use it again by spending **4 Focus Points**.
+  or take an extra **8 MA dice** of damage (a clean close to the job). You can use
+  Final Verdict **once per Short or Long Rest for free**; after that, you can use it
+  again by spending **4 Focus Points**.
 
 ---
 
@@ -96,6 +95,7 @@ point of all the others.*
 - **Reset** at level 11 plus **maximized crit dice** at 17 means crits become both
   self-sustaining and reliably huge — by design, you should *feel* the encounter tilt
   the instant the d20 spikes.
-- Tuning lever: the "reduce to 0 HP" clause on **Final Verdict** is a soft execute.
-  If that's too strong against your bosses, raise the threshold to one-fifth max HP
-  or drop it entirely and keep the 8 MA dice.
+- Tuning lever: **Final Verdict** is an auto-crit delivering maximized weapon dice
+  plus 8 extra MA dice on a failed save — a huge, reliable finisher. If you want it to
+  hit even harder for a marquee boss kill, add a rider (e.g., a short Stun on a failed
+  save) rather than raising the dice further.
