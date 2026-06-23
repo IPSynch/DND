@@ -62,9 +62,8 @@ counting minutes.*
 
 - **Expanded Edge (passive).** You now **critically hit on a roll of 18–20**.
 - **Manifold Cursed Technique.** Once on each of your turns, when you **miss** with
-  an Unarmed Strike, you can spend **1 Focus Point** to **treat the attack as a hit**;
-  if its natural d20 was **17 or higher**, treat it as a **critical hit** instead.
-  The opening was always there.
+  an Unarmed Strike, you can spend **1 Focus Point** to **reroll the attack roll**,
+  using the new result. The opening was always there.
 - **Reset.** Whenever you score a critical hit, you **regain 1 Focus Point** (you
   can't exceed your maximum). Efficiency funds itself.
 
