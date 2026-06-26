@@ -22,8 +22,8 @@ tables. Tune the dice and Sorcery Point costs down a notch if your group runs le
 
 | # | Origin | Concept | Bent |
 |---|--------|---------|------|
-| 1 | [Seismic Sorcery](./subclasses/1-seismic-sorcery.md) | Tremor / quake force (Gura-Gura no Mi) | Offense |
-| 2 | [Ascendant Sorcery](./subclasses/2-ascendant-sorcery.md) | Innate Sorcery, supercharged each tier | Offense |
-| 3 | [Humoral Sorcery](./subclasses/3-humoral-sorcery.md) | The bodily humors & secretions | Offense / Utility |
-| 4 | [Chronomantic Sorcery](./subclasses/4-chronomantic-sorcery.md) | Time, extra Reactions, crowd control | Control |
-| 5 | [Sundering Sorcery](./subclasses/5-sundering-sorcery.md) | Cleave & Dismantle, Magic Missile & Force (Sukuna) | Offense |
+| 1 | [Seismic Sorcery](./subclasses/sorcerer/1-seismic-sorcery.md) | Tremor / quake force (Gura-Gura no Mi) | Offense |
+| 2 | [Ascendant Sorcery](./subclasses/sorcerer/2-ascendant-sorcery.md) | Innate Sorcery, supercharged each tier | Offense |
+| 3 | [Humoral Sorcery](./subclasses/sorcerer/3-humoral-sorcery.md) | The bodily humors & secretions | Offense / Utility |
+| 4 | [Chronomantic Sorcery](./subclasses/sorcerer/4-chronomantic-sorcery.md) | Time, extra Reactions, crowd control | Control |
+| 5 | [Sundering Sorcery](./subclasses/sorcerer/5-sundering-sorcery.md) | Cleave & Dismantle, Magic Missile & Force (Sukuna) | Offense |
