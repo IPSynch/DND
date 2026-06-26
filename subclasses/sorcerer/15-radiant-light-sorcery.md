@@ -26,18 +26,26 @@ you thereafter always have the listed spells prepared.
 You move and strike with the swiftness of light itself. You gain the following
 benefits.
 
-**Lightfoot.** Your Speed increases by 15 feet, and as a Bonus Action you can teleport
-up to 30 feet to an unoccupied space you can see.
+**Lightfoot.** Your Speed increases by 15 feet. While your Innate Sorcery feature is
+active, you can also teleport up to 30 feet to an unoccupied space you can see as a
+Bonus Action.
 
 **Radiance.** Whenever you cast a Sorcerer spell that deals damage, you can change that
 spell's damage type to Radiant.
 
-**Photon Lance.** As a Magic action, you fire a beam of light at a creature within 120
-feet of you (ranged spell attack). On a hit, the target takes Radiant damage equal to
+**Photon Lance.** While your Innate Sorcery feature is active, you can take a Magic
+action to fire a beam of light at a creature within 120 feet of you (ranged spell
+attack). On a hit, the target takes Radiant damage equal to
 your Light die total and, unless it succeeds on a Constitution saving throw against
 your spell save DC, has the Blinded condition until the start of your next turn. Your
 Light die total is **2d8** at level 3, **3d8** at level 7, **4d8** at level 11, and
 **5d8** at level 15.
+
+## Level 3: Lightstep Defense
+
+You drift just out of reach, quick as a sunbeam. While you aren't wearing armor, your
+base Armor Class equals 10 plus your Dexterity modifier plus your Charisma modifier.
+You can use a Shield and still gain this benefit.
 
 ## Level 6: Faster Than Sight
 
@@ -46,8 +54,8 @@ You act before others can react. You gain the following benefits.
 **Always First.** You have Advantage on Initiative rolls, you can't be Surprised, and
 your teleport from Lightfoot can be used twice on each of your turns.
 
-**Blink Step.** Immediately after you cast a Sorcerer spell, you can teleport up to 15
-feet (no action required).
+**Blink Step.** While your Innate Sorcery feature is active, immediately after you cast
+a Sorcerer spell, you can teleport up to 15 feet (no action required).
 
 **Searing Speed.** While your Innate Sorcery feature is active, your Radiant damage
 ignores Resistance, and the first time on each of your turns that you deal Radiant

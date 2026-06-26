@@ -44,6 +44,12 @@ the end of its next turn; on a success, it takes half as much damage. Your Begui
 total is **2d8** at level 3, **3d8** at level 7, **4d8** at level 11, and **5d8** at level
 15.
 
+## Level 3: Beguiling Grace
+
+Foes hesitate to strike something so captivating. While you aren't wearing armor, your
+base Armor Class equals 10 plus your Dexterity modifier plus your Charisma modifier. You
+can use a Shield and still gain this benefit.
+
 ## Level 6: Overwhelming Mind
 
 Your psychic power becomes difficult to ward against. You gain the following benefits.

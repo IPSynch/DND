@@ -54,6 +54,12 @@ You can use this feature a number of times equal to your Charisma modifier (mini
 of once), and you regain all expended uses when you finish a Long Rest. You can also
 activate it by spending 2 Sorcery Points.
 
+## Level 3: Sorcerous Footwork
+
+Your battle-dance turns aside blades as readily as your spells. While you aren't wearing
+armor, your base Armor Class equals 10 plus your Dexterity modifier plus your Charisma
+modifier. You can use a Shield and still gain this benefit.
+
 ## Level 6: Extra Attack and War Magic
 
 Your strikes and spells reinforce each other. You gain the following benefits.

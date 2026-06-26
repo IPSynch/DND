@@ -46,6 +46,12 @@ against your spell save DC, taking 1d4 + 1 Force damage for each slash the casti
 would have produced on a failed save, or half as much on a successful one. All
 slashes are spent on the sweep.
 
+## Level 3: Cutting Poise
+
+You read the grain of every attack and angle away from it. While you aren't wearing
+armor, your base Armor Class equals 10 plus your Dexterity modifier plus your Charisma
+modifier. You can use a Shield and still gain this benefit.
+
 ## Level 6: Honed Edge
 
 Your cuts grow deeper and quicker. You gain the following benefits.

@@ -42,6 +42,12 @@ You can use Time Skip a number of times equal to your Charisma modifier (minimum
 once), and you regain all expended uses when you finish a Long Rest. You can also
 use it by spending 1 Sorcery Point.
 
+## Level 3: Temporal Reflexes
+
+You slip a half-second aside from every blow. While you aren't wearing armor, your base
+Armor Class equals 10 plus your Dexterity modifier plus your Charisma modifier. You can
+use a Shield and still gain this benefit.
+
 ## Level 6: Accelerated Existence
 
 Your personal clock runs fast, and you can drag others' clocks to a crawl. You gain

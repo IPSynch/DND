@@ -41,6 +41,12 @@ levels: it is **2d8** at level 3, **3d8** at level 7, **4d8** at level 11, and
 Large or smaller nonmagical object or creature's Hit Point maximum to 0, it crumbles
 to fine dust.
 
+## Level 3: Entropic Evasion
+
+Attacks decay to nothing before they land. While you aren't wearing armor, your base
+Armor Class equals 10 plus your Dexterity modifier plus your Charisma modifier. You can
+use a Shield and still gain this benefit.
+
 ## Level 6: Accelerated Decay
 
 Ruin spreads from your spells like rot through fruit. You gain the following benefits.

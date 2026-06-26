@@ -41,6 +41,12 @@ save (half as much on a success) and having the Restrained condition until the e
 its next turn on a failure. Your Frost die total is **2d8** at level 3, **3d8** at level
 7, **4d8** at level 11, and **5d8** at level 15.
 
+## Level 3: Frostplate
+
+A rime of ice plates your skin. While you aren't wearing armor, your base Armor Class
+equals 10 plus your Constitution modifier plus your Charisma modifier. You can use a
+Shield and still gain this benefit.
+
 ## Level 6: Deep Freeze
 
 The cold you command grows merciless. You gain the following benefits.

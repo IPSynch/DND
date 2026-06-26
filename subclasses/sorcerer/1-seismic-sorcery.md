@@ -42,6 +42,12 @@ smaller.
 result of a target having the Prone condition; you feel its exact position through
 the ground.
 
+## Level 3: Stoneflesh
+
+Your body is as dense and steady as bedrock. While you aren't wearing armor, your base
+Armor Class equals 10 plus your Constitution modifier plus your Charisma modifier. You
+can use a Shield and still gain this benefit.
+
 ## Level 6: Aftershock
 
 You learn to chain a tremor onto your spells and to vent raw seismic pressure. You

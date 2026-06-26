@@ -38,6 +38,12 @@ aura or Emanation, you can choose any number of creatures within it; your spirit
 never harm those creatures, and each of them gains Temporary Hit Points equal to your
 Charisma modifier at the start of each of its turns spent within the area.
 
+## Level 3: Warding Spirits
+
+Attendant spirits turn aside blows meant for you. While you aren't wearing armor, your
+base Armor Class equals 10 plus your Constitution modifier plus your Charisma modifier.
+You can use a Shield and still gain this benefit.
+
 ## Level 6: Empowered Spirits
 
 Your spirits strike harder and hold the line. While you are concentrating on *Spirit

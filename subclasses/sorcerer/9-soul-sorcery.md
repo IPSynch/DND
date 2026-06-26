@@ -57,6 +57,12 @@ Homunculus lasts for 1 hour, until it drops to 0 Hit Points, or until you dismis
 > Melee attack roll using your spell attack modifier, reach 5 ft. *Hit:* 1d8 plus your
 > Charisma modifier Force damage.
 
+## Level 3: Soul-Wrought Resilience
+
+The souls you command knit themselves into a living ward. While you aren't wearing armor,
+your base Armor Class equals 10 plus your Constitution modifier plus your Charisma
+modifier. You can use a Shield and still gain this benefit.
+
 ## Level 6: Soul Harvest
 
 Your hold over souls grows, and your servants strike harder. You gain the following

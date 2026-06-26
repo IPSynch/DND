@@ -42,6 +42,12 @@ interchangeably. It can't act on its own without your command.
 **Guardian.** When you take damage while the spirit is within 10 feet of you, you can
 take a Reaction to have the spirit take that damage instead.
 
+## Level 3: Spirit-Guarded
+
+Your bound spirit deflects what blows it can. While you aren't wearing armor, your base
+Armor Class equals 10 plus your Dexterity modifier plus your Charisma modifier. You can
+use a Shield and still gain this benefit.
+
 ## Level 6: Surging Bond
 
 Your spirit answers your power. You gain the following benefits.

@@ -49,6 +49,12 @@ amount is your **Demon die total**.
   on each of your turns when you deal damage with a Sorcerer spell or a claw attack,
   you deal extra Necrotic damage equal to your Charisma modifier.
 
+## Level 3: Demonic Hide
+
+Demonic flesh hardens against harm even in your mortal shape. While you aren't wearing
+armor, your base Armor Class equals 10 plus your Constitution modifier plus your Charisma
+modifier. You can use a Shield and still gain this benefit.
+
 ## Level 6: Greater Takeover
 
 Your command over demon souls deepens. You gain the following benefits.

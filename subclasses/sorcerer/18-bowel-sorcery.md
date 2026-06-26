@@ -110,6 +110,12 @@ Sorcery Points, so you can fuel these maneuvers all day instead of casting spell
   (half as much on a success) and having the Poisoned and Blinded conditions until the end
   of its next turn on a failure.
 
+## Level 3: Bloated Hide
+
+Your gut is thick, distended, and remarkably hard to pierce. While you aren't wearing
+armor, your base Armor Class equals 10 plus your Constitution modifier plus your Charisma
+modifier. You can use a Shield and still gain this benefit.
+
 ## Level 6: Jet Propulsion
 
 Your bowels become both engine and weapon. You gain the following benefits.

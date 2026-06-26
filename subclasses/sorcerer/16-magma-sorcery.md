@@ -38,6 +38,12 @@ and the space it occupies becomes a pool of lava (see Lava Fields). Your Magma d
 total is **2d8** at level 3, **3d8** at level 7, **4d8** at level 11, and **5d8** at
 level 15.
 
+## Level 3: Molten Hide
+
+A crust of cooling rock sheathes your body. While you aren't wearing armor, your base
+Armor Class equals 10 plus your Constitution modifier plus your Charisma modifier. You
+can use a Shield and still gain this benefit.
+
 ## Level 6: Eruption
 
 You turn the battlefield itself into a furnace. You gain the following benefits.

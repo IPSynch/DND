@@ -50,6 +50,12 @@ reactivate Innate Sorcery.
   and can target creatures or objects in a 10-foot Cube on a hit (each makes a
   Dexterity saving throw against your spell save DC for half).
 
+## Level 3: Elastic Defense
+
+Your rubbery body bounces away what would strike you. While you aren't wearing armor,
+your base Armor Class equals 10 plus your Dexterity modifier plus your Charisma modifier.
+You can use a Shield and still gain this benefit.
+
 ## Level 6: Limber Power
 
 Your body bends the rules of battle. While your Innate Sorcery feature is active, you

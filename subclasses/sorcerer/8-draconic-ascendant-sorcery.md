@@ -43,6 +43,12 @@ the feature's duration. While in this form, you gain the following benefits:
   chosen damage type, you can deal extra damage of that type equal to your Charisma
   modifier.
 
+## Level 3: Draconic Hide
+
+Dragon scales harden beneath your skin. While you aren't wearing armor, your base Armor
+Class equals 10 plus your Constitution modifier plus your Charisma modifier. You can use
+a Shield and still gain this benefit.
+
 ## Level 6: Greater Draconic Form
 
 Your ascended form grows larger and more dangerous. While in your Draconic Form, you

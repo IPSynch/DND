@@ -37,6 +37,12 @@ Points equal to twice your Sorcerer level (these are granted, and refreshed, eac
 time you activate the feature), and your Sorcerer cantrips deal an extra 1d8
 damage of the cantrip's type.
 
+## Level 3: Burning Vitality
+
+Raw magic surges beneath your skin, turning aside what would harm you. While you aren't
+wearing armor, your base Armor Class equals 10 plus your Constitution modifier plus your
+Charisma modifier. You can use a Shield and still gain this benefit.
+
 ## Level 6: Overflowing Aura
 
 Your active power spills outward as a visible nimbus of raw magic. While your
