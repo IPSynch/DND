@@ -34,10 +34,11 @@ the feature's duration. While in this form, you gain the following benefits:
 - You gain Temporary Hit Points equal to twice your Sorcerer level (refreshed each
   time you activate Innate Sorcery).
 - You sprout wings and gain a Fly Speed equal to your Speed.
-- You grow natural weapons. You can make an unarmed strike as part of the Bonus
-  Action used to activate Innate Sorcery, and your unarmed strikes deal 1d10 plus
-  your Charisma modifier damage of your chosen type (Slashing for the claws is also
-  permitted) and count as magical.
+- You grow natural weapons. Your unarmed strikes deal 1d10 plus your Charisma
+  modifier damage of your chosen type (or Slashing, for raking claws) and count as
+  magical. On each of your turns, you can make an unarmed strike using either a Bonus
+  Action or an action, interchangeably (and when you take the Attack action, you can
+  make unarmed strikes).
 - Once on each of your turns when you deal damage with a Sorcerer spell of your
   chosen damage type, you can deal extra damage of that type equal to your Charisma
   modifier.
@@ -50,8 +51,9 @@ gain the following benefits.
 **Towering Size.** Your size becomes Large (if it wasn't already), you have Advantage
 on Strength checks and Strength saving throws, and your reach increases by 5 feet.
 
-**Rending Multiattack.** When you take the Attack action, you can make two unarmed
-strikes with your natural weapons.
+**Rending Multiattack.** When you use your action to make unarmed strikes with your
+natural weapons, you make two instead of one. When you instead make an unarmed strike
+as a Bonus Action, you make one.
 
 **Breath Weapon.** As a Magic action, you exhale destructive energy in a 30-foot
 Cone or a 60-foot Line that is 5 feet wide (your choice). Each creature in that area

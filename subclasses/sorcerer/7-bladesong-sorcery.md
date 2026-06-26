@@ -50,9 +50,9 @@ While your Bladesong is active, you gain the following benefits:
 - You gain a bonus to any Constitution saving throw you make to maintain
   Concentration; the bonus equals your Charisma modifier.
 
-You can use this feature a number of times equal to your proficiency bonus, and you
-regain all expended uses when you finish a Long Rest. You can also activate it by
-spending 2 Sorcery Points.
+You can use this feature a number of times equal to your Charisma modifier (minimum
+of once), and you regain all expended uses when you finish a Long Rest. You can also
+activate it by spending 2 Sorcery Points.
 
 ## Level 6: Extra Attack and War Magic
 
@@ -61,21 +61,20 @@ Your strikes and spells reinforce each other. You gain the following benefits.
 **Extra Attack.** You can attack twice, instead of once, whenever you take the
 Attack action on your turn.
 
-**Sorcerous Strike.** Once on each of your turns when you hit a creature with a
-weapon attack, you can spend 1 Sorcery Point to deal an extra 2d8 Force damage. This
-extra damage increases to 3d8 at Sorcerer level 11 and 4d8 at level 17.
+**Sorcerous Strike.** Whenever you hit a creature with a weapon attack, you can
+spend 1 Sorcery Point to deal an extra 2d8 Force damage. This extra damage increases
+to 3d8 at Sorcerer level 11 and 4d8 at level 17.
 
-**Quickened Blade.** While your Bladesong is active, when you cast a Sorcerer cantrip
+**Quickened Blade.** While your Bladesong is active, when you cast a Sorcerer spell
 that has a casting time of an action, you can make one weapon attack as a Bonus
 Action.
 
 ## Level 14: Song of Defense
 
-The magic of your Bladesong can be drawn upon to absorb harm. While your Bladesong
-is active, when you take damage, you can take a Reaction to reduce that damage by
-twice the number of Sorcery Points you spend (to a maximum of 10 points spent). In
-addition, while your Bladesong is active you have Resistance to Force damage and
-Advantage on saving throws against spells.
+The magic of your Bladesong can be drawn upon to turn aside harm. When you take
+damage, you can take a Reaction to reduce that damage by 1d10 plus your Charisma
+modifier plus your Sorcerer level. In addition, while your Bladesong is active, you
+have Resistance to Force damage and Advantage on saving throws against spells.
 
 ## Level 18: Blade Ascendant
 

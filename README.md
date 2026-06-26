@@ -1,6 +1,6 @@
 # Homebrew Sorcerer Subclasses (D&D 2024 / 5.5e)
 
-Ten original Sorcerous Origins built on the 2024 *Player's Handbook* chassis.
+Nineteen original Sorcerous Origins built on the 2024 *Player's Handbook* chassis.
 Each grants features at **Sorcerer levels 3, 6, 14, and 18**, matching the
 official 2024 subclass cadence, and each includes an always-prepared
 **subclass spell list** that grows at sorcerer levels 3, 5, 7, and 9.
@@ -18,7 +18,7 @@ tables. Tune the dice and Sorcery Point costs down a notch if your group runs le
 - Features that grant extra uses, durations, or Metamagic stack with the base class
   and with **Arcane Apotheosis** (level 20) unless noted.
 
-## The ten origins
+## The nineteen origins
 
 | # | Origin | Concept | Bent |
 |---|--------|---------|------|
@@ -32,3 +32,12 @@ tables. Tune the dice and Sorcery Point costs down a notch if your group runs le
 | 8 | [Draconic Ascendant Sorcery](./subclasses/sorcerer/8-draconic-ascendant-sorcery.md) | Transform into a dragon via Innate Sorcery (Kaido) | Offense |
 | 9 | [Soul Sorcery](./subclasses/sorcerer/9-soul-sorcery.md) | Animate objects with stolen souls (Big Mom) | Summoner / Control |
 | 10 | [Hallowed Sorcery](./subclasses/sorcerer/10-hallowed-sorcery.md) | Auras & supercharged *Spirit Guardians* | Support / Offense |
+| 11 | [Decay Sorcery](./subclasses/sorcerer/11-decay-sorcery.md) | Disintegration & entropy (Gildarts / Shigaraki) | Offense |
+| 12 | [Freedom Sorcery](./subclasses/sorcerer/12-freedom-sorcery.md) | Rubber body & Gear transformations (Luffy) | Melee / Offense |
+| 13 | [Bound Spirit Sorcery](./subclasses/sorcerer/13-bound-spirit-sorcery.md) | A bound cursed spirit companion (Yuuta & Rika) | Summoner / Offense |
+| 14 | [Demonic Soul Sorcery](./subclasses/sorcerer/14-demonic-soul-sorcery.md) | Demon Takeover forms (Mirajane) | Versatile / Offense |
+| 15 | [Radiant Light Sorcery](./subclasses/sorcerer/15-radiant-light-sorcery.md) | Light-speed mobility & Radiant blasts (Kizaru) | Offense / Mobility |
+| 16 | [Magma Sorcery](./subclasses/sorcerer/16-magma-sorcery.md) | Lava & absolute heat (Akainu) | Offense |
+| 17 | [Glacial Sorcery](./subclasses/sorcerer/17-glacial-sorcery.md) | Ice, freezing & control (Aokiji) | Control / Offense |
+| 18 | [Bowel Sorcery](./subclasses/sorcerer/18-bowel-sorcery.md) | Farts & filth — Poison/Necrotic, gas-jet flight | Offense / Control |
+| 19 | [Beguiling Sorcery](./subclasses/sorcerer/19-beguiling-sorcery.md) | Psychic allure, charm & paralysis | Control / Offense |

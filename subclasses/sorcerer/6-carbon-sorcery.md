@@ -25,9 +25,10 @@ thereafter always have the listed spells prepared.
 
 Your flesh crystallizes into a living lattice. While you aren't wearing armor, your
 base Armor Class equals 13 plus your Charisma modifier, and you can use a Shield and
-still gain this benefit. In addition, whenever you take the Dodge action, you have
-Resistance to Bludgeoning, Piercing, and Slashing damage until the start of your
-next turn.
+still gain this benefit. While your Innate Sorcery feature is active, that base Armor
+Class instead equals 13 plus your Constitution modifier plus your Charisma modifier.
+In addition, whenever you take the Dodge action, you have Resistance to Bludgeoning,
+Piercing, and Slashing damage until the start of your next turn.
 
 ## Level 3: Allotropes
 
