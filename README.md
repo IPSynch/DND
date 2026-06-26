@@ -22,15 +22,15 @@ tables. Tune the dice and Sorcery Point costs down a notch if your group runs le
 
 | # | Origin | Concept | Bent |
 |---|--------|---------|------|
-| 1 | [Seismic Sorcery](./subclasses/sorcerer/1-seismic-sorcery.md) | Tremor / quake force (Gura-Gura no Mi) | Offense |
-| 2 | [Ascendant Sorcery](./subclasses/sorcerer/2-ascendant-sorcery.md) | Innate Sorcery, supercharged each tier | Offense |
-| 3 | [Humoral Sorcery](./subclasses/sorcerer/3-humoral-sorcery.md) | The bodily humors & secretions | Offense / Utility |
-| 4 | [Chronomantic Sorcery](./subclasses/sorcerer/4-chronomantic-sorcery.md) | Time, extra Reactions, crowd control | Control |
-| 5 | [Sundering Sorcery](./subclasses/sorcerer/5-sundering-sorcery.md) | Cleave & Dismantle, Magic Missile & Force (Sukuna) | Offense |
-| 6 | [Carbon Sorcery](./subclasses/sorcerer/6-carbon-sorcery.md) | Carbon allotropes — diamond, ember, glue, protein | Tank / Versatile |
-| 7 | [Bladesong Sorcery](./subclasses/sorcerer/7-bladesong-sorcery.md) | Sword-and-spell gish, Bladesinger for sorcerers | Melee / Offense |
-| 8 | [Draconic Ascendant Sorcery](./subclasses/sorcerer/8-draconic-ascendant-sorcery.md) | Transform into a dragon via Innate Sorcery (Kaido) | Offense |
-| 9 | [Soul Sorcery](./subclasses/sorcerer/9-soul-sorcery.md) | Animate objects with stolen souls (Big Mom) | Summoner / Control |
+| 01 | [Seismic Sorcery](./subclasses/sorcerer/01-seismic-sorcery.md) | Tremor / quake force (Gura-Gura no Mi) | Offense |
+| 02 | [Ascendant Sorcery](./subclasses/sorcerer/02-ascendant-sorcery.md) | Innate Sorcery, supercharged each tier | Offense |
+| 03 | [Humoral Sorcery](./subclasses/sorcerer/03-humoral-sorcery.md) | The bodily humors & secretions | Offense / Utility |
+| 04 | [Chronomantic Sorcery](./subclasses/sorcerer/04-chronomantic-sorcery.md) | Time, extra Reactions, crowd control | Control |
+| 05 | [Sundering Sorcery](./subclasses/sorcerer/05-sundering-sorcery.md) | Cleave & Dismantle, Magic Missile & Force (Sukuna) | Offense |
+| 06 | [Carbon Sorcery](./subclasses/sorcerer/06-carbon-sorcery.md) | Carbon allotropes — diamond, ember, glue, protein | Tank / Versatile |
+| 07 | [Bladesong Sorcery](./subclasses/sorcerer/07-bladesong-sorcery.md) | Sword-and-spell gish, Bladesinger for sorcerers | Melee / Offense |
+| 08 | [Draconic Ascendant Sorcery](./subclasses/sorcerer/08-draconic-ascendant-sorcery.md) | Transform into a dragon via Innate Sorcery (Kaido) | Offense |
+| 09 | [Soul Sorcery](./subclasses/sorcerer/09-soul-sorcery.md) | Animate objects with stolen souls (Big Mom) | Summoner / Control |
 | 10 | [Hallowed Sorcery](./subclasses/sorcerer/10-hallowed-sorcery.md) | Auras & supercharged *Spirit Guardians* | Support / Offense |
 | 11 | [Decay Sorcery](./subclasses/sorcerer/11-decay-sorcery.md) | Disintegration & entropy (Gildarts / Shigaraki) | Offense |
 | 12 | [Freedom Sorcery](./subclasses/sorcerer/12-freedom-sorcery.md) | Rubber body & Gear transformations (Luffy) | Melee / Offense |
