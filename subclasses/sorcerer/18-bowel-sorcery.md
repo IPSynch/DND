@@ -2,11 +2,12 @@
 
 *Magic of the Gut, the Bowels, and the Anus*
 
-Your power comes out the back. You weaponize your own farts and feces—jets of foul gas,
-sprays of filth, blasts strong enough to lift you off the ground. It is disgusting, it
-is undignified, and it is genuinely deadly: the gut is full of rot, and rot, channeled
-by a sorcerer, kills as surely as any blade. Better still, none of it requires a single
-spell—just the contents of your bowels and the Sorcery Points to shape them.
+Your power comes out of your ass. Farts, shit, and the rancid gas your gut has been
+brewing—you weaponize all of it. You blast it in clouds, spray it in sheets, and jet it
+hard enough to fly. It's vile, it's humiliating, and it drops bodies dead: your bowels
+are a swamp of rot, and rot, in a sorcerer's hands, kills as fast as any blade. Best
+part—you never need to cast a damn spell. Just a full gut and the Sorcery Points to let
+it rip.
 
 ## Level 3: Bowel Sorcery Spells
 

@@ -2,13 +2,14 @@
 
 *Magic Drawn from the Body's Own Fluids*
 
-The old physicians swore the body held four humors—blood, phlegm, yellow bile, and
-black bile—and that health was their balance. You learned the practical lesson
-buried under the theory: every fluid your body makes is power. You bleed to heal
-yourself, flood the ground with sweat, mucus, and urine, spray caustic bile that
-eats armor down to rust, and loose the gas of your own gut as a choking cloud—all
-while wreathed in a scent that draws allies close and turns the stomachs of your
-foes.
+Four humors, the old quacks said—blood, phlegm, yellow bile, black bile—and health
+was keeping them balanced. You learned the part they were too squeamish to say out
+loud: every disgusting thing your body squeezes out is a weapon. You bleed and the
+wound feeds you. You hose the floor down with sweat, snot, and piss until nobody can
+keep their footing. You spit acid bile that chews armor into rust. You let the gas
+out of your gut as a cloud thick enough to choke a horse. And the whole time you
+reek so good your friends crowd in close while your enemies gag on it. It's
+revolting. It also works.
 
 ## Level 3: Humoral Sorcery Spells
 
@@ -45,8 +46,8 @@ The damage of these effects increases as you gain Sorcerer levels: it is **2d8**
 level 3, **3d8** at level 7, **4d8** at level 11, and **5d8** at level 15. This
 amount is referred to below as your **Humoral damage**.
 
-***Sanguine (Blood).*** Your veins open without harming you, and the spilled blood
-feeds you back.
+***Sanguine (Blood).*** You open your own veins without flinching, and every drop you
+spill comes straight back into you.
 
 - **Burst (1 Sorcery Point).** Until the end of your turn, whenever you deal damage
   with a Sorcerer spell, you regain Hit Points equal to your Charisma modifier
@@ -56,8 +57,8 @@ feeds you back.
   spell), and you regain Hit Points equal to your Charisma modifier at the start of
   each of your turns.
 
-***Phlegm (Mucus, Sweat, and Urine).*** You drench the ground in slick fluid that
-sweeps enemies off their feet.
+***Phlegm (Mucus, Sweat, and Urine).*** You sweat, drool, and piss out a slick film
+that yanks the ground out from under anyone standing in it.
 
 - **Burst (1 Sorcery Point).** A 15-foot Emanation of slick fluid spreads from you
   until the start of your next turn. The area is Difficult Terrain for creatures of
@@ -74,8 +75,8 @@ sweeps enemies off their feet.
   Bludgeoning damage and gaining the Prone condition on a failed save. A creature
   makes this save only once per turn.
 
-***Yellow Bile (Stomach Bile and Acrid Urine).*** You spray a sticky, corrosive
-stream that burns flesh and rots armor.
+***Yellow Bile (Stomach Bile and Acrid Urine).*** You spew a stream of gut-acid and
+stinging piss that burns flesh and eats armor off the body.
 
 - **Burst (1 Sorcery Point).** Each creature in a 15-foot Cone makes a Dexterity
   saving throw, taking your Humoral damage as Acid damage on a failed save, or half
@@ -97,8 +98,8 @@ stream that burns flesh and rots armor.
 > Defense–style feature, the reduction lasts until the creature finishes a Short or
 > Long Rest. Repeated reductions stack, to a maximum total penalty of −5.
 
-***Black Bile (Gut Gas and Filth).*** You loose the gas and filth of your gut as a
-reeking, clinging fog.
+***Black Bile (Gut Gas and Filth).*** You let the rot and gas of your bowels out as a
+thick, clinging fog that crawls down throats.
 
 - **Burst (1 Sorcery Point).** A 10-foot-radius Sphere of stench appears, centered
   on you or a point within 30 feet of yourself, until the start of your next turn.

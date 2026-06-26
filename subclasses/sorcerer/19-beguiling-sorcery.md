@@ -2,10 +2,12 @@
 
 *Magic of Irresistible Allure*
 
-Your magic works on the mind and the heart. A glance leaves enemies dazed and pliant; a
-whispered word turns a foe's will against itself; and those who fall under your spell
-cannot bring themselves to break free, even as your power burns through their thoughts.
-Few can resist you, and fewer still want to.
+You crawl into people's heads and make yourself at home. One look leaves an enemy
+slack-jawed and stupid; one whispered word turns them on whoever's standing next to
+them; and once you've sunk your hooks in, they can't shake you loose—burn through their
+thoughts all you like, they just keep adoring you for it. You don't really beat your
+enemies. You make them forget they ever wanted to fight you, right up until it's too
+damn late.
 
 ## Level 3: Beguiling Sorcery Spells
 
