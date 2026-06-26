@@ -1,109 +1,106 @@
 # Warrior of the Awakening Gears
 
-*Monastic Order — Offense / Transformation*
+*Monk Subclass*
 
-> Your body was never quite bound by the rules everyone else obeys. It stretches,
-> rebounds, and inflates; it laughs at the shapes a body is supposed to keep. With
-> a breath you stoke the furnace in your chest and *shift gears* — pumping your
-> blood hotter, ballooning your limbs, bouncing off the very air — until at the
-> highest gear you stop fighting the world's rules altogether and simply make up
-> your own. In that final, joyous state, the ground turns to rubber, the sky is a
-> thing you can punch, and nothing about you is serious except the grin.
+Some bodies refuse the rules that bind everyone else. Yours stretches and rebounds,
+inflates and recoils, and laughs at the shape a person is supposed to keep. Warriors
+of the Awakening Gears stoke the furnace of their own heartbeat and *shift gears* —
+pumping the blood hotter, ballooning their limbs, bouncing off the very air — climbing
+through escalating states of power. At the height of the discipline you stop straining
+against the world's rules and simply impose your own: ground turns to rubber, the sky
+becomes a thing you can punch, and the battle becomes a game only you know how to play.
 
-A transformation bruiser inspired by the **Gears** of a rubber-bodied liberator.
-You spend Focus Points to enter escalating **Gear** states, each one a strictly
-better engine than the last, culminating in a reality-bending **Awakened** form.
+*Throughout these features, your **Monk DC** equals 8 + your Proficiency Bonus + your
+Wisdom modifier, and "Martial Arts die" refers to your current Martial Arts die. You
+spend **Focus Points** (called Ki in some traditions). A **Gear** is a special stance;
+you can have only one Gear active at a time, and entering or switching Gears costs a
+Bonus Action.*
 
-> **Conventions.** A **Gear** is a stance. You can have only one Gear active at a
-> time, and entering or switching Gears is a **Bonus Action**. Gears last **1 minute**,
-> require no Concentration, and end early at no cost. "MA die" means your **Martial
-> Arts die**. Save DCs are your **Monk DC** (8 + Proficiency + Wisdom modifier).
+## Level 3: Rubber Frame and Gear Second
+
+Your body bends where others break, and you master the first trick of your art: drive
+the blood faster, and flesh becomes a machine.
+
+***Rubber Frame.*** You have Resistance to Bludgeoning and Lightning damage, and you
+have Advantage on ability checks and saving throws you make to avoid or end the
+Grappled and Restrained conditions.
+
+***Gear Second.*** As a Bonus Action, you can spend 1 Focus Point to enter Gear Second.
+This stance lasts for 1 minute. It ends early if you fall Unconscious, if you end it
+(no action required), or if you enter a different Gear. While in Gear Second:
+
+- Your Speed increases by 15 feet.
+- When you take the Attack action, you can make one additional Unarmed Strike as part
+  of that action.
+- Once per turn, when you hit a creature with an Unarmed Strike, it takes extra damage
+  equal to one roll of your Martial Arts die.
+
+## Level 6: Gear Third and Gear Shift
+
+You learn to inflate not only yourself but your reach, and to flow between Gears
+without breaking stride.
+
+***Gear Shift.*** When you use a Bonus Action to enter a Gear, you can instead switch
+directly to a different Gear you know. In addition, the first Gear you enter on each of
+your turns after you roll Initiative costs no Focus Points.
+
+***Gear Third.*** As a Bonus Action, you can spend 2 Focus Points to enter Gear Third,
+swelling a limb to tremendous size. This stance lasts for 1 minute and ends under the
+same conditions as Gear Second. While in Gear Third:
+
+- Your reach with Unarmed Strikes increases by 10 feet, and they deal extra damage
+  equal to one roll of your Martial Arts die.
+- When you hit a Large or smaller creature with an Unarmed Strike, it must succeed on a
+  Strength saving throw or be pushed up to 15 feet away from you and knocked Prone.
+- Once per turn, an Unarmed Strike you make can instead target every creature in a
+  5-foot-wide, 30-foot-long Line, making one attack roll against each.
+
+## Level 11: Gear Fourth
+
+You stop standing on the ground; it was only ever slowing you down. Wreathed in
+hardened resolve, you rebound off air, water, and empty space as though each were solid.
+
+As a Bonus Action, you can spend 3 Focus Points to enter Gear Fourth. This stance lasts
+for 1 minute and ends under the same conditions as Gear Second. While in Gear Fourth:
+
+- You gain a Fly Speed equal to your Speed and can hover.
+- Your Speed increases by 20 feet, and you have Advantage on attack rolls with Unarmed
+  Strikes.
+- Your Flurry of Blows makes three Unarmed Strikes instead of two.
+- The first time you hit a creature on each of your turns, it can't take Reactions until
+  the start of its next turn.
+
+## Level 17: Gear Five — Awakening
+
+The drums of liberation sound, and you stop obeying the rules of how a body, a battle,
+or a world is supposed to behave. The world, as if delighted, plays along.
+
+As a Bonus Action, you can spend 6 Focus Points to enter your Awakened form. This stance
+lasts for 1 minute. It ends early if you fall Unconscious or if you end it (no action
+required). You can enter this form once without spending Focus Points, and you regain
+that free use when you finish a Long Rest. While Awakened:
+
+- You can become Large (if you wish), you have Resistance to all damage, and your Speed
+  doubles, gaining a Fly Speed equal to it.
+- Your Unarmed Strikes score a critical hit on a roll of 18–20 and deal extra damage
+  equal to two rolls of your Martial Arts die.
+- You can use Flurry of Blows without spending a Focus Point.
+- ***Liberation.*** When you hit a creature with an Unarmed Strike, you can apply one of
+  the following effects: fling the target up to 20 feet; knock it Prone; or force it to
+  make a Constitution saving throw, and on a failure it has the Stunned condition until
+  the end of your next turn. You can also reshape terrain you touch into a cartoon of
+  itself — turning ground to bouncing rubber (Difficult Terrain), batting away a ranged
+  attack, or stretching a surface flat.
+- At the start of each of your turns, you regain Hit Points equal to your Monk level.
+
+When this form ends, you have one level of Exhaustion.
 
 ---
 
-## Rubber Frame & Gear Second (Level 3)
+### Designer Notes
 
-*You learned the first trick young: pump the blood, and a body becomes a machine.*
-
-- **Rubber Frame (passive).** You have **Resistance to Bludgeoning and Lightning**
-  damage, and you have **Advantage on checks and saves to escape or avoid being
-  Grappled or Restrained**. Your joints don't break the way other people's do.
-- **Gear Second.** As a **Bonus Action**, spend **1 Focus Point** to enter Gear
-  Second. While it lasts: your **Speed increases by 15 feet**; when you take the
-  **Attack action**, you can make **one additional Unarmed Strike** as part of it;
-  and **once per turn** you deal an extra **MA die** of damage with an Unarmed
-  Strike (the steam-blur of a fist moving faster than the eye).
-
----
-
-## Gear Third & Gear Shift (Level 6)
-
-*Air is just another thing to inflate.*
-
-- **Gear Shift (passive).** When you spend a Bonus Action to enter a Gear, you may
-  instead **switch** to any other Gear you know. The first Gear you enter on each
-  of your turns after rolling Initiative costs **no Focus Points**.
-- **Gear Third.** As a **Bonus Action**, spend **2 Focus Points** to enter Gear
-  Third, ballooning a limb to enormous size. While it lasts: your Unarmed Strikes
-  gain **+10 feet of reach** and deal an extra **MA die**; and when you hit a Large
-  or smaller creature, it must succeed on a **Strength save** or be knocked
-  **Prone** and pushed up to **15 feet** away. Once per turn, one Unarmed Strike can
-  instead strike **every creature in a 5-foot-wide, 30-foot Line**, rolling the
-  attack once against each.
-
----
-
-## Gear Fourth (Level 11)
-
-*You stopped standing on the ground. The ground was holding you back.*
-
-As a **Bonus Action**, spend **3 Focus Points** to enter Gear Fourth, coating
-yourself in armament and bouncing free of gravity. While it lasts:
-
-- You gain a **flying Speed equal to your Speed** and can **hover**; you bounce off
-  the air, water, and empty space as if they were solid.
-- Your **Speed increases by 20 feet** and you have **Advantage on attack rolls**
-  with Unarmed Strikes.
-- **Flurry of Blows** makes **three** Unarmed Strikes instead of two.
-- The first time each turn you hit a creature, it can't take **Reactions** until
-  the start of its next turn (it can't track a target ricocheting off nothing).
-
----
-
-## Gear Five — Awakening (Level 17)
-
-*The drums of liberation. You stop obeying the rules of how a body, or a battle, or
-the world is supposed to work — and the world, laughing, plays along.*
-
-As a **Bonus Action**, spend **6 Focus Points** to Awaken for **1 minute** (no
-Concentration). While Awakened:
-
-- You become **Large** (if you wish), you have **Resistance to all damage**, and
-  your **Speed doubles**, including a flying Speed.
-- Your Unarmed Strikes score a **critical hit on a roll of 18–20** and deal an
-  extra **2 MA dice**.
-- **You can use Flurry of Blows without spending a Focus Point.**
-- **Liberation.** When you hit a creature with an Unarmed Strike, you may apply one
-  effect: fling it up to **20 feet**, knock it **Prone**, or force a **Constitution
-  save** or it is **Stunned** until the end of your next turn. You can also reshape
-  terrain you touch — turning ground rubbery (Difficult Terrain), bouncing back a
-  ranged attack, or stretching a wall flat.
-- At the **start of each of your turns**, you **regain Hit Points equal to your monk
-  level**.
-
-When Awakening ends, you gain **1 level of Exhaustion**. You can Awaken once per
-**Long Rest** for free; afterward you may Awaken again by spending **6 Focus Points**
-as above.
-
----
-
-### Designer notes
-
-- The Gears are deliberately a "strictly upgrade as you climb" ladder, but the free
-  Gear-entry each turn (level 6) is what keeps the engine humming without draining
-  your whole pool. Below level 6, budget 1–2 FP per fight to stay in Gear Second.
-- **Gear Five** is unapologetically a capstone power fantasy: all-damage Resistance,
-  doubled flight, expanded crit range, and self-healing. The single **level of
-  Exhaustion** afterward is the only brake — keep it, or the form never turns off.
-- Power-tuning lever: if expanded crit + 2 MA dice is too much alongside Resistance
-  to all, drop the crit range back to 19–20.
+- The Gears form a deliberate "always an upgrade" ladder; the free Gear entry each turn
+  (Level 6) keeps the engine running without draining your pool.
+- Gear Five is an unapologetic capstone. The single level of Exhaustion afterward is the
+  only brake — keep it. If expanded crit alongside all-damage Resistance is too much for
+  your table, narrow the crit range to 19–20.

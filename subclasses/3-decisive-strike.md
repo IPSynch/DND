@@ -1,101 +1,90 @@
 # Warrior of the Decisive Strike
 
-*Monastic Order — Critical / Precision*
+*Monk Subclass*
 
-> You treat violence the way a tradesman treats a job: with hours, limits, and a
-> deep distaste for overtime. Every fight is a problem to be closed on schedule,
-> cleanly, with no wasted motion. So you study the body the way an appraiser studies
-> a flaw in a gem — and you have learned exactly where, and exactly when, a single
-> precise blow ends the matter. When the opening comes, you do not hesitate. The
-> ratio is everything; the right strike at the right instant is worth a hundred
-> wild ones.
+You treat violence the way a craftsman treats a job: with hours, limits, and a deep
+distaste for overtime. Every fight is a problem to be closed cleanly and on schedule,
+with no wasted motion. So you study the body the way an appraiser studies the flaw in a
+gem, and you learn exactly where — and exactly *when* — a single precise blow ends the
+matter. When the opening comes, you do not hesitate. The right strike at the right
+instant is worth a hundred wild ones.
 
-A precision striker built entirely around the **critical hit**. You crit more
-often than anyone, and your crits do far more than extra dice — they stun, cleave
-wounds, and bypass defenses, turning a lucky roll into a guaranteed turning point.
+*Throughout these features, your **Monk DC** equals 8 + your Proficiency Bonus + your
+Wisdom modifier, and "Martial Arts die" refers to your current Martial Arts die. You
+spend **Focus Points** (called Ki in some traditions). These features trigger on any
+critical hit you score, including with Unarmed Strikes and Monk weapons.*
 
-> **Conventions.** "MA die" is your **Martial Arts die**; save DCs are your
-> **Monk DC**. Effects that key off a "critical hit" trigger on any attack you make,
-> including Unarmed Strikes and Monk weapons.
+## Level 3: Pinpoint and Overtime
 
----
+You see the flaw in everything, if you know the hour to look — and you refuse to leave a
+job half-finished.
 
-## Pinpoint & Overtime (Level 3)
+***Pinpoint.*** Your attack rolls score a critical hit on a roll of 19 or 20.
 
-*The flaw in everything is visible, if you know the hour to look.*
+***Ratio.*** When you score a critical hit, you can spend 1 Focus Point to deal extra
+damage equal to two rolls of your Martial Arts die.
 
-- **Pinpoint (passive).** Your attacks **score a critical hit on a roll of 19–20**.
-  (Like the Champion's Improved Critical, available from level 3.)
-- **Ratio (passive).** When you score a critical hit, you can spend **1 Focus Point**
-  to deal an extra **2 MA dice** of damage on that hit. The right strike is worth
-  the effort; nothing else is.
-- **Overtime.** When you reduce a creature to 0 Hit Points or score a critical hit,
-  you can immediately make **one Unarmed Strike** as part of the same action. A job
-  half-finished is no job at all.
+***Overtime.*** When you score a critical hit or reduce a creature to 0 Hit Points, you
+can immediately make one Unarmed Strike as part of the same action.
 
----
+## Level 6: Collapse Point
 
-## Collapse Point (Level 6)
+Find the seam, and the whole structure comes apart at once. When you score a critical
+hit against a creature, you can apply one of the following effects to it (a different
+effect can accompany each critical hit you score):
 
-*Find the seam, and the whole structure comes apart at once.*
+***Sever.*** The target's Speed is halved and it has Disadvantage on its next attack
+roll, until the end of its next turn.
 
-When you score a **critical hit** against a creature, choose one effect (each
-critical can apply a different one):
+***Cleave.*** The target must succeed on a Constitution saving throw or take extra damage
+equal to one roll of your Martial Arts die at the start of each of its turns for 1
+minute. At the end of each of its turns, it repeats the save, ending the effect on a
+success.
 
-- **Sever.** The target's Speed is **halved** and it has **Disadvantage on the next
-  attack roll** it makes, until the end of its next turn.
-- **Cleave.** The target must succeed on a **Constitution save** or take an extra
-  **MA die** of damage at the start of each of its turns for 1 minute (a wound that
-  won't close; repeats the save at the end of its turns to end the effect).
-- **Decisive.** The target must succeed on a **Constitution save** or be **Stunned**
-  until the end of your next turn. (This counts as and stacks with Stunning Strike,
-  but costs no Focus Point.)
+***Decisive.*** The target must succeed on a Constitution saving throw or have the
+Stunned condition until the end of your next turn. This counts as Stunning Strike and
+stacks with it, but costs no Focus Point.
 
-Additionally, your critical hits **ignore Resistance** to their damage type.
+In addition, your critical hits ignore Resistance to their damage type.
 
----
+## Level 11: Off the Clock
 
-## Off the Clock (Level 11)
+When the openings stack up, the structure of the workday dissolves and you stop counting
+the minutes.
 
-*The moment the openings stack up, the workday's structure dissolves — and you stop
-counting minutes.*
+***Expanded Edge.*** Your attack rolls now score a critical hit on a roll of 18–20.
 
-- **Expanded Edge (passive).** You now **critically hit on a roll of 18–20**.
-- **Manifold Cursed Technique.** Once on each of your turns, when you **miss** with
-  an Unarmed Strike, you can spend **1 Focus Point** to **reroll the attack roll**,
-  using the new result. The opening was always there.
-- **Reset.** Whenever you score a critical hit, you **regain 1 Focus Point** (you
-  can't exceed your maximum). Efficiency funds itself.
+***Manifold Cursed Technique.*** Once on each of your turns, when you miss with an
+Unarmed Strike, you can spend 1 Focus Point to reroll the attack roll and use the new
+result.
 
----
+***Reset.*** Whenever you score a critical hit, you regain 1 Focus Point (you can't
+exceed your maximum). Efficiency funds itself.
 
-## Final Verdict (Level 17)
+## Level 17: Final Verdict
 
-*When the work is truly done, there is one strike left — the one that was always the
-point of all the others.*
+When the work is truly done, there is one strike left — the one that was always the point
+of all the others.
 
-- **Certain Conclusion (passive).** You **critically hit on a roll of 17–20**, and
-  your critical hits **deal maximum damage on all of their damage dice** instead of
-  rolling them (you still roll any *extra* dice from features like Ratio).
-- **Final Verdict (active).** As part of the **Attack action**, you can declare a
-  single Unarmed Strike a Final Verdict. That attack is **automatically a critical
-  hit** if it hits, and on a hit the target must succeed on a **Constitution save**
-  or take an extra **8 MA dice** of damage (a clean close to the job). You can use
-  Final Verdict **once per Short or Long Rest for free**; after that, you can use it
-  again by spending **4 Focus Points**.
+***Certain Conclusion.*** Your attack rolls now score a critical hit on a roll of 17–20,
+and your critical hits deal the maximum amount of each of their damage dice instead of
+rolling them (you still roll any extra dice granted by features such as Ratio).
+
+***Final Verdict.*** As part of the Attack action, you can declare a single Unarmed
+Strike a Final Verdict. That attack automatically scores a critical hit if it hits, and
+on a hit the target must succeed on a Constitution saving throw or take extra damage
+equal to eight rolls of your Martial Arts die. You can use Final Verdict once per Short or
+Long Rest for free; after that, you can use it again by spending 4 Focus Points.
 
 ---
 
-### Designer notes
+### Designer Notes
 
-- The critical-hit range here (19–20 → 18–20 → 17–20) intentionally mirrors and then
-  exceeds the Champion Fighter, because every one of this subclass's features is a
-  *payload* attached to that crit. Without the riders, a 15% crit chance is just
-  flavor; with them, it's the whole identity.
-- **Reset** at level 11 plus **maximized crit dice** at 17 means crits become both
-  self-sustaining and reliably huge — by design, you should *feel* the encounter tilt
-  the instant the d20 spikes.
-- Tuning lever: **Final Verdict** is an auto-crit delivering maximized weapon dice
-  plus 8 extra MA dice on a failed save — a huge, reliable finisher. If you want it to
-  hit even harder for a marquee boss kill, add a rider (e.g., a short Stun on a failed
-  save) rather than raising the dice further.
+- The crit range (19–20 → 18–20 → 17–20) intentionally mirrors and then exceeds the
+  Champion Fighter, because every feature here is a payload attached to that crit.
+  **Reset** (Level 11) plus maximized crit dice (Level 17) makes crits both
+  self-sustaining and reliably huge.
+- Final Verdict is an auto-crit delivering maximized weapon dice plus eight extra Martial
+  Arts dice — a large, dependable finisher. If you want it to land even harder for a
+  marquee boss kill, add a rider such as a short Stun on a failed save rather than raising
+  the dice further.
