@@ -30,7 +30,7 @@ feature. You gain the following benefits.
 instead of twice.
 
 **Instant Ignition.** When you roll Initiative, you can activate your Innate
-Sorcery feature (no action required), without expending a use of it.
+Sorcery feature (no action required).
 
 **Overflow.** While your Innate Sorcery feature is active, you gain Temporary Hit
 Points equal to twice your Sorcerer level (these are granted, and refreshed, each
@@ -63,12 +63,13 @@ apply one of your Metamagic options to a spell without spending Sorcery Points
 once on each of your turns.
 
 **Unbreakable Flame.** While your Innate Sorcery feature is active, it can't be
-ended early by any effect you didn't choose, and you have Advantage on
-Constitution saving throws to maintain Concentration.
+ended early by any effect you didn't choose, and whenever you make a Constitution
+saving throw to maintain Concentration, you roll three d20s and use the highest
+roll. You gain this triple-roll benefit even if another effect, such as the War
+Caster feat, already grants you Advantage on the save.
 
 **Fourth Surge.** You can use your Innate Sorcery feature four times per Long
-Rest. In addition, when you would activate it with no uses remaining, you can
-spend 3 Sorcery Points to activate it anyway.
+Rest, and while it is active, its duration increases to 10 minutes.
 
 ## Level 18: Avatar of Innate Magic
 
@@ -76,8 +77,9 @@ You stop being a creature that uses magic and become a vessel that magic pours
 through. You gain the following benefits.
 
 **Boundless Spark.** You regain all expended uses of your Innate Sorcery feature
-when you finish a Short or Long Rest, and the cost to activate it with no uses
-remaining (from Sorcerous Ascension) drops to 2 Sorcery Points.
+when you finish a Short or Long Rest. In addition, while your Innate Sorcery
+feature is active, it doesn't end on its own as long as you have at least 1
+Sorcery Point remaining.
 
 **Avatar State.** While your Innate Sorcery feature is active, the bonus to your
 spell save DC from it becomes +3, your Sorcerer spells ignore Resistance to their

@@ -1,6 +1,6 @@
 # Homebrew Sorcerer Subclasses (D&D 2024 / 5.5e)
 
-Five original Sorcerous Origins built on the 2024 *Player's Handbook* chassis.
+Ten original Sorcerous Origins built on the 2024 *Player's Handbook* chassis.
 Each grants features at **Sorcerer levels 3, 6, 14, and 18**, matching the
 official 2024 subclass cadence, and each includes an always-prepared
 **subclass spell list** that grows at sorcerer levels 3, 5, 7, and 9.
@@ -18,7 +18,7 @@ tables. Tune the dice and Sorcery Point costs down a notch if your group runs le
 - Features that grant extra uses, durations, or Metamagic stack with the base class
   and with **Arcane Apotheosis** (level 20) unless noted.
 
-## The five origins
+## The ten origins
 
 | # | Origin | Concept | Bent |
 |---|--------|---------|------|
@@ -27,3 +27,8 @@ tables. Tune the dice and Sorcery Point costs down a notch if your group runs le
 | 3 | [Humoral Sorcery](./subclasses/sorcerer/3-humoral-sorcery.md) | The bodily humors & secretions | Offense / Utility |
 | 4 | [Chronomantic Sorcery](./subclasses/sorcerer/4-chronomantic-sorcery.md) | Time, extra Reactions, crowd control | Control |
 | 5 | [Sundering Sorcery](./subclasses/sorcerer/5-sundering-sorcery.md) | Cleave & Dismantle, Magic Missile & Force (Sukuna) | Offense |
+| 6 | [Carbon Sorcery](./subclasses/sorcerer/6-carbon-sorcery.md) | Carbon allotropes — diamond, ember, glue, protein | Tank / Versatile |
+| 7 | [Bladesong Sorcery](./subclasses/sorcerer/7-bladesong-sorcery.md) | Sword-and-spell gish, Bladesinger for sorcerers | Melee / Offense |
+| 8 | [Draconic Ascendant Sorcery](./subclasses/sorcerer/8-draconic-ascendant-sorcery.md) | Transform into a dragon via Innate Sorcery (Kaido) | Offense |
+| 9 | [Soul Sorcery](./subclasses/sorcerer/9-soul-sorcery.md) | Animate objects with stolen souls (Big Mom) | Summoner / Control |
+| 10 | [Hallowed Sorcery](./subclasses/sorcerer/10-hallowed-sorcery.md) | Auras & supercharged *Spirit Guardians* | Support / Offense |

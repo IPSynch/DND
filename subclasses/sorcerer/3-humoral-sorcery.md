@@ -4,10 +4,11 @@
 
 The old physicians swore the body held four humors—blood, phlegm, yellow bile, and
 black bile—and that health was their balance. You learned the practical lesson
-buried under the theory: every fluid your body makes is a weapon. You bleed to heal
-yourself, flood the ground with sweat, mucus, and urine, spit stomach bile that
-eats armor down to rust, and choke a battlefield in the gas and filth of your own
-gut.
+buried under the theory: every fluid your body makes is power. You bleed to heal
+yourself, flood the ground with sweat, mucus, and urine, spray caustic bile that
+eats armor down to rust, and loose the gas of your own gut as a choking cloud—all
+while wreathed in a scent that draws allies close and turns the stomachs of your
+foes.
 
 ## Level 3: Humoral Sorcery Spells
 
@@ -40,9 +41,9 @@ Each Humor can be vented in two ways: a cheap **Burst** that resolves at once an
 fades by the start of your next turn, or a costly **Flood** that lasts for 1 minute
 and requires no Concentration.
 
-The damage of these effects increases as you gain Sorcerer levels: it is 2d6 at
-level 3, 3d6 at level 7, 4d6 at level 11, and 5d6 at level 15. This amount is
-referred to below as your **Humoral damage**.
+The damage of these effects increases as you gain Sorcerer levels: it is **2d8** at
+level 3, **3d8** at level 7, **4d8** at level 11, and **5d8** at level 15. This
+amount is referred to below as your **Humoral damage**.
 
 ***Sanguine (Blood).*** Your veins open without harming you, and the spilled blood
 feeds you back.
@@ -73,19 +74,20 @@ sweeps enemies off their feet.
   Bludgeoning damage and gaining the Prone condition on a failed save. A creature
   makes this save only once per turn.
 
-***Yellow Bile (Stomach Bile and Acrid Urine).*** You spit a caustic jet that burns
-flesh and rots armor.
+***Yellow Bile (Stomach Bile and Acrid Urine).*** You spray a sticky, corrosive
+stream that burns flesh and rots armor.
 
 - **Burst (1 Sorcery Point).** Each creature in a 15-foot Cone makes a Dexterity
   saving throw, taking your Humoral damage as Acid damage on a failed save, or half
   as much on a successful one. A creature that fails the save also has its AC reduced
   by 1 from corrosion (see **Corrosion** below).
-- **Flood (3 Sorcery Points).** Choose one creature you can see within 30 feet of
-  yourself; it is coated in clinging bile for 1 minute. At the start of each of its
-  turns, it makes a Constitution saving throw, taking half your Humoral damage as
-  Acid damage on a failed save (or half again on a success), and each turn it remains
-  coated, its AC is reduced by a further 1 (to a maximum penalty of −5). When the
-  effect ends, the accumulated AC reduction is resolved under **Corrosion**.
+- **Flood (3 Sorcery Points).** You spray a 15-foot Cone with clinging, acrid acid;
+  each creature in the Cone is coated for 1 minute. At the start of each of its
+  turns, a coated creature makes a Constitution saving throw, taking your Humoral
+  damage as Acid damage on a failed save or half as much on a successful one. Each
+  turn it begins coated—regardless of the save—its AC is reduced by a further 1 (to
+  a maximum penalty of −5). When the effect ends, the accumulated AC reduction is
+  resolved under **Corrosion**.
 
 > **Corrosion.** When a creature's AC is reduced by your Yellow Bile, the reduction's
 > duration depends on the source of that AC. If it comes from nonmagical armor the
@@ -100,16 +102,18 @@ reeking, clinging fog.
 
 - **Burst (1 Sorcery Point).** A 10-foot-radius Sphere of stench appears, centered
   on you or a point within 30 feet of yourself, until the start of your next turn.
-  Each creature in it makes a Constitution saving throw. On a failed save, a creature
-  has the Poisoned condition until the start of your next turn and can't take
-  Reactions while in the cloud.
+  Each creature in it makes a Constitution saving throw, taking your Humoral damage
+  as Necrotic or Poison damage (your choice) on a failed save, or half as much on a
+  successful one. On a failed save, a creature also has the Poisoned condition until
+  the start of your next turn and can't take Reactions while in the cloud.
 - **Flood (3 Sorcery Points).** A 15-foot Emanation of toxic gas surrounds you for 1
   minute and moves with you; you and any creatures you choose when you vent it are
   unaffected. The Speed of any other creature is halved while in the area. Whenever an
   affected creature enters the Emanation for the first time on a turn or starts its
   turn there, it makes a Constitution saving throw, taking your Humoral damage as
-  Poison damage on a failed save (half as much on a success) and, on a failed save,
-  also gaining the Poisoned condition until the start of its next turn.
+  Necrotic or Poison damage (your choice) on a failed save (half as much on a
+  success) and, on a failed save, also gaining the Poisoned condition until the start
+  of its next turn.
 
 ## Level 6: Glandular Surge
 
@@ -120,6 +124,11 @@ following benefits.
 immune to the Poisoned condition, and you can't be nauseated or sickened by
 nonmagical means.
 
+**Corrosive Potency.** The damage of your Four Humors ignores Resistance and treats
+Immunity to its damage type as Resistance instead. Moreover, a creature that is
+immune to the Poisoned condition isn't immune to the Poisoned condition imposed by
+your Humors; instead, it makes the saving throw against that effect with Advantage.
+
 **Empowered Secretions.** When you vent a Humor, you can spend 1 additional Sorcery
 Point to either double the size of the effect's area or reroll any 1s and 2s on its
 damage dice (using the new rolls). In addition, the cost to vent a Humor's Flood
@@ -128,37 +137,52 @@ option is reduced to 2 Sorcery Points.
 **Quickening Ichor.** You gain a fifth Humor, a potent, generative essence with two
 uses.
 
-- **Anoint.** As a Bonus Action, you can spend 1 Sorcery Point to anoint yourself or
-  a willing creature within 5 feet of you. The target gains Temporary Hit Points
-  equal to your Sorcerer level and has Advantage on its next attack roll or spell
-  attack roll.
-- **Spawn.** As a Magic action, you can spend 3 Sorcery Points to create a Humoral
-  Spawnling—a Small ooze—in an unoccupied space within 30 feet of yourself. It is an
-  ally to you and your allies, has Hit Points equal to your Sorcerer level and an AC
-  of 12, and has a reach attack that uses your spell attack modifier and deals 2d6
-  Acid damage on a hit. In combat, the Spawnling shares your Initiative count but
-  takes its own turn immediately after yours. It can move and use its action and
-  Bonus Action on its own, obeying your mental commands (no action required from
-  you). When it drops to 0 Hit Points or you dismiss it (no action required), it
-  bursts, and each creature in a 10-foot-radius Sphere centered on it makes a
-  Dexterity saving throw against your spell save DC, taking 3d6 Acid damage on a
-  failed save or half as much on a successful one. You can have only one Spawnling at
-  a time.
+- **Humoral Inspiration.** As a Bonus Action, you can spend 1 Sorcery Point to
+  anoint yourself or a creature you can see within 30 feet of you. That creature
+  gains a Humoral Inspiration, a d20 that functions exactly like Heroic Inspiration:
+  the creature can expend it to reroll any d20 it just rolled and use either result.
+  A creature can hold only one Humoral Inspiration at a time, and it is lost if
+  unused after 1 hour.
+- **Humoral Spawnling.** As a Magic action, you can spend 3 Sorcery Points to create
+  a Humoral Spawnling—a Medium ooze—in an unoccupied space within 30 feet of
+  yourself. It is an ally to you and your allies and uses the statistics below. In
+  combat, the Spawnling shares your Initiative count but takes its own turn,
+  immediately after yours, with its own action, Bonus Action, and movement. On your
+  turn, you can also command it to move up to its Speed (no action required). It
+  obeys your mental commands, and giving it commands never requires an action from
+  you. The Spawnling lasts for 1 hour, until it drops to 0 Hit Points, or until you
+  dismiss it (no action required), and you can have only one at a time.
 
-## Level 14: Pandemic Body
+  > **Humoral Spawnling.** Medium Ooze. **AC** 13. **HP** equal to three times your
+  > Sorcerer level. **Speed** 30 ft., climb 30 ft. It has Resistance to Bludgeoning,
+  > Piercing, and Slashing damage and is immune to Acid and Poison damage. **Caustic
+  > Lash (its action).** The Spawnling makes two attacks, each using your spell attack
+  > modifier, reach 10 ft. *Hit:* 1d10 plus your Charisma modifier Acid damage.
+  > **Burst (when it drops to 0 HP or is dismissed).** Each creature in a
+  > 10-foot-radius Sphere centered on it makes a Dexterity saving throw against your
+  > spell save DC, taking 4d8 Acid damage on a failed save or half as much on a
+  > successful one.
 
-You are no longer a creature that makes toxins—you are one. You gain the following
-benefits.
+## Level 14: Sublime Body
 
-**Plague Aura.** You emit an Aura of filth in a 10-foot Emanation. Whenever an enemy
-starts its turn in the Aura, it makes a Constitution saving throw. On a failed save,
-it takes 2d6 Acid or Poison damage (your choice) and has the Poisoned condition until
+You are no longer a creature that merely makes fluids—you are a living wellspring of
+them, wreathed in an aura that intoxicates the worthy and sickens the rest. You gain
+the following benefits.
+
+**Intoxicating Aura.** You emit an aura of heady scent in a 10-foot Emanation.
+Whenever a creature of your choice enters the aura for the first time on a turn or
+starts its turn there, it gains Temporary Hit Points equal to your Sorcerer level
+(you can grant this to a given creature only once per turn). Whenever an enemy starts
+its turn in the aura, it makes a Constitution saving throw; on a failed save, it
+takes 2d8 Acid or Poison damage (your choice) and has the Poisoned condition until
 the start of its next turn.
 
 **Infectious Failure.** When a creature fails a saving throw against one of your
 Humors or Sorcerer spells, you can curse it with the disease created by the
 *Contagion* spell (no Concentration required). Once you curse a particular creature
-this way, you can't do so again to that creature until you finish a Long Rest.
+this way, you can't do so again to that creature until you finish a Long Rest—unless
+you spend 3 Sorcery Points, which lets you curse a creature you've already cursed
+since your last Long Rest.
 
 **Free Vent.** The first Humor you vent on each of your turns costs no Sorcery
 Points, whether you vent its Burst or its Flood option.
@@ -182,8 +206,8 @@ On a successful save, a creature takes half as much damage and has the Prone
 condition only.
 
 A creature affected by the Poisoned, Blinded, or Frightened conditions from this
-feature repeats the save at the end of each of its turns, ending those conditions on
-itself on a success.
+feature repeats the save at the end of each of its turns. On a success, it ends only
+one of those conditions on itself (its choice).
 
 Once you use this feature, you can't use it again until you finish a Long Rest,
 unless you spend 6 Sorcery Points to use it again.
