@@ -1,122 +1,100 @@
 # Seismic Sorcery
 
-*Sorcerous Origin — Offense*
+*Magic That Shakes Earth, Air, and Sky*
 
-> Your blood hums at the frequency of shifting tectonic plates. Where other
-> sorcerers borrow fire or storm, you reach into the very ground — and into the
-> air itself — and you *shake*. A clenched fist is an earthquake waiting to
-> happen; a flick of the wrist cracks the sky like a dropped pane of glass.
+Your power resonates at the frequency of shifting earth. A clenched fist wakes an
+earthquake; a flick of the wrist cracks the air like a dropped pane of glass. You
+wield vibration itself, toppling walls and seizing hold of things others cannot
+even touch.
 
-Inspired by the Gura-Gura no Mi: vibration made into a weapon, capable of
-toppling fortresses and grabbing hold of intangible things. This origin is a
-heavy-hitting blaster that traffics in **Thunder and Force damage**, **Prone**,
-and **forced movement**.
+## Level 3: Seismic Sorcery Spells
 
----
+When you reach a Sorcerer level specified in the Seismic Sorcery Spells table,
+you thereafter always have the listed spells prepared.
 
-## Quaking Spells (Level 3)
-
-The listed spells are always prepared and don't count against the number of
-spells you can prepare.
+**Seismic Sorcery Spells**
 
 | Sorcerer Level | Spells |
 |----------------|--------|
 | 3 | *Earth Tremor*, *Thunderwave* |
 | 5 | *Shatter*, *Spike Growth* |
-| 7 | *Bigby's Hand*, *Vitriolic Sphere* (recast as Force on a quake-cracked target) |
+| 7 | *Bigby's Hand*, *Vitriolic Sphere* |
 | 9 | *Destructive Wave*, *Telekinesis* |
 
----
+## Level 3: Seismic Pulse
 
-## Tremorsense & Seismic Pulse (Level 3)
+You sense the world through the tremors that pass through it, and your magic
+carries a percussive shock. You gain the following benefits.
 
-You gain **Tremorsense out to 10 feet** (you sense the location of anything in
-contact with the ground or a shared surface).
+**Tremorsense.** You have Tremorsense with a range of 10 feet.
 
-In addition, your magic carries a percussive shockwave:
+**Knockdown.** Once per turn, when a creature takes Thunder or Force damage from
+one of your Sorcerer spells, that creature must succeed on a Strength saving
+throw against your spell save DC or have the Prone condition, provided it is Large
+or smaller and is standing on a surface.
 
-- **Knockdown.** Once per turn, when a creature takes Thunder or Force damage
-  from one of your Sorcerer spells and it is Large or smaller and standing on a
-  surface, it must succeed on a **Strength saving throw** or be knocked
-  **Prone**.
-- **Resonance.** You can change the damage type of any Sorcerer spell that
-  deals **Lightning or Bludgeoning** damage to **Thunder**.
+**Resonance.** Whenever you cast a Sorcerer spell that deals Lightning or
+Bludgeoning damage, you can change that damage to Thunder damage.
 
----
+## Level 6: Aftershock
 
-## Aftershock (Level 6)
+You learn to chain a tremor onto your spells and to vent raw seismic pressure.
 
-You learn to chain a tremor onto your spells, and to vent raw seismic pressure.
+**Aftershock.** The first time on each of your turns that you deal Thunder or
+Force damage with a Sorcerer spell of level 1 or higher, each creature you choose
+within 10 feet of that spell's target takes Thunder damage equal to your Charisma
+modifier (minimum of 1 damage) and can't take Reactions until the start of its
+next turn.
 
-- **Aftershock (passive).** The first time on each of your turns that you deal
-  Thunder or Force damage with a Sorcerer spell of level 1 or higher, each
-  creature you choose within 10 feet of the spell's target takes Thunder damage
-  equal to your **Charisma modifier** (minimum 1) and is rattled — it can't take
-  **Reactions** until the start of its next turn.
-- **Shockwave (active).** As a **Bonus Action**, you can spend **1 to 3 Sorcery
-  Points** to slam a shockwave outward in a 15-foot-radius Sphere centered on
-  yourself. Each creature there makes a **Strength saving throw**, taking
-  **1d10 Thunder per Sorcery Point** spent on a failure (half as much on a
-  success) and is knocked **Prone** on a failure. You can choose any number of
-  creatures to be unaffected (allies don't have to eat your quakes).
+**Shockwave.** As a Bonus Action, you can spend 1 to 3 Sorcery Points to unleash
+a shockwave in a 15-foot-radius Sphere centered on yourself. Each creature of your
+choice in that area makes a Strength saving throw against your spell save DC. On a
+failed save, a creature takes 1d10 Thunder damage for each Sorcery Point you spent
+and has the Prone condition. On a successful save, it takes half as much damage
+only.
 
-While your **Innate Sorcery** is active, your Thunder and Force damage ignore
-**Resistance**.
+**Resonant Force.** While your Innate Sorcery feature is active, your Thunder and
+Force damage ignores Resistance.
 
----
+## Level 14: Faultline
 
-## Faultline (Level 14)
+As a Magic action, you split the ground open. Choose a 60-foot-long, 5-foot-wide
+Line or a 20-foot-radius, 20-foot-high Cylinder within 120 feet of yourself. Each
+creature in that area makes a Strength saving throw against your spell save DC.
 
-As a **Magic action**, you split the earth open. Choose a 60-foot-long, 5-foot-wide
-**Line** or a 20-foot-radius **Cylinder** within 120 feet. Each creature in the
-area makes a **Strength saving throw**.
+On a failed save, a creature takes 8d6 Thunder damage and has the Prone and
+Restrained conditions as it is caught in the fissure. On a successful save, a
+creature takes half as much damage only.
 
-- **On a failure:** 8d6 Thunder damage, knocked **Prone**, and **Restrained**
-  (caught in the fissure). A Restrained creature repeats the save at the end of
-  each of its turns, or can use an action to make a Strength (Athletics) check
-  against your spell save DC to climb free.
-- **On a success:** half damage and none of the other effects.
+A creature Restrained this way repeats the save at the end of each of its turns,
+ending the effect on itself on a success. It can also use its action to make a
+Strength (Athletics) check against your spell save DC, freeing itself on a success.
 
-The area becomes **Difficult Terrain** until the start of your next turn, and any
-unattended object or structure in the area takes **double damage** (your quakes
-shatter stone and timber automatically).
+The area becomes Difficult Terrain until the start of your next turn, and any
+unattended object or structure in the area takes double damage from this feature.
 
-You can use Faultline once per **Long Rest** for free. After that, you can use it
-again by spending **3 Sorcery Points**.
+Once you use this feature, you can't use it again until you finish a Long Rest,
+unless you spend 3 Sorcery Points to use it again.
 
----
+## Level 18: Tremor Incarnate
 
-## Tremor Incarnate (Level 18)
+You no longer merely shake the world—you seize hold of it, cracking air, water,
+and space as if they were solid. You gain the following benefits.
 
-You no longer merely shake the world — you grab hold of it. You can crack air,
-water, even space, as if they were solid.
+**Unstoppable Vibration.** Your Thunder and Force damage ignores Resistance and
+treats Immunity to those damage types as Resistance instead.
 
-- **Unstoppable Vibration (passive).** Your Thunder and Force damage treats
-  **Resistance as though it were nonexistent** and **Immunity as Resistance**.
-- **Vibration Guard (Reaction).** When you or a creature you can see within 60
-  feet is hit by an attack, you can use your **Reaction** to vibrate the strike
-  apart, reducing the damage by **3d12**.
-- **Worldshaker (active).** As a **Magic action**, you seize the air and *twist*.
-  Choose a 30-foot-radius **Sphere** or 60-foot **Cone** within 120 feet. Each
-  creature there makes a **Strength saving throw**.
-  - **On a failure:** 12d8 Thunder damage, the creature is hurled up to 20 feet
-    in a direction of your choice, knocked **Prone**, and **Stunned** until the
-    end of your next turn.
-  - **On a success:** half damage and isn't moved, knocked prone, or stunned.
+**Vibration Guard.** When you or a creature you can see within 60 feet of you is
+hit by an attack roll, you can take a Reaction to vibrate the strike apart,
+reducing the damage taken by 3d12.
 
-  Structures and unattended objects in the area are reduced to rubble. You can
-  use Worldshaker once per **Long Rest** for free, or by spending **5 Sorcery
-  Points**.
+**Worldshaker.** As a Magic action, you twist the world itself. Choose a
+30-foot-radius Sphere or a 60-foot Cone within 120 feet of yourself. Each creature
+in that area makes a Strength saving throw against your spell save DC. On a failed
+save, a creature takes 12d8 Thunder damage, is pushed up to 20 feet in a direction
+of your choice, and has the Prone condition and the Stunned condition until the
+end of your next turn. On a successful save, a creature takes half as much damage
+only. Structures and unattended objects in the area are reduced to rubble.
 
----
-
-### Designer notes
-
-- The level 3 **Resonance** rider means *Witch Bolt*, *Lightning Bolt*, and
-  *Chromatic Orb* (lightning) all become quake spells, keeping you on-theme from
-  level 1 spell choices upward.
-- **Aftershock**'s "can't take Reactions" clause is a soft Counterspell/Opportunity
-  Attack lock that scales beautifully into the Stun at level 18.
-- Like Whitebeard's quakes, your big AoEs (**Shockwave**, **Faultline**,
-  **Worldshaker**) hit *everything* in the area by default but let you exempt
-  allies — a nod to the source material's "not indiscriminate, but close."
+Once you use this feature, you can't use it again until you finish a Long Rest,
+unless you spend 5 Sorcery Points to use it again.

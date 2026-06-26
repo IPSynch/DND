@@ -1,126 +1,107 @@
 # Sundering Sorcery
 
-*Sorcerous Origin — Offense*
+*Force Honed to a Cutting Edge*
 
-> You don't throw fire. You don't call lightning. You *cut*. Reality, to you, has
-> a grain — and you have learned exactly where to lay the blade. A flick of focus
-> sends a swarm of unerring slashes; a sweep of the hand carves everything in a
-> wedge of space at once. Nothing you target is ever *missed*. It is only **Cleaved**,
-> or **Dismantled**.
+You don't throw fire or call lightning—you cut. Reality, to you, has a grain, and
+you have learned exactly where to lay the blade. A flick of focus sends a swarm of
+unerring slashes; a sweep of the hand carves everything in a wedge of space at
+once. Nothing you target is ever missed. It is only Cleaved, or Dismantled.
 
-Inspired by Cleave and Dismantle: a precision-slash for tough single targets, an
-area-wide tear for crowds. Mechanically this origin is the **Magic Missile Slashes** and
-**Force damage** specialist — Magic Missile Slashes becomes a free, scaling cantrip, and
-every feature pumps your never-miss Force output higher.
+## Level 3: Sundering Sorcery Spells
 
----
+When you reach a Sorcerer level specified in the Sundering Sorcery Spells table,
+you thereafter always have the listed spells prepared.
 
-## Sundering Spells (Level 3)
-
-The listed spells are always prepared and don't count against your prepared total.
+**Sundering Sorcery Spells**
 
 | Sorcerer Level | Spells |
 |----------------|--------|
-| 3 | *Magic Missile Slashes*, *Catapult* |
+| 3 | *Magic Missile*, *Catapult* |
 | 5 | *Shatter*, *Fly* |
 | 7 | *Banishment*, *Dimension Door* |
 | 9 | *Wall of Force*, *Telekinesis* |
 
----
+For you, the darts of *Magic Missile* manifest as thin, curving blades of cutting
+Force. The slashes referenced by your other features are these darts.
 
-## Cleave and Dismantle (Level 3)
+## Level 3: Cleave and Dismantle
 
-You wield two complementary techniques of cutting Force.
+You wield two complementary techniques of cutting Force. You gain the following
+benefits.
 
-- **Magic Missile Slashes is a cantrip for you.** It is always prepared, doesn't count
-  against your cantrips known, and when you cast it **without expending a spell
-  slot** it functions as the 1st-level spell (three slashes). As a cantrip it
-  **scales with your level like other cantrips: 4 slashes at level 5, 5 slashes at
-  level 11, 6 slashes at level 17.** (Casting it with a spell slot still adds slashes
-  per the spell as normal, on top of this baseline.) Each slash is a thin blade of
-  Force.
-- **Cleave (focus a single target).** When you direct **two or more slashes of a
-  *Magic Missile Slashes* at the same creature**, that creature can't benefit from
-  **Resistance to Force damage** against this casting, and each of those slashes
-  deals **+1 damage.**
-- **Dismantle (sweep a crowd).** When you cast *Magic Missile Slashes*, you can instead
-  release it as a sweeping arc: a 15-foot **Cone**. Each creature in the Cone
-  makes a **Dexterity saving throw**, taking **1d4+1 Force damage per slash** the
-  casting would have produced (half as much on a success). All slashes are spent on
-  the sweep.
+**Honed Missiles.** You always have *Magic Missile* prepared, and it doesn't count
+against the number of spells you can prepare. You can also cast it as a cantrip
+without expending a spell slot, in which case it produces three slashes. The
+number of slashes from this cantrip casting increases by one when you reach
+Sorcerer levels 5 (four slashes), 11 (five slashes), and 17 (six slashes). Casting
+the spell with a spell slot uses the normal rules.
 
----
+**Cleave.** When you direct two or more slashes from *Magic Missile* at the same
+creature, that creature can't benefit from Resistance to Force damage against that
+casting, and each of those slashes deals 1 extra Force damage.
 
-## Honed Edge (Level 6)
+**Dismantle.** When you cast *Magic Missile*, you can instead release it as a
+sweeping 15-foot Cone. Each creature in the Cone makes a Dexterity saving throw
+against your spell save DC, taking 1d4 + 1 Force damage for each slash the casting
+would have produced on a failed save, or half as much on a successful one. All
+slashes are spent on the sweep.
 
-Your cuts grow deeper and quicker.
+## Level 6: Honed Edge
 
-- **Sharpened Force.** Once on each of your turns, you can **add your Charisma
-  modifier** to one Force damage roll (any Force spell, including each casting of
-  *Magic Missile Slashes* — applied once to the total).
-- **Deep Cut.** Whenever you roll a **maximum result on a *Magic Missile Slashes* damage
-  die**, that slash deals an **extra die** of Force damage (re-rolls of the extra
-  die don't chain).
-- **Flick (Bonus Action).** As a **Bonus Action**, you can hurl a single slash of
-  Force at a creature within 60 feet (automatically hits for 1d4 + your Charisma
-  modifier Force damage). You can spend **1 Sorcery Point** to instead loose a
-  number of such slashes equal to your **Charisma modifier**, divided as you like.
+Your cuts grow deeper and quicker. You gain the following benefits.
 
----
+**Sharpened Force.** Once on each of your turns, you can add your Charisma modifier
+to one Force damage roll of a spell you cast (added once to the roll's total).
 
-## World-Cutting (Level 14)
+**Deep Cut.** Whenever you roll the maximum result on a *Magic Missile* damage die,
+that slash deals one extra die of Force damage. The extra die can't trigger this
+benefit again.
 
-Your blade ignores the distinctions that protect lesser foes.
+**Flick.** As a Bonus Action, you can hurl a single slash of Force at a creature
+within 60 feet of yourself, automatically dealing 1d4 + your Charisma modifier
+Force damage. You can instead spend 1 Sorcery Point to loose a number of these
+slashes equal to your Charisma modifier, divided among any creatures you can see
+within range.
 
-- **Nothing Resists the Edge.** Your Force damage **ignores Resistance** and
-  treats **Immunity to Force as Resistance.**
-- **Honed Slashes.** Your *Magic Missile Slashes* slashes now deal **1d6+1** each (up from
-  1d4+1), and your **Dismantle** Cone grows to a **30-foot Cone.**
-- **Sever (rider).** The first time on each of your turns that you deal Force
-  damage to a creature, its **Speed is halved** and it **can't take Reactions**
-  until the start of its next turn — its tendons, in a sense, have been cut.
-- **Cut Through Cover.** Your *Magic Missile Slashes* and Dismantle ignore **half and
-  three-quarters cover** (the slashes simply curve around it).
+## Level 14: World-Cutting
 
----
+Your blade ignores the distinctions that protect lesser foes. You gain the
+following benefits.
 
-## Malevolent Domain (Level 18)
+**Nothing Resists the Edge.** Your Force damage ignores Resistance and treats
+Immunity to Force damage as Resistance instead.
 
-You unfold a private space where your cuts are the only law — guaranteed,
-ceaseless, inescapable.
+**Greater Slashes.** Each slash from your *Magic Missile* now deals 1d6 + 1 Force
+damage (instead of 1d4 + 1), and your Dismantle Cone increases to a 30-foot Cone.
 
-- **Domain of Endless Slashing (capstone).** As a **Magic action**, you manifest a
-  **30-foot-radius Domain** centered on you for 1 minute (no Concentration
-  required). While it persists:
-  - At the start of each of your turns, and when a creature first enters the
-    Domain or starts its turn there, that creature is **automatically struck**
-    (no attack roll, no saving throw) for **4d6 Force damage.** You choose, per
-    creature, whether the strike lands as a focused **Cleave** (the creature also
-    can't regain Hit Points until the start of your next turn) or a wide
-    **Dismantle** (the creature is also knocked **Prone**).
-  - This is, in effect, a never-missing field of force blades. You can dismiss the
-    Domain as a Bonus Action, and you can use this feature once per **Long Rest**,
-    or by spending **6 Sorcery Points.**
-- **Perfected Missiles (passive).** Your *Magic Missile Slashes* slashes now deal **1d8+1**
-  each and you gain **one additional slash.** Your *Magic Missile Slashes* **can't be
-  thwarted by the *Shield* spell** (the slashes part around the ward and strike
-  anyway), and you can cast *Magic Missile Slashes* (cantrip version) as a **Bonus Action.**
+**Sever.** The first time on each of your turns that you deal Force damage to a
+creature, its Speed is halved and it can't take Reactions until the start of its
+next turn.
 
----
+**Cut Through Cover.** Your *Magic Missile* and Dismantle ignore Half Cover and
+Three-Quarters Cover.
 
-### Designer notes
+## Level 18: Malevolent Domain
 
-- **Magic Missile Slashes** is the perfect chassis for "never-misses, you just choose how":
-  Cleave dumps all slashes into one foe (with anti-Resistance and bonus damage),
-  Dismantle fans them across a crowd. Both scale on the same slash count, so every
-  level-up upgrades both modes at once.
-- The progression of slash dice — **1d4+1 → 1d6+1 (14) → 1d8+1 (18)** — plus
-  **Sharpened Force**, **Deep Cut**, and the **Flick** bonus action keeps your
-  per-turn Force damage climbing without ever needing an attack roll.
-- The level 18 **Domain** is a deliberate "Domain Expansion": automatic,
-  save-less, area-wide guaranteed hits, gated behind once-per-rest (or a steep
-  6 SP) so it's a finisher, not a spam button. Drop it to 3d6 if your table finds
-  no-save AoE too strong.
-- **Cut Through Cover** and the anti-*Shield* clause lean into the fiction that
-  these cuts route around defenses — and quietly make you the best answer to
-  enemy casters hiding behind *Shield* and corners.
+You unfold a private space where your cuts are the only law. You gain the following
+benefits.
+
+**Perfected Missiles.** Each slash from your *Magic Missile* now deals 1d8 + 1
+Force damage (instead of 1d6 + 1), and the cantrip casting produces one additional
+slash. Your *Magic Missile* can't be thwarted by the *Shield* spell, and you can
+cast the cantrip version of *Magic Missile* as a Bonus Action.
+
+**Domain of Endless Slashing.** As a Magic action, you manifest a 30-foot-radius
+Domain centered on yourself for 1 minute. This effect requires no Concentration.
+At the start of each of your turns, and when a creature enters the Domain for the
+first time on a turn or starts its turn there, that creature is automatically
+struck (no attack roll or saving throw) for 4d6 Force damage. For each creature,
+choose one of the following effects:
+
+- **Cleave.** The creature can't regain Hit Points until the start of your next
+  turn.
+- **Dismantle.** The creature has the Prone condition.
+
+You can dismiss the Domain (no action required). Once you use this feature, you
+can't use it again until you finish a Long Rest, unless you spend 6 Sorcery Points
+to use it again.
