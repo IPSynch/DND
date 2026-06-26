@@ -71,7 +71,7 @@ Long Rest.
 Nine blades, three faces, six arms wreathed in killing intent. For a few breaths, the
 swordsman becomes the demon the legends warned of.
 
-As a Bonus Action, you can spend 4 Focus Points to enter the Asura stance. This stance
+As a Bonus Action, you can spend 5 Focus Points to enter the Asura stance. This stance
 lasts for 1 minute. It ends early if you fall Unconscious or if you end it (no action
 required). While in the Asura stance:
 
@@ -85,6 +85,9 @@ required). While in the Asura stance:
   20-foot-wide, 60-foot-long Line extending behind it takes 10d12 Slashing damage, or half
   as much on a successful Constitution saving throw. Nonmagical walls, gates, and lesser
   barriers in the Line are cut in two.
+
+When the Asura stance ends, you have one level of Exhaustion — the body pays for wearing
+the demon's shape.
 
 ---
 
