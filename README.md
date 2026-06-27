@@ -1,6 +1,6 @@
 # Homebrew Sorcerer Subclasses (D&D 2024 / 5.5e)
 
-Twenty original Sorcerous Origins built on the 2024 *Player's Handbook* chassis.
+Twenty-two original Sorcerous Origins built on the 2024 *Player's Handbook* chassis.
 Each grants features at **Sorcerer levels 3, 6, 14, and 18**, matching the
 official 2024 subclass cadence, and each includes an always-prepared
 **subclass spell list** that grows at sorcerer levels 3, 5, 7, and 9.
@@ -18,7 +18,7 @@ tables. Tune the dice and Sorcery Point costs down a notch if your group runs le
 - Features that grant extra uses, durations, or Metamagic stack with the base class
   and with **Arcane Apotheosis** (level 20) unless noted.
 
-## The twenty origins
+## The twenty-two origins
 
 | # | Origin | Concept | Bent |
 |---|--------|---------|------|
@@ -42,3 +42,5 @@ tables. Tune the dice and Sorcery Point costs down a notch if your group runs le
 | 18 | [Bowel Sorcery](./subclasses/sorcerer/18-bowel-sorcery.md) | Farts & filth — Poison/Necrotic, gas-jet flight | Offense / Control |
 | 19 | [Beguiling Sorcery](./subclasses/sorcerer/19-beguiling-sorcery.md) | Psychic allure, charm & paralysis | Control / Offense |
 | 20 | [Euphoric Sorcery](./subclasses/sorcerer/20-euphoric-sorcery.md) | Sensation overload; stacking Ecstasy & Climax | Offense / Control |
+| 21 | [Ejaculation Sorcery](./subclasses/sorcerer/21-ejaculation-sorcery.md) | Anointing seed — empower weapons, buff casters, refuel allies | Support / Buff |
+| 22 | [Breastmilk Sorcery](./subclasses/sorcerer/22-breastmilk-sorcery.md) | Restorative milk — healing, cleansing, revival | Healer / Support |
