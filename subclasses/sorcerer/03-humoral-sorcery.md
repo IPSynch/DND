@@ -34,7 +34,7 @@ benefit.
 ## Level 3: The Humors
 
 You weaponize every fluid your body makes, no spellcasting required. Your damaging
-Humoral effects deal either Acid or Psychic damage (your choice each time you use
+Humoral effects deal either Acid or Bludgeoning damage (your choice each time you use
 them), and the amount increases as you gain Sorcerer levels: it is **2d8** at level
 3, **3d8** at level 7, **4d8** at level 11, and **5d8** at level 15. This amount is
 your **Humoral die total**, and all effects below use your spell save DC.
@@ -101,7 +101,7 @@ weapons.
   on the ground within 60 feet of you with hardened, jagged filth for the duration.
   The area is Difficult Terrain, and when a creature enters it for the first time on a
   turn or starts its turn there, it makes a Dexterity saving throw, taking your
-  Humoral die total as Piercing damage on a failure.
+  Humoral die total as Bludgeoning damage on a failure.
 - **Overcharged — Feculent Armament (4 Sorcery Points).** You force out a mass of
   shit—moldable but iron-hard—and, as part of this Bonus Action, mold it in your hand
   into a weapon of your choice. The weapon lasts until you finish a Long Rest and has
@@ -156,7 +156,7 @@ spirits, a sphere of black smog, or a blast strong enough to flatten a crowd.
 Your body becomes a more productive and more resilient chemical engine. You gain the
 following benefits.
 
-**Hardened Constitution.** You have Resistance to Acid and Psychic damage, you are
+**Hardened Constitution.** You have Resistance to Acid and Poison damage, you are
 immune to the Poisoned condition, and you can't be nauseated or sickened by
 nonmagical means.
 
@@ -172,7 +172,7 @@ option is reduced by 1 Sorcery Point.
 Speed equal to your Speed for the feature's duration, propelled by jets of gas.
 Whenever a creature of your choice starts its turn within 5 feet of you, or you fly
 within 5 feet of a creature of your choice during your movement, that creature makes a
-Constitution saving throw, taking 1d8 Acid or Psychic damage on a failed save.
+Constitution saving throw, taking 1d8 Acid or Bludgeoning damage on a failed save.
 
 **Quickening Ichor.** You gain a generative essence with two uses.
 
@@ -230,13 +230,13 @@ Your mastery over the body's fluids becomes total. You gain the following benefi
 **Reflexive Secretion.** You can vent a Humor's Burst option as part of casting a
 Sorcerer spell, requiring no action.
 
-**Perfected Body.** You are immune to Acid and Psychic damage, you no longer need to
+**Perfected Body.** You are immune to Acid and Poison damage, you no longer need to
 eat, drink, or breathe, and you have Blindsight with a range of 30 feet.
 
 **The Great Purge.** As a Magic action, you erupt with every humor at once in a
 30-foot-radius Sphere centered on yourself. Each creature in the area makes a
 Constitution saving throw. On a failed save, a creature takes 10d8 Acid damage plus
-10d8 Psychic damage and has the Prone condition; it also has the Poisoned and Blinded
+10d8 Bludgeoning damage and has the Prone condition; it also has the Poisoned and Blinded
 conditions for 1 minute and the Frightened condition until the end of its next turn.
 On a successful save, it takes half as much damage and has the Prone condition only.
 
