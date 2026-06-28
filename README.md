@@ -44,3 +44,10 @@ tables. Tune the dice and Sorcery Point costs down a notch if your group runs le
 | 20 | [Euphoric Sorcery](./subclasses/sorcerer/20-euphoric-sorcery.md) | Sensation overload; stacking Ecstasy & Climax | Offense / Control |
 | 21 | [Ejaculation Sorcery](./subclasses/sorcerer/21-ejaculation-sorcery.md) | Anointing seed — empower weapons, buff casters, refuel allies | Support / Buff |
 | 22 | [Breastmilk Sorcery](./subclasses/sorcerer/22-breastmilk-sorcery.md) | Restorative milk — healing, cleansing, revival | Healer / Support |
+
+## Other classes
+
+Subclasses are organized one folder per class under [`subclasses/`](./subclasses/):
+
+- **Sorcerer** — the twenty-two origins above, in [`subclasses/sorcerer/`](./subclasses/sorcerer/).
+- **Paladin** — ten homebrew Oaths in [`subclasses/paladin/`](./subclasses/paladin/) (see its [index](./subclasses/paladin/README.md)).

@@ -105,8 +105,8 @@ Critical Hit with a Sorcerer spell or reduce a creature to 0 Hit Points with Psy
 you gain 1 Ecstasy.
 
 **Overwhelm.** When a creature fails a saving throw against your Climax or against a Sorcerer
-spell of yours that deals Psychic damage, it has Disadvantage on the next saving throw it
-makes before the start of your next turn.
+spell of yours that deals Psychic damage, it has Disadvantage on the saving throws it makes
+until the end of your next turn.
 
 ## Level 14: Rapture
 
