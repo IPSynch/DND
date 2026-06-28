@@ -43,10 +43,12 @@ As a Bonus Action, you give in to the hunger for 1 minute. While it lasts:
 
 ## Level 7: Aura of the Predator
 
-While your **Aura of Protection** is active, enemies in it that are below half their Hit Point
-maximum have **Disadvantage on attack rolls against you** (they sense they are prey). When you
-reduce a creature to 0 Hit Points, you and each ally in your aura gain **Temporary Hit Points
-equal to your Charisma modifier**.
+While your **Aura of Protection** is active, you and each ally in it have **Advantage on saving
+throws against being Frightened**, and whenever you reduce a creature to 0 Hit Points, you and
+each ally in the aura gain **Temporary Hit Points equal to your Charisma modifier**.
+
+In addition, enemies in the aura that are below half their Hit Point maximum have **Disadvantage
+on attack rolls against you** (they sense they are prey).
 
 ## Level 15: Swallow Whole
 

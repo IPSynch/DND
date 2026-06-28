@@ -61,11 +61,14 @@ your Rapturous Display, you regain Hit Points equal to your Paladin level.
 
 ## Level 7: Aura of Intoxication
 
-You exude a heady, dizzying musk. While your **Aura of Protection** is active, allies in it have
-**Advantage on saving throws against being Frightened**, and each enemy in it has **Disadvantage
-on saving throws against your Charmed effects and your Psychic damage**. Once on each of your
-turns, when an enemy in the aura fails a saving throw against one of your features or spells, you
-or an ally within the aura regains **Hit Points equal to your Charisma modifier**.
+You exude a heady, dizzying musk. While your **Aura of Protection** is active, you and each ally
+in it have **Advantage on saving throws against being Charmed or Frightened** and gain
+**Temporary Hit Points equal to your Charisma modifier at the start of each of their turns**.
+
+In addition, each enemy in the aura has **Disadvantage on saving throws against your Charmed
+effects and your Psychic damage**, and once on each of your turns when an enemy in the aura fails
+a saving throw against one of your features or spells, you or an ally within the aura regains
+**Hit Points equal to your Charisma modifier**.
 
 ## Level 15: Irresistible
 

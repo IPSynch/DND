@@ -54,11 +54,14 @@ As a Bonus Action, you bless your chamber for 1 minute. For the duration:
 
 ## Level 7: Aura of the Marksman
 
-While your **Aura of Protection** is active, you and allies in it ignore **half cover** on ranged
-attacks and **don't suffer Disadvantage for firing into melee or at long range**. When an enemy
-you can see within 60 feet hits an ally with an attack, you can use your **Reaction** to fire a
-covering shot at it: make a ranged attack with your Oathbound Firearm, and on a hit the enemy
-takes the weapon's damage and its attack against your ally takes a **−2 penalty** to the result.
+While your **Aura of Protection** is active, you and each ally in it ignore **half cover and
+three-quarters cover** on ranged attacks and **don't suffer Disadvantage for firing into melee or
+at long range**.
+
+In addition, when an enemy you can see within 60 feet hits an ally with an attack, you can use
+your **Reaction** to fire a covering shot at it: make a ranged attack with your Oathbound Firearm,
+and on a hit the enemy takes the weapon's damage and its attack against your ally takes a **−2
+penalty** to the result.
 
 ## Level 15: Trick Shooting
 

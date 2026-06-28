@@ -44,13 +44,18 @@ As a Bonus Action, you can take a flawless dueling stance for 1 minute. For the 
   force it to make a **Strength saving throw** against your spell save DC; on a failure it
   can't take Reactions until the start of its next turn (you cut down its guard).
 
-## Level 7: Deflecting Riposte
+## Level 7: Aura of the Duelist
 
-Your defense is your offense. When you or a creature you can see within 5 feet of you is hit
-by an attack, you can use your **Reaction** to parry, reducing the damage by **1d10 + your
+Your poise spreads to everyone fighting at your side. While your **Aura of Protection** is
+active, you and each ally in it gain a **+2 bonus to AC against the first attack roll made
+against them each round** (you turn the opening strike aside) and have **Advantage on
+opportunity attacks**.
+
+**Deflecting Riposte (Reaction).** When you or a creature you can see within 5 feet of you is
+hit by an attack, you can use your **Reaction** to parry, reducing the damage by **1d10 + your
 Charisma modifier + your Paladin level**. If this reduces the damage to 0 and the attacker is
-within your Distant Edge range, you can immediately make **one melee weapon attack** against
-it as part of this Reaction.
+within your Distant Edge range, you can immediately make **one melee weapon attack** against it
+as part of this Reaction.
 
 ## Level 15: Crossing Slashes
 

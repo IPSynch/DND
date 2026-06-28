@@ -44,11 +44,12 @@ As a Bonus Action, you assert your dominion for 1 minute. For the duration:
 
 ## Level 7: Aura of Submission
 
-While your **Aura of Protection** is active, an enemy in it that tries to move **away from you**
-must spend **1 extra foot of movement for every foot moved** (the aura is Difficult Terrain for
-fleeing it), and a Charmed or Frightened enemy in the aura has its **Speed halved** and **can't
-take Reactions**. Allies in the aura have **Advantage on saving throws against being Charmed or
-Frightened**.
+While your **Aura of Protection** is active, you and each ally in it have **Advantage on saving
+throws against being Charmed or Frightened** and against being moved against their will.
+
+In addition, an enemy in the aura that tries to move **away from you** must spend **1 extra foot
+of movement for every foot moved** (the aura is Difficult Terrain for fleeing it), and a Charmed
+or Frightened enemy in the aura has its **Speed halved** and **can't take Reactions**.
 
 ## Level 15: Will of the Sovereign
 

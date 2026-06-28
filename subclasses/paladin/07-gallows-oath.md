@@ -44,11 +44,13 @@ drops to 0 Hit Points or you condemn another). While it is your Condemned target
 
 ## Level 7: Aura of the Scaffold
 
-While your **Aura of Protection** is active, your **Condemned target** and any enemy that starts
-its turn in the aura while below half its Hit Point maximum must succeed on a **Wisdom saving
-throw** or have the **Frightened** condition until the start of its next turn. A creature
-Frightened this way has **Disadvantage on attack rolls against everyone but you** (it dares not
-take its eyes off the headsman).
+While your **Aura of Protection** is active, you and each ally in it have **Advantage on attack
+rolls against Frightened creatures and against your Condemned target**.
+
+In addition, your **Condemned target** and any enemy that starts its turn in the aura while below
+half its Hit Point maximum must succeed on a **Wisdom saving throw** or have the **Frightened**
+condition until the start of its next turn. A creature Frightened this way has **Disadvantage on
+attack rolls against everyone but you** (it dares not take its eyes off the headsman).
 
 ## Level 15: Public Execution
 

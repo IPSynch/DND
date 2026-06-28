@@ -48,11 +48,13 @@ As a Bonus Action, you make your every strike a vector of rot for 1 minute. For 
 
 ## Level 7: Aura of Pestilence
 
-A reek of decay pours off you. While your **Aura of Protection** is active, each enemy that
-starts its turn in it makes a **Constitution saving throw** or takes **Necrotic damage equal to
-your Paladin level** and has **Disadvantage on its next attack roll** before the start of its
-next turn. Your allies in the aura are **immune to disease** and have **Resistance to Necrotic
-damage**.
+A reek of decay pours off you that sickens your foes but only hardens your friends. While your
+**Aura of Protection** is active, you and each ally in it are **immune to disease** and have
+**Resistance to Necrotic and Poison damage**.
+
+In addition, each enemy that starts its turn in the aura makes a **Constitution saving throw** or
+takes **Necrotic damage equal to your Paladin level** and has **Disadvantage on its next attack
+roll** before the start of its next turn.
 
 ## Level 15: Scattershot Filth
 

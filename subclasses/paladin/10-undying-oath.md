@@ -43,9 +43,11 @@ death for 1 minute. While it lasts:
 
 ## Level 7: Aura of the Wake
 
-While your **Aura of Protection** is active, an ally in it that would drop to 0 Hit Points instead
-drops to **1 Hit Point** the first time it would do so each round (the grave will not have them
-while you stand). When an enemy in the aura deals damage to one of your allies, that enemy takes
+While your **Aura of Protection** is active, you and each ally in it have **Resistance to Necrotic
+damage**, and an ally in it (or you) that would drop to 0 Hit Points instead drops to **1 Hit
+Point** the first time it would do so each round (the grave will not have them while you stand).
+
+In addition, when an enemy in the aura deals damage to one of your allies, that enemy takes
 **Necrotic damage equal to your Charisma modifier**.
 
 ## Level 15: Return

@@ -49,10 +49,14 @@ accrued Demon Power.
 
 ## Level 7: Aura of Dread
 
-The air around you curdles with menace. While your **Aura of Protection** is active, enemies that
-start their turn in it must succeed on a **Wisdom saving throw** or have the **Frightened**
-condition until the start of their next turn. While you are transformed, the aura's effect also
-imposes **Disadvantage on the first attack roll** each frightened creature makes against you.
+The air around you curdles with menace, sheltering your own in the demon's shadow. While your
+**Aura of Protection** is active, you and each ally in it have **Resistance to Necrotic and Fire
+damage** and **Advantage on saving throws against being Frightened**.
+
+In addition, enemies that start their turn in the aura must succeed on a **Wisdom saving throw**
+or have the **Frightened** condition until the start of their next turn. While you are
+transformed, a creature frightened this way also has **Disadvantage on the first attack roll** it
+makes against you each turn.
 
 ## Level 15: Deepening Corruption
 

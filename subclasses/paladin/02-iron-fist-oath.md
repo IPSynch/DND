@@ -53,12 +53,12 @@ As a Bonus Action, you flood your body with righteous power for 1 minute. For th
 ## Level 7: Aura of the Vanguard
 
 You plant yourself between your allies and harm. While your **Aura of Protection** is active,
-each enemy that starts its turn within the aura or enters it for the first time on a turn has
-its **Speed halved** until the start of its next turn unless it succeeds on a Strength saving
-throw against your spell save DC. In addition, when an ally within the aura is hit by an attack,
-you can use your **Reaction** to take **half** of that damage instead (the ally takes the other
-half), and you can immediately make **one Unarmed Strike** against the attacker if it is within
-your reach.
+you and each ally in it have **Resistance to Bludgeoning, Piercing, and Slashing damage from
+nonmagical attacks** and **can't be knocked Prone or moved against their will** by enemies.
+
+In addition, when an ally within the aura is hit by an attack, you can use your **Reaction** to
+take **half** of that damage instead (the ally takes the other half), and you can immediately
+make **one Unarmed Strike** against the attacker if it is within your reach.
 
 ## Level 15: Unbreakable
 
