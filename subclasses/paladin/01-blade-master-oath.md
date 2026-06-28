@@ -33,6 +33,14 @@ attack** in every respect — it benefits from Divine Smite, your Weapon Mastery
 Improved Divine Smite, and any feature that triggers on a melee weapon attack. This range
 increases to **60 feet** at 7th level, **90 feet** at 15th, and **120 feet** at 20th.
 
+## Level 3: Sheer Sharpness
+
+Your edge is so keen it bites even on a clean cut. Whenever you attack with a weapon that has
+the **Graze** Weapon Mastery property, it deals its **Graze damage (equal to your attack's
+ability modifier) on a hit as well as on a miss** — on a hit, that Graze damage is added to the
+attack's normal damage as extra damage of the weapon's type. (Keeping **Graze** as your prepared
+Weapon Mastery thus adds your ability modifier to every successful strike.)
+
 ## Level 3: Channel Divinity — Unrivaled Stance
 
 As a Bonus Action, you can take a flawless dueling stance for 1 minute. For the duration:
@@ -62,17 +70,20 @@ as part of this Reaction.
 Your blade moves faster than the eye. Once on each of your turns when you hit a creature with a
 melee weapon attack, you can deal an extra cut: each creature of your choice within **10 feet
 of the target** takes **slashing damage equal to your Charisma modifier**, and you can choose
-one of them to suffer the same Weapon Mastery property you applied to the original target. In
-addition, whenever you score a critical hit with a weapon, you can make **one additional weapon
-attack** as part of the same action.
+one of them to suffer the same Weapon Mastery property you applied to the original target —
+including, if you're wielding a **Graze** weapon, its Graze damage (per Sheer Sharpness, that
+Graze damage lands whether the cut would have hit or missed). In addition, whenever you score a
+critical hit with a weapon, you can make **one additional weapon attack** as part of the same
+action.
 
 ## Level 20: World's Strongest Swordsman
 
 As a Bonus Action, you become the apex of the blade for 10 minutes. You gain the following
 benefits:
 
-- Your **Distant Edge** range becomes **120 feet**, and your melee weapon attacks ignore
-  **Resistance** to their damage and treat **half cover and three-quarters cover as no cover**.
+- Your **Distant Edge** range **doubles** (to **240 feet**, twice its passive 120-foot reach at
+  this level), and your melee weapon attacks ignore **Resistance** to their damage and treat
+  **half cover and three-quarters cover as no cover**.
 - You make **one additional attack** whenever you take the Attack action (this stacks with
   Extra Attack).
 - Each time you hit a creature with a weapon attack, it takes an extra **2d8 Force** damage as

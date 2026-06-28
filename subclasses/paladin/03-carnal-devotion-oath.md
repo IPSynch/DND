@@ -31,6 +31,12 @@ You fight as you were born. You gain the following benefits:
   equals **10 + your Constitution modifier + your Charisma modifier**.
 - **Loving Hands.** Whenever you restore Hit Points to a creature other than yourself with Lay
   on Hands or a spell, it also gains **Temporary Hit Points equal to your Charisma modifier**.
+- **Maddening Allure.** Your **Psychic damage ignores Resistance** and treats **Immunity to
+  Psychic damage as Resistance** instead. In addition, against your effects that impose the
+  **Charmed** condition, a target's defenses are softened by one step: **Immunity to the Charmed
+  condition becomes Advantage** on the save (it can still be Charmed, just harder), **Advantage
+  on that save becomes a normal roll**, and a creature with neither makes the save with
+  **Disadvantage**.
 
 ## Level 3: Rapturous Display
 
@@ -87,11 +93,12 @@ following benefits:
 - Your **Heat** Channel Divinity is active for free for the duration (and its Release Bonus
   Action improves: Drenching Spray becomes a **30-foot Cone**, and Saturate's Slow lasts **1
   minute**, with a repeated save at the end of each of the target's turns).
-- When you use your **Rapturous Display**, it affects a **30-foot Cone or every enemy within 30
+- When you use your **Rapturous Display**, it affects a **60-foot Cone or every enemy within 30
   feet** of you, and creatures that fail are Charmed for 1 minute (repeating the save at the end
   of each of their turns).
-- You and each ally within 10 feet of you regain **Hit Points equal to your Charisma modifier**
-  at the start of each of your turns, and you have **Resistance to all damage**.
+- You and each ally within 10 feet of you regain **Hit Points equal to your Charisma modifier +
+  your Proficiency Bonus** at the start of each of their turns, and you have **Resistance to all
+  damage**.
 
 Once you use this feature, you can't use it again until you finish a Long Rest, unless you expend
 a 5th-level spell slot to use it again.
