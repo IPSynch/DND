@@ -21,6 +21,17 @@ foe laid low by your bowels dies knowing what you thought of them.
 | 13 | *Blight*, *Giant Insect* |
 | 17 | *Cloudkill*, *Contagion* |
 
+## Level 3: Bared and Befouled
+
+This oath knows no modesty — its magic vents only from a body left utterly exposed. To use **any
+feature of this subclass**, you must be **completely naked, with your anus uncovered and
+unobstructed**: armor, any garment covering your hindquarters, or anything plugging or capping
+your anus chokes off the flow and disables your oath features until removed. So bared, you gain:
+
+- **Unclad Defense.** While you wear no armor and no clothing, and your anus is uncovered, your
+  base Armor Class equals **10 + your Constitution modifier + your Charisma modifier**. You can
+  still hold a Shield and gain its bonus.
+
 ## Level 3: Filth-Forged Arsenal
 
 You arm yourself from within. As a **Bonus Action**, you excrete and harden a mass of filth
@@ -45,6 +56,20 @@ As a Bonus Action, you make your every strike a vector of rot for 1 minute. For 
   until the start of your next turn.
 - A creature that fails the save and is **already Poisoned** instead takes your weapon's damage
   again as the rot festers, and you **regain Hit Points equal to your Charisma modifier**.
+
+## Level 3: Channel Divinity — Reeking Guardians
+
+As a Bonus Action, you void a cloud of swirling, half-solid filth that orbits you like vengeful
+spirits for 1 minute (no Concentration required). A **15-foot Emanation** of reeking ordure
+surrounds you and moves with you; you and creatures you choose are unaffected, and the area is
+**Difficult Terrain** for everyone else. When you activate this, and whenever an enemy enters the
+area for the first time on a turn or starts its turn there, that creature makes a **Constitution
+saving throw** against your spell save DC, taking **3d8 Necrotic or Poison** damage (your choice
+each time) on a failed save, or half as much on a success. This damage increases to **4d8** at
+11th level and **5d8** at 17th level.
+
+(This is, in effect, a foul-smelling *Spirit Guardians* that costs no spell slot and requires no
+Concentration.)
 
 ## Level 7: Aura of Pestilence
 
