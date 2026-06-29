@@ -81,6 +81,10 @@ In addition, each enemy that starts its turn in the aura makes a **Constitution 
 takes **Necrotic damage equal to your Paladin level** and has **Disadvantage on its next attack
 roll** before the start of its next turn.
 
+**Rot Unrelenting.** Your **Necrotic and Poison damage ignores Resistance** and treats
+**Immunity to those damage types as Resistance** instead — your filth corrodes even those things
+that should be beyond it.
+
 ## Level 15: Scattershot Filth
 
 You lay down a barrage. Once on each of your turns when you take the Attack action, you can
