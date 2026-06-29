@@ -64,9 +64,9 @@ spirits for 1 minute (no Concentration required). A **15-foot Emanation** of ree
 surrounds you and moves with you; you and creatures you choose are unaffected, and the area is
 **Difficult Terrain** for everyone else. When you activate this, and whenever an enemy enters the
 area for the first time on a turn or starts its turn there, that creature makes a **Constitution
-saving throw** against your spell save DC, taking **3d8 Necrotic or Poison** damage (your choice
-each time) on a failed save, or half as much on a success. This damage increases to **4d8** at
-11th level and **5d8** at 17th level.
+saving throw** against your spell save DC, taking **1d8 Necrotic or Poison** damage (your choice
+each time) on a failed save, or half as much on a success. This damage increases to **2d8** at
+11th level and **3d8** at 17th level.
 
 (This is, in effect, a foul-smelling *Spirit Guardians* that costs no spell slot and requires no
 Concentration.)
