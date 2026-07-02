@@ -15,8 +15,12 @@ Points** rather than spell slots.
 
 | Class | Identity | Vibe |
 |-------|----------|------|
-| [The Visceralist](./visceralist.md) | The body unleashed | Feral body-horror; raw, aggressive, near-naked brute-caster |
-| [The Secretionist](./secretionist.md) | The body as a chemistry set | Clinical mad-flesh-alchemist; precise, methodical, reagent-driven |
+| [The Visceralist](./visceralist.md) | The body unleashed | Feral body-horror; raw, aggressive, near-naked brute-caster **(finalized — has subclasses)** |
+| [The Secretionist](./secretionist.md) | The body as a chemistry set | Clinical mad-flesh-alchemist; preserved as the alternate-flavor twin |
+
+**The Visceralist is the maintained class going forward** — its twelve subclasses ("Visceral
+Disciplines") live in [`subclasses/visceralist/`](../subclasses/visceralist/README.md). The
+Secretionist remains as its mechanically identical alternate skin.
 
 ### Visceralist vs. Secretionist — how to choose
 

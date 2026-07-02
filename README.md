@@ -51,6 +51,7 @@ Subclasses are organized one folder per class under [`subclasses/`](./subclasses
 
 - **Sorcerer** — the twenty-two origins above, in [`subclasses/sorcerer/`](./subclasses/sorcerer/).
 - **Paladin** — ten homebrew Oaths in [`subclasses/paladin/`](./subclasses/paladin/) (see its [index](./subclasses/paladin/README.md)).
+- **Visceralist** (homebrew base class) — twelve Visceral Disciplines in [`subclasses/visceralist/`](./subclasses/visceralist/) (see its [index](./subclasses/visceralist/README.md)).
 
 ## Homebrew base classes
 
