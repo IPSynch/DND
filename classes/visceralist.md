@@ -84,7 +84,14 @@ seconds — the engine that makes bleeding yourself for power survivable. You ga
 
 As a **Bonus Action**, you flood yourself with primed, over-rich fluids for **1 minute**. You can
 do this **twice**, and you regain all expended uses on a Long Rest (this increases to **3 uses**
-at 10th level and **4 uses** at 18th level). While in **Rut**:
+at 10th level and **4 uses** at 18th level).
+
+**Forced Heat.** Even with no uses remaining, you can enter Rut by **spending 10 Hit Points** (no
+extra action beyond the Bonus Action). As with casting, this can't reduce you below 1 Hit Point —
+if it would, you enter Rut anyway, drop to 1, and gain **1 level of Exhaustion** as your body
+burns reserves it doesn't have.
+
+While in **Rut**:
 
 - Your **Fluidic spell save DC increases by 1**.
 - You have **Advantage on Constitution saving throws** (including to maintain Concentration).
