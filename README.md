@@ -51,3 +51,11 @@ Subclasses are organized one folder per class under [`subclasses/`](./subclasses
 
 - **Sorcerer** — the twenty-two origins above, in [`subclasses/sorcerer/`](./subclasses/sorcerer/).
 - **Paladin** — ten homebrew Oaths in [`subclasses/paladin/`](./subclasses/paladin/) (see its [index](./subclasses/paladin/README.md)).
+
+## Homebrew base classes
+
+Full custom classes live in [`classes/`](./classes/) (see its [index](./classes/README.md)):
+
+- **The Visceralist** & **The Secretionist** — d12 Constitution special-casters built on the
+  Bodily Fluids & Body Tissues concept, casting [Fluidic Abilities](./classes/fluidic-abilities.md)
+  paid for in Hit Points instead of spell slots.
