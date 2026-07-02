@@ -42,7 +42,7 @@ little on.
 | 14 | +5 | Refined Secretions | 6 | 15 | 7th |
 | 15 | +5 | — | 6 | 16 | 8th |
 | 16 | +5 | Ability Score Improvement | 6 | 17 | 8th |
-| 17 | +6 | — | 6 | 18 | 9th |
+| 17 | +6 | Refined Distillation | 6 | 18 | 9th |
 | 18 | +6 | Secretory Specialization capstone | 6 | 19 | 9th |
 | 19 | +6 | Epic Boon / ASI | 6 | 20 | 9th |
 | 20 | +6 | Perfect Chemistry | 6 | 21 | 9th |
@@ -110,17 +110,24 @@ Your simplest formulas become effortless and endlessly repeatable. You gain both
   disease, and you no longer need to eat, drink, breathe, or sleep (your chemistry sustains
   itself; you still gain the benefits of a Long Rest with 4 hours of light activity).
 
+## Level 17: Refined Distillation
+
+Your intermediate formulas become free-flowing as well. You can cast any Fluidic Ability or spell
+of **2nd level that you know for 0 Hit Points**, and you can cast such an ability using either an
+**Action or a Bonus Action** interchangeably (subject to the normal one-leveled-ability-per-turn
+limit until 20th level). This extends **At-Will Reagents** from Refined Secretions, so 1st- and
+2nd-level abilities are now both free.
+
 ## Level 20: Perfect Chemistry
 
 Your body becomes a flawless, inexhaustible reactor. You gain the following benefits:
 
-- **Optimized Vessel.** Your Constitution score increases by 4, to a maximum of **26**. You have
-  **Resistance to all damage** you take from your own Fluidic Abilities, and you can't be reduced
-  below 1 Hit Point by any effect other than being reduced to 0 directly.
+- **Optimized Vessel.** Your Constitution score increases by 4, to a maximum of **26**.
 - **Catalytic Output.** You can cast **two leveled Fluidic Abilities on the same turn** (for
   example, one with your Action and one with a Bonus Action). In addition, **once on each of your
-  turns, one leveled Fluidic Ability you cast costs 0 Hit Points**.
+  turns, a Fluidic Ability of 3rd level or lower that you cast costs 0 Hit Points** (higher-level
+  abilities still cost Hit Points as normal).
 - **Self-Renewing.** You have **Regeneration**: at the start of each of your turns you regain
-  **20 Hit Points** if you have at least 1. When you drop to 0 Hit Points but aren't killed
-  outright, you can choose to instead drop to 1 (once per Long Rest, no action required).
+  **20 Hit Points** if you have at least 1 Hit Point. In addition, the **first time each round
+  that you would be reduced to 0 Hit Points, you instead drop to 1 Hit Point**.
 </content>
