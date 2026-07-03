@@ -1,6 +1,6 @@
 # Visceral Disciplines — Visceralist Subclasses (D&D 2014 / 2024)
 
-Twelve subclasses ("Visceral Disciplines") for [The Visceralist](../../classes/visceralist.md).
+Thirteen subclasses ("Visceral Disciplines") for [The Visceralist](../../classes/visceralist.md).
 Each gains features at Visceralist levels **3, 6, 10, and 18** (the subclass capstone), grants a
 short list of always-known **Discipline Abilities**, and — per the class chassis — its level-3
 package always includes a **Primed feature** with a passive benefit **and** a special Bonus Action
@@ -9,7 +9,7 @@ that function only while you are in **Rut** (Primed Metabolism).
 Tuned strong, as the rest of this project. Capstones are recharge-on-Long-Rest "boss buttons" that
 can also be re-fired by burning a chunk of Hit Points (the class's usual fuel).
 
-## The twelve disciplines
+## The thirteen disciplines
 
 | # | Discipline | Concept | Bent |
 |---|-----------|---------|------|
@@ -25,4 +25,5 @@ can also be re-fired by burning a chunk of Hit Points (the class's usual fuel).
 | 10 | [Ooze](./10-ooze-discipline.md) | Mucus/phlegm/bile — acid, mire, engulf | Control / Striker |
 | 11 | [Frenzy](./11-frenzy-discipline.md) | Adrenaline — turn spent HP into fury (self-buff berserker) | Melee / Striker |
 | 12 | [Lymph](./12-lymph-discipline.md) | Antibodies — cleanse, counter-magic, adaptive immunity | Support / Anti-magic |
+| 13 | [Coitus](./13-coitus-discipline.md) | Sex & seed — anoint, buff, heal, and a charming climax | Support / Control |
 </content>

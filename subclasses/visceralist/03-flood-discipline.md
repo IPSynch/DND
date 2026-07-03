@@ -29,7 +29,8 @@ While in **Rut**, you gain:
 As a **Bonus Action**, you douse a creature within 30 feet (including yourself) in invigorating
 fluid. It gains **Temporary Hit Points equal to your Constitution modifier + half your Visceralist
 level**, and until the start of your next turn it adds a **d4** to its attack rolls, ability
-checks, and saving throws (this doesn't require Concentration).
+checks, and saving throws (this doesn't require Concentration). **This is an unlimited ability —
+you can use it any number of times, with no cost and no daily limit.**
 
 ## Level 6: Fields of Flow
 
@@ -56,6 +57,8 @@ As a **Magic action**, you rupture into a standing tidal surge for 1 minute (no 
 - The area is **Difficult Terrain** for your enemies and open water for your allies (they ignore
   it). Allies in it have **Advantage on saving throws** and regain **Hit Points equal to your
   Constitution modifier** at the start of each of their turns.
+- For as long as an ally remains in the emanation, it adds a bonus **2d4** to its **attack rolls,
+  saving throws, ability checks, and its damage rolls** (add the 2d4 to each such roll's total).
 - Each enemy that enters the area for the first time on a turn or starts its turn there makes a
   **Strength saving throw**, taking your **Flood die + your Constitution modifier** in Acid damage
   and being knocked **Prone** and pushed 10 feet on a failure; a creature that fails is also
