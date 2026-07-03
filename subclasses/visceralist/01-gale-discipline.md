@@ -29,7 +29,9 @@ While in **Rut**, you gain:
 
 Any Fluidic Ability you cast that creates an **emanation or aura centered on yourself** (such as
 *Reeking Guardians*) is cast **without requiring Concentration**; instead it lasts up to 1 minute
-and moves with you. You can have one such ability sustained this way at a time.
+and moves with you. You can have one such ability sustained this way at a time. While you have one
+sustained, you gain **Temporary Hit Points equal to your Constitution modifier** at the start of
+each of your turns — you thrive at the heart of your own filthy storm.
 
 ## Level 6: Backdraft
 

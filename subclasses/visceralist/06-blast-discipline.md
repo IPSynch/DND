@@ -40,6 +40,11 @@ becomes **30 feet**, and your Fire damage (from any source) scores its dice as i
 **Advantage** — roll each Fire damage die twice and take the higher — once on each of your turns.
 You also gain **Resistance to Fire damage** and **immunity to your own explosions'** damage.
 
+**Blast Away (Reaction).** When you take damage, you can use your Reaction to detonate beneath
+yourself, **halving that damage** and launching yourself up to **15 feet** in a direction of your
+choice (this movement doesn't provoke Opportunity Attacks and can send you upward). You can do this
+a number of times per Long Rest equal to your Constitution modifier.
+
 ## Level 10: Howitzer
 
 Once on each of your turns, when you deal Fire damage to a creature, it must succeed on a

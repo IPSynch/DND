@@ -55,12 +55,15 @@ While in **Rut**, you gain:
 
 ## Level 6: Prolific & Refreshing
 
-Your output grows copious and restorative. When you use **Anointing Release**, you can anoint **two**
-targets at once. In addition, once on each of your turns when you anoint or heal an ally, you can
-spend **10 Hit Points** to let that ally immediately **regain one expended limited resource of its
-choice** — a use of a class feature, a maneuver/Superiority die, a Bardic Inspiration die, a point
-of Ki/Focus, a Rage, or a spent spell slot of **3rd level or lower** (subject to the class
-can't-drop-below-1 rule).
+Your output grows copious and restorative. When you use **Anointing Release**, you can anoint
+**two** targets at once.
+
+**Restorative Coupling.** **Only outside of combat**, you can share a few minutes of sex with a
+willing creature; when you do, you spend **10 Hit Points** to let it **regain one expended limited
+resource of its choice** — a use of a class feature, a maneuver/Superiority die, a Bardic
+Inspiration die, a point of Ki/Focus, a Rage, or a spent spell slot of **3rd level or lower**
+(subject to the class can't-drop-below-1 rule). A given creature can benefit from Restorative
+Coupling only **once per Short or Long Rest**.
 
 ## Level 10: Aura of Ecstasy
 

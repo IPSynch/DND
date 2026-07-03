@@ -20,6 +20,10 @@ damage (your choice), counts as **magical**, and increases to **1d10** at 7th le
 Strike as a Bonus Action**. You can use Unarmed Strikes for any Fluidic feature that calls for a
 melee weapon attack.
 
+In addition, your surging musculature makes you an athletic terror: you can **Grapple or Shove** a
+creature as a **Bonus Action**, you gain a **climb speed equal to your walking Speed**, and your
+long and high jump distances are **doubled**.
+
 ## Level 3: Overclocked Sinew (Primed)
 
 While in **Rut**, you gain:

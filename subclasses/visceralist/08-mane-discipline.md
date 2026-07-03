@@ -38,6 +38,12 @@ You gain the **Extra Attack** feature. In addition, you have **Advantage on chec
 with your hair, a creature Grappled by your hair is also **Restrained**, and you can make hair
 Unarmed Strikes and cast Fluidic Abilities without needing free hands (the hair does the work).
 
+**Constricting Drain.** At the start of each of your turns, each creature Grappled by your hair
+takes your **Mane die** in Slashing or Piercing damage (or your imbued damage type, if you're in
+Rut), and you gain **Temporary Hit Points equal to the number of creatures you currently have
+Grappled** with your hair. (This replaces the smaller Constitution-modifier drain from Imbued
+Mane.)
+
 ## Level 10: Strangling Storm
 
 Once on each of your turns when you hit with a hair strike, you can lash outward: each creature of
