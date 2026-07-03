@@ -15,7 +15,7 @@ tool, and every tool of yours is generous.
 (Cure Wounds)*, *Steady Nerves (Enhance Ability)*, *Invigorating Musk (Aura of Vitality)*, *Adrenal
 Rush (Haste)*, *Word of Vigor (Power Word Fortify)*.
 
-Your **Ardor die** is **2d8** at 3rd level, **3d8** at 7th, **4d8** at 11th, and **5d8** at 15th.
+Your **Ardor die** is **1d8** at 3rd level, **2d8** at 7th, **3d8** at 11th, and **4d8** at 15th.
 
 ## Level 3: Anointing Release
 

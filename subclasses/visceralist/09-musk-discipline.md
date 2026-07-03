@@ -10,7 +10,7 @@ with courage. You don't need to win the fight — you need only make everyone *w
 (Ray of Sickness)*, *Nerve Lock (Hold Person)*, *Invigorating Musk (Aura of Vitality)*, *Blood
 Puppetry (Hold Monster)*, *Melt Mind (Feeblemind)*.
 
-Your **Musk die** is **2d8** at 3rd level, **3d8** at 7th, **4d8** at 11th, and **5d8** at 15th.
+Your **Musk die** is **1d8** at 3rd level, **2d8** at 7th, **3d8** at 11th, and **4d8** at 15th.
 
 ## Level 3: Intoxicating Cloud
 

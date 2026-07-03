@@ -11,7 +11,7 @@ like a swarm of white cells strangling an infection. You are the party's living 
 Restoration)*, *Blood Seizure (Counterspell)*, *Unmake Magic (Dispel Magic)*, *Membrane Globe
 (Globe of Invulnerability)*, *Total Restoration (Heal)*.
 
-Your **Lymph die** is **2d8** at 3rd level, **3d8** at 7th, **4d8** at 11th, and **5d8** at 15th.
+Your **Lymph die** is **1d8** at 3rd level, **2d8** at 7th, **3d8** at 11th, and **4d8** at 15th.
 
 ## Level 3: Antibodies
 

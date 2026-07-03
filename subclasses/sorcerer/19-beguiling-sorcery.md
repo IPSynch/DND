@@ -43,7 +43,7 @@ doesn't end the Charmed condition.
 hear you. It makes a Wisdom saving throw against your spell save DC. On a failed save, it
 takes Psychic damage equal to your Beguiling die total and has the Charmed condition until
 the end of its next turn; on a success, it takes half as much damage. Your Beguiling die
-total is **2d8** at level 3, **3d8** at level 7, **4d8** at level 11, and **5d8** at level
+total is **1d8** at level 3, **2d8** at level 7, **3d8** at level 11, and **4d8** at level
 15.
 
 ## Level 3: Beguiling Grace

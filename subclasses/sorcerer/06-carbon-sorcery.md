@@ -37,7 +37,7 @@ spend Sorcery Points to manifest one of the allotropes below. Each uses your spe
 save DC.
 
 The healing and damage of these effects increase as you gain Sorcerer levels: the
-amount is **2d8** at level 3, **3d8** at level 7, **4d8** at level 11, and **5d8**
+amount is **1d8** at level 3, **2d8** at level 7, **3d8** at level 11, and **4d8**
 at level 15. This amount is referred to below as your **Carbon die total**.
 
 ***Diamond (defense).*** As a Bonus Action (1 Sorcery Point), you or a creature you

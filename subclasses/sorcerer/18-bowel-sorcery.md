@@ -32,8 +32,8 @@ of its next turn.
 
 You channel the contents of your bowels into magic, no spellcasting required. Your
 damaging Bowel Sorcery effects deal either Poison or Necrotic damage (your choice each
-time you use them), and the amount increases as you gain Sorcerer levels: it is **2d8**
-at level 3, **3d8** at level 7, **4d8** at level 11, and **5d8** at level 15. This amount
+time you use them), and the amount increases as you gain Sorcerer levels: it is **1d8**
+at level 3, **2d8** at level 7, **3d8** at level 11, and **4d8** at level 15. This amount
 is your **Bowel die total**, and all effects below use your spell save DC.
 
 As a Bonus Action, you can release one of the following discharges, paying its Sorcery

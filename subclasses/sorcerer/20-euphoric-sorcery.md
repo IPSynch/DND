@@ -34,8 +34,8 @@ following benefits.
 
 **Psychic Surge.** Whenever you cast a Sorcerer spell that deals damage, you can change
 that spell's damage type to Psychic. The damage of your Euphoric Sorcery features increases
-as you gain Sorcerer levels: it is **2d8** at level 3, **3d8** at level 7, **4d8** at level
-11, and **5d8** at level 15. This amount is your **Euphoria die total**.
+as you gain Sorcerer levels: it is **1d8** at level 3, **2d8** at level 7, **3d8** at level
+11, and **4d8** at level 15. This amount is your **Euphoria die total**.
 
 **Ecstasy.** You have a pool of stacks called Ecstasy, and you can have a number of Ecstasy
 equal to your Charisma modifier (minimum of 3) at a time. The first time on each of your

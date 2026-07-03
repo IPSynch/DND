@@ -11,7 +11,7 @@ make them burn, rot, or freeze. There is always more hair, and it is always grow
 (Web)*, *Bile Tendrils (Evard's Black Tentacles)*, *Fluidic Grip (Telekinesis)*, *Bone Bramble
 (Wall of Thorns)*, *Blood Puppetry (Hold Monster)*.
 
-Your **Mane die** is **2d8** at 3rd level, **3d8** at 7th, **4d8** at 11th, and **5d8** at 15th.
+Your **Mane die** is **1d8** at 3rd level, **2d8** at 7th, **3d8** at 11th, and **4d8** at 15th.
 
 ## Level 3: Prehensile Hair
 

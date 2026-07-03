@@ -13,7 +13,7 @@ whole thing rather funny.
 (Enlarge/Reduce)*, *Bounding Legs (Jump)*, *Fluidic Grip (Telekinesis)*, *Battle Metabolism
 (Tenser's Transformation)*, *Flesh Reshaping (Polymorph)*.
 
-Your **Stretch die** is **2d8** at 3rd level, **3d8** at 7th, **4d8** at 11th, and **5d8** at 15th.
+Your **Stretch die** is **1d8** at 3rd level, **2d8** at 7th, **3d8** at 11th, and **4d8** at 15th.
 
 ## Level 3: Rubber Body
 

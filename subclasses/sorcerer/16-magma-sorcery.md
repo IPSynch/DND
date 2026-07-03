@@ -35,7 +35,7 @@ unless someone uses an action to douse it.
 **Magma Fist.** As a Magic action, make a melee spell attack against a creature within
 10 feet of you. On a hit, the target takes Fire damage equal to your Magma die total,
 and the space it occupies becomes a pool of lava (see Lava Fields). Your Magma die
-total is **2d8** at level 3, **3d8** at level 7, **4d8** at level 11, and **5d8** at
+total is **1d8** at level 3, **2d8** at level 7, **3d8** at level 11, and **4d8** at
 level 15.
 
 ## Level 3: Molten Hide

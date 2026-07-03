@@ -43,8 +43,8 @@ You fight as you were born. You gain the following benefits:
 As a **Magic action**, you flood the senses of those before you. Choose a single creature
 within 30 feet of you, or a **15-foot Cone** originating from you. Each target makes a
 **Wisdom saving throw** against your spell save DC, taking Psychic damage on a failure (half
-as much on a success). The damage is **2d8** at level 3, **3d8** at level 9, **4d8** at level
-13, and **5d8** at level 17 — this is your **Ardor die total**. A single creature that fails
+as much on a success). The damage is **1d8** at level 3, **2d8** at level 9, **3d8** at level
+13, and **4d8** at level 17 — this is your **Ardor die total**. A single creature that fails
 also has the **Charmed** condition until the end of its next turn (it can't take Reactions and
 has Disadvantage on attacks against creatures other than you).
 

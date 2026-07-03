@@ -38,8 +38,8 @@ start of its next turn as ice locks it in place.
 creature in a 10-foot-radius Sphere centered there makes a Constitution saving throw
 against your spell save DC, taking Cold damage equal to your Frost die total on a failed
 save (half as much on a success) and having the Restrained condition until the end of
-its next turn on a failure. Your Frost die total is **2d8** at level 3, **3d8** at level
-7, **4d8** at level 11, and **5d8** at level 15.
+its next turn on a failure. Your Frost die total is **1d8** at level 3, **2d8** at level
+7, **3d8** at level 11, and **4d8** at level 15.
 
 ## Level 3: Frostplate
 

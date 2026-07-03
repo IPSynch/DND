@@ -36,8 +36,8 @@ their Damage Thresholds.
 or object within 5 feet of you. On a hit, the target takes Necrotic damage equal to
 your Decay die total, and its Hit Point maximum is reduced by an amount equal to that
 damage until it finishes a Long Rest. The damage increases as you gain Sorcerer
-levels: it is **2d8** at level 3, **3d8** at level 7, **4d8** at level 11, and
-**5d8** at level 15. This amount is your **Decay die total**. If this reduces a
+levels: it is **1d8** at level 3, **2d8** at level 7, **3d8** at level 11, and
+**4d8** at level 15. This amount is your **Decay die total**. If this reduces a
 Large or smaller nonmagical object or creature's Hit Point maximum to 0, it crumbles
 to fine dust.
 

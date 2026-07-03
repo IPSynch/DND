@@ -12,7 +12,7 @@ Cleric without breaking a sweat — well, without breaking *that* kind of sweat.
 (Cure Wounds)*, *Group Squirt (Mass Healing Word)*, *Invigorating Musk (Aura of Vitality)*, *Mass
 Mending (Mass Cure Wounds)*, *Word of Renewal (Power Word Heal)*.
 
-Your **Milk die** is **2d8** at 3rd level, **3d8** at 7th, **4d8** at 11th, and **5d8** at 15th.
+Your **Milk die** is **1d8** at 3rd level, **2d8** at 7th, **3d8** at 11th, and **4d8** at 15th.
 
 ## Level 3: Overflowing Care
 

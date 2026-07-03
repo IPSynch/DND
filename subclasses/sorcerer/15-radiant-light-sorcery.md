@@ -38,8 +38,8 @@ action to fire a beam of light at a creature within 120 feet of you (ranged spel
 attack). On a hit, the target takes Radiant damage equal to
 your Light die total and, unless it succeeds on a Constitution saving throw against
 your spell save DC, has the Blinded condition until the start of your next turn. Your
-Light die total is **2d8** at level 3, **3d8** at level 7, **4d8** at level 11, and
-**5d8** at level 15.
+Light die total is **1d8** at level 3, **2d8** at level 7, **3d8** at level 11, and
+**4d8** at level 15.
 
 ## Level 3: Lightstep Defense
 

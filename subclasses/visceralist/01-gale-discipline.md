@@ -12,7 +12,7 @@ your Abilities Known, and you can cast each once you can cast abilities of its l
 (Fog Cloud)*, *Reeking Guardians (Spirit Guardians)*, *Bodily Breath (Dragon's Breath)*, *Fart
 Flight (Fly)*, *Killing Fog (Cloudkill)*.
 
-Your **Gale die** is **2d8** at 3rd level, **3d8** at 7th, **4d8** at 11th, and **5d8** at 15th.
+Your **Gale die** is **1d8** at 3rd level, **2d8** at 7th, **3d8** at 11th, and **4d8** at 15th.
 
 ## Level 3: Jet Vents (Primed)
 

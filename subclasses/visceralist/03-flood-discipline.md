@@ -12,7 +12,7 @@ Effective? Ask the people still standing in your puddle.
 *Endless Flow (Create or Destroy Water)*, *Sludge Field (Slow)*, *Invigorating Musk (Aura of
 Vitality)*, *Killing Fog (Cloudkill)*.
 
-Your **Flood die** is **2d8** at 3rd level, **3d8** at 7th, **4d8** at 11th, and **5d8** at 15th.
+Your **Flood die** is **1d8** at 3rd level, **2d8** at 7th, **3d8** at 11th, and **4d8** at 15th.
 
 ## Level 3: Pressure Bladder (Primed)
 

@@ -31,8 +31,8 @@ Hit Points equal to twice your Sorcerer level (refreshed each time you transform
 grow demonic wings that give you a Fly Speed equal to your Speed, and gain the form's
 benefits.
 
-The damage of these forms increases as you gain Sorcerer levels: it is **2d8** at
-level 3, **3d8** at level 7, **4d8** at level 11, and **5d8** at level 15. This
+The damage of these forms increases as you gain Sorcerer levels: it is **1d8** at
+level 3, **2d8** at level 7, **3d8** at level 11, and **4d8** at level 15. This
 amount is your **Demon die total**.
 
 - **Juggernaut Soul (melee tank).** Your size can become Large, you gain a +2 bonus to

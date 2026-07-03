@@ -36,8 +36,8 @@ modifier. You can use a Shield and still gain this benefit.
 ## Level 3: Mother's Milk
 
 You let down a flow of restorative milk at will, no spellcasting required. The potency
-of your milk is your **Milk die total**: it is **2d8** at level 3, **3d8** at level 7,
-**4d8** at level 11, and **5d8** at level 15. (Your Font of Magic feature turns spell
+of your milk is your **Milk die total**: it is **1d8** at level 3, **2d8** at level 7,
+**3d8** at level 11, and **4d8** at level 15. (Your Font of Magic feature turns spell
 slots into Sorcery Points, so you can heal all day instead of casting.) Each option
 below is used as a **Bonus Action** unless noted, and effects with a range use a range
 of **30 feet**.

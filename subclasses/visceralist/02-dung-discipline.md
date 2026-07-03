@@ -11,7 +11,7 @@ when you need someone to stop moving, you simply encase them in your own quick-s
 (Fireball)*, *Burning Filth Blade (Flame Blade)*, *Bile Tendrils (Evard's Black Tentacles)*,
 *Giant Filth Hand (Bigby's Hand)*, *Petrifying Secretion (Flesh to Stone)*.
 
-Your **Dung die** is **2d8** at 3rd level, **3d8** at 7th, **4d8** at 11th, and **5d8** at 15th.
+Your **Dung die** is **1d8** at 3rd level, **2d8** at 7th, **3d8** at 11th, and **4d8** at 15th.
 
 ## Level 3: Filth-Forged Arsenal
 

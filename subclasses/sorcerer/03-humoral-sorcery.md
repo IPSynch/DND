@@ -35,8 +35,8 @@ benefit.
 
 You weaponize every fluid your body makes, no spellcasting required. Your damaging
 Humoral effects deal either Acid or Bludgeoning damage (your choice each time you use
-them), and the amount increases as you gain Sorcerer levels: it is **2d8** at level
-3, **3d8** at level 7, **4d8** at level 11, and **5d8** at level 15. This amount is
+them), and the amount increases as you gain Sorcerer levels: it is **1d8** at level
+3, **2d8** at level 7, **3d8** at level 11, and **4d8** at level 15. This amount is
 your **Humoral die total**, and all effects below use your spell save DC.
 
 As a Bonus Action, you can vent one of the Humors below, paying its Sorcery Point
