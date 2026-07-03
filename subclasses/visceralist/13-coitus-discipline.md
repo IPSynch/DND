@@ -29,8 +29,17 @@ mode (each lasts 1 minute, no Concentration, unless noted):
 - **Mend (a creature).** The target regains **Ardor die + your Constitution modifier** Hit Points
   (instantaneous).
 
-**This is an unlimited ability — you can use it any number of times, with no cost and no daily
-limit.**
+The three modes above are an **unlimited ability — you can use them any number of times, with no
+cost and no daily limit.**
+
+**Deep Coat (lasting).** Instead of the quick modes above, you (or a willing ally) can spend **1
+minute** working a **fist** or a **bludgeoning weapon** thoroughly inside your own vagina or anus,
+painting it to the hilt in a heavy, lasting glaze of seed. Doing so costs **10 Hit Points** (the
+stretch hurts as much as it thrills — subject to the class can't-drop-below-1 rule). **Until you
+finish a Long Rest**, the coated **Unarmed Strikes** (if you used a fist) or the coated
+**bludgeoning weapon** deal an extra **1d6** damage on a hit (the weapon's own type or Radiant,
+chosen when coated). This bonus is **weaker than Lather but far longer-lasting**, needs no
+Concentration, and a creature can benefit from only **one Deep Coat** at a time.
 
 ## Level 3: In the Throes (Primed)
 
