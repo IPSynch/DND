@@ -17,9 +17,9 @@ average:
 
 **Tiers:** S = 4.25+ · A = 3.75–4.24 · B = 3.25–3.74 · C = below 3.25
 
-> All scores assume the applied **dice nerf**: every signature "*XXX die*" now opens at
-> **1d8** at level 3 (was 2d8), scaling **1d8 / 2d8 / 3d8 / 4d8** across the same level
-> breakpoints.
+> All scores assume the applied **dice nerf** (every signature "*XXX die*" opens at **1d8**
+> at level 3, scaling **1d8 / 2d8 / 3d8 / 4d8**) **and the latest balance pass** — see
+> "What changed this pass" at the bottom.
 
 ---
 
@@ -31,9 +31,9 @@ Utility for their real threat.*
 | # | Subclass | Archetype | O | D | H | U | Avg | Tier | Verdict |
 |---|----------|-----------|:-:|:-:|:-:|:-:|:---:|:----:|---------|
 | 1 | Humoral | Do-Everything Bodily Toolkit | 5 | 4 | 4 | 5 | **4.50** | S | **Nerf** — overloaded; cap Overcharged Humors to one/turn, drop Transfusion to 1× die. |
-| 2 | Carbon | Tank / Bruiser Toolkit | 3 | 5 | 4 | 4 | **4.00** | A | **Hold** — sturdiest caster alive; don't let 13+Cha stack with heavy defensive spells. |
+| 2 | Carbon | Tank / Bruiser Toolkit | 3 | 5 | 4 | 4 | **4.00** | A | **Hold** — sturdiest caster alive; don't stack 13+Cha with heavy defensive spells. |
 | 3 | Hallowed | Aura Support Controller | 4 | 4 | 4 | 4 | **4.00** | A | **Nerf** — keep Concentration on *Spirit Guardians* required until level 14. |
-| 4 | Draconic Ascendant | Transforming Dragon Bruiser | 5 | 5 | 1 | 4 | **3.75** | A | **Hold** — a benchmark for the tier; all gated behind Innate Sorcery uptime. |
+| 4 | Draconic Ascendant | Transforming Dragon Bruiser | 5 | 5 | 1 | 4 | **3.75** | A | **Hold** — a benchmark for the tier; gated behind Innate Sorcery uptime. |
 | 5 | Bound Spirit | Guardian Pet Bruiser | 4 | 4 | 3 | 4 | **3.75** | A | **Nerf** — limit the Guardian damage-redirect to CON-mod times/rest. |
 | 6 | Bowel | Filth Control Artillery | 5 | 4 | 1 | 5 | **3.75** | A | **Nerf** — Bowel Breath at 3× die is steep; trim to 2.5× or guarantee half-on-save. |
 | 7 | Demonic Soul | Transforming Demon Bruiser | 5 | 5 | 1 | 3 | **3.50** | B | **Hold** — resist-all-but-radiant is the ceiling, but transformation-gated. |
@@ -41,17 +41,17 @@ Utility for their real threat.*
 | 9 | Freedom | Elastic Mobile Bruiser | 4 | 5 | 1 | 4 | **3.50** | B | **Hold** — resist-all Gears are durable; damage stays fair. |
 | 10 | Radiant Light | Blink Striker / Skirmisher | 4 | 4 | 1 | 5 | **3.50** | B | **Buff** — give Photon Lance a rider so its blasts bite. |
 | 11 | Glacial | Lockdown Control Mage | 4 | 4 | 1 | 5 | **3.50** | B | **Hold** — Restrain→Paralyze lock is the payoff; damage average by design. |
-| 12 | Euphoric | Escalating Psychic Controller | 4 | 4 | 2 | 4 | **3.50** | B | **Nerf** — cap the per-hit Ecstasy bonus or max stacks. |
-| 13 | Breastmilk | Dedicated Healer / Medic | 1 | 4 | 5 | 4 | **3.50** | B | **Buff** — add a small at-will damaging option so it isn't a passenger. |
-| 14 | Seismic | Artillery Prone-Controller | 5 | 3 | 1 | 4 | **3.25** | B | **Hold** — a model of restrained prone-lock design. |
-| 15 | Chronomantic | Tempo / Reaction Manipulator | 2 | 4 | 2 | 5 | **3.25** | B | **Hold** — average undersells it; Time Stop + multi-Reaction is elite. |
-| 16 | Bladesong | Arcane Gish Duelist | 5 | 4 | 1 | 3 | **3.25** | B | **Hold** — strong gish; no healing drags the average. |
-| 17 | Decay | Attrition Debuffer / Executioner | 5 | 3 | 1 | 4 | **3.25** | B | **Hold** — max-HP attrition + Disintegrate, fair vs. creatures. |
-| 18 | Magma | Zone-Control Burn Mage | 4 | 4 | 1 | 4 | **3.25** | B | **Hold** — solid area denial, average burst. |
-| 19 | Ascendant | Metamagic Overcharger | 4 | 4 | 1 | 4 | **3.25** | B | **Buff** — give it one signature damage feature to amplify. |
-| 20 | Beguiling | Charm / Control Dominator | 3 | 3 | 1 | 5 | **3.00** | C | **Buff** — nudge damage up a step, or accept as a lockdown specialist. |
-| 21 | Ejaculation | Buff / Resource Battery | 2 | 3 | 2 | 5 | **3.00** | C | **Hold** — unique refuel niche; a touch more self-defense wouldn't hurt. |
-| 22 | Sundering | Precision Auto-Hit Striker | 4 | 3 | 1 | 3 | **2.75** | C | **Buff** — advance the slash-die upgrades a tier earlier. |
+| 12 | Euphoric | Escalating Psychic Controller | 4 | 4 | 2 | 4 | **3.50** | B | **Buffed** — Tide of Sensation now grants Ecstasy on the first failed save of *any* turn (not just yours). Watch stacking. |
+| 13 | Ascendant | Metamagic Overcharger + Payload | 5 | 4 | 1 | 4 | **3.50** | B | **Buffed** — gained **Ascendant Bolt**, a Bonus-Action nova during Innate Sorcery, so the buffs finally have something of its own to amplify. |
+| 14 | Breastmilk | Dedicated Healer / Medic | 1 | 4 | 5 | 4 | **3.50** | B | **Buff** — add a small at-will damaging option so it isn't a passenger. |
+| 15 | Seismic | Artillery Prone-Controller | 5 | 3 | 1 | 4 | **3.25** | B | **Hold** — a model of restrained prone-lock design. |
+| 16 | Chronomantic | Tempo / Reaction Manipulator | 2 | 4 | 2 | 5 | **3.25** | B | **Hold** — average undersells it; Time Stop + multi-Reaction is elite. |
+| 17 | Bladesong | Arcane Gish Duelist | 5 | 4 | 1 | 3 | **3.25** | B | **Hold** — strong gish; no healing drags the average. |
+| 18 | Decay | Attrition Debuffer / Executioner | 5 | 3 | 1 | 4 | **3.25** | B | **Hold** — max-HP attrition + Disintegrate, fair vs. creatures. |
+| 19 | Magma | Zone-Control Burn Mage | 4 | 4 | 1 | 4 | **3.25** | B | **Hold** — solid area denial, average burst. |
+| 20 | Sundering | Precision Auto-Hit + Surgical Cuts | 4 | 3 | 1 | 5 | **3.25** | B | **Buffed** — slash-die upgrades come a tier earlier and **Surgical Cuts** adds a Sorcery-Point menu (Slow, sunder armor, disarm, blind, silence, cripple). No longer one-note. |
+| 21 | Beguiling | Charm / Control Dominator | 3 | 3 | 1 | 5 | **3.00** | C | **Buff** — nudge damage up a step, or accept as a lockdown specialist. |
+| 22 | Ejaculation | Buff / Resource Battery | 2 | 3 | 2 | 5 | **3.00** | C | **Hold** — unique refuel niche; a touch more self-defense wouldn't hurt. |
 
 ---
 
@@ -67,10 +67,10 @@ so the field clusters tight and high.*
 | 3 | Iron Fist | Unbreakable Brawler Tank | 5 | 5 | 2 | 3 | **3.75** | A | **Hold** — best frontline with real fists; powerful but fair. |
 | 4 | Black Powder | Gunslinger Ranged DPS | 5 | 3 | 2 | 5 | **3.75** | A | **Nerf** — tighten Final Judgment's execute threshold (PB×2 is generous). |
 | 5 | Carnal Devotion | Charmer Support Paladin | 3 | 4 | 4 | 4 | **3.75** | A | **Hold** — the most well-rounded oath; nicely balanced. |
-| 6 | Devourer | Self-Healing Predator | 4 | 4 | 3 | 3 | **3.50** | B | **Hold** — excellent self-sustain; Swallow-on-any-hit arrives at 20. |
-| 7 | Foul Gut | Attrition Rot Zealot | 4 | 3 | 3 | 4 | **3.50** | B | **Buff** — soften the fully-naked requirement or reward it with real defense. |
+| 6 | Foul Gut | Attrition Rot Zealot | 4 | 4 | 3 | 4 | **3.75** | A | **Buffed** — gained +1 AC, Poison resistance, disease immunity, and a **Retch Ward** reaction. The waist-down exposure now buys real defense. |
+| 7 | Devourer | Self-Healing Predator | 4 | 4 | 3 | 3 | **3.50** | B | **Hold** — excellent self-sustain; Swallow-on-any-hit arrives at 20. |
 | 8 | Undying | Immortal Wall Tank | 2 | 5 | 4 | 3 | **3.50** | B | **Hold** — fair pure tank; consider softening the literal "can't die" capstone. |
-| 9 | Gallows | Single-Target Executioner | 4 | 3 | 2 | 4 | **3.25** | B | **Buff** — give it a small AoE / multi-mark option before level 15. |
+| 9 | Gallows | Single-Target Executioner | 4 | 3 | 2 | 4 | **3.25** | B | **Buffed** — level-9 spells are now *Spirit Guardians* + *Haste* (area **or** single-target flex). Still wants an earlier crowd tool. |
 | 10 | Dominion | Compulsion Control Tyrant | 3 | 4 | 1 | 5 | **3.25** | B | **Hold** — average hides how oppressive Command-spam and action-denial are. |
 
 ---
@@ -82,10 +82,10 @@ more here than for any other class.*
 
 | # | Discipline | Archetype | O | D | H | U | Avg | Tier | Verdict |
 |---|-----------|-----------|:-:|:-:|:-:|:-:|:---:|:----:|---------|
-| 1 | Coitus | Buff / Charm Support | 3 | 4 | 4 | 5 | **4.00** | A | **Nerf** — the at-will, no-cost Anointing heal/buff loop needs a light per-turn cap. |
-| 2 | Flood | Battlefield Support / Buffer | 3 | 3 | 4 | 5 | **3.75** | A | **Nerf** — unlimited Blessed Waters is the strongest at-will buff; cap uses or drop die stacking. |
+| 1 | Sex *(was Coitus)* | Buff / Charm Support | 3 | 4 | 4 | 5 | **4.00** | A | **Nerfed** — Mend now heals **half** your Ardor die + Con (was full). Still the most complete discipline; watch the free at-will loop. |
+| 2 | Flood | Battlefield Support / Buffer | 3 | 3 | 4 | 5 | **3.75** | A | **Nerf** — unlimited Blessed Waters is the strongest at-will buff; cap uses or drop the die stacking. |
 | 3 | Blast | Explosive Mobile Blaster | 5 | 4 | 1 | 5 | **3.75** | A | **Hold** — elite offense fused with elite mobility. A highlight. |
-| 4 | Lymph | Anti-Magic Cleanser | 2 | 5 | 3 | 5 | **3.75** | A | **Nerf** — attach an HP or resource cost to the free White-Cell Swarm counterspell. |
+| 4 | Lymph | Anti-Magic Cleanser | 2 | 5 | 3 | 5 | **3.75** | A | **Nerfed** — Rut **Flush** is now cleanse **or** half-die heal (not both). Still an elite anti-caster. |
 | 5 | Elasticity | Rubber Reach Bruiser | 4 | 5 | 1 | 4 | **3.50** | B | **Hold** — durable 30-ft-reach bruiser with layered damage reduction. |
 | 6 | Musk | Pheromone Charmer | 3 | 4 | 2 | 5 | **3.50** | B | **Hold** — charm/fear control with ignore-immunity teeth. Lean into control. |
 | 7 | Nourishment | Dedicated Healer | 1 | 3 | 5 | 4 | **3.25** | B | **Buff** — give it one token offensive option so it isn't idle on the attack. |
@@ -94,23 +94,30 @@ more here than for any other class.*
 | 10 | Ooze | Corrosive Debuff Tank | 3 | 5 | 1 | 4 | **3.25** | B | **Hold** — slippery debuff-tank that shreds AC and gear. |
 | 11 | Frenzy | Berserker Rage Engine | 4 | 4 | 2 | 3 | **3.25** | B | **Nerf** — watch the capstone's extra full action stacking with Haste-likes. |
 | 12 | Gale | Flying Storm Controller | 3 | 3 | 1 | 5 | **3.00** | C | **Buff** — strengthen the Gale die riders so the storm actually hurts. |
-| 13 | Dung | Melee Filth Bruiser | 4 | 3 | 1 | 3 | **2.75** | C | **Buff** — give it a reason over Sinew: richer restrain control or a utility hook. |
+| 13 | Fecal *(was Dung)* | Melee Filth Bruiser / Controller | 4 | 3 | 1 | 4 | **3.00** | C | **Buffed** — gained **Filthworks** (barriers, difficult terrain, tools) and a Blinding restrain, giving it the utility identity Sinew lacks. |
+
+---
+
+## What changed this pass
+
+**Buffs**
+
+- **Euphoric (Sorcerer)** — *Tide of Sensation* now grants 1 Ecstasy on the first creature to fail its save on **any** turn (including enemies failing at the start of their own turn), not just on your turns.
+- **Ascendant (Sorcerer)** — added **Ascendant Bolt**: a Bonus-Action ranged Force nova (2d6 → 5d6 + Cha, with a Sorcery-Point rider) usable only while Innate Sorcery is active. It finally has a payload of its own. *(3.25 → 3.50)*
+- **Sundering (Sorcerer)** — slash-die upgrades now land a tier earlier (1d6+1 at 6, 1d8+1 at 14, 1d10+1 at 18) and a new **Surgical Cuts** menu spends Sorcery Points to mimic *Slow*, sunder armor, disarm, blind, silence, or cripple. *(2.75 → 3.25, no longer last)*
+- **Foul Gut (Paladin)** — kept the waist-down-nude / uncovered-anus requirement but added **+1 AC, Poison resistance, disease immunity**, and a **Retch Ward** retaliation reaction. *(3.50 → 3.75, into A tier)*
+- **Gallows (Paladin)** — level-9 oath spells swapped to **Spirit Guardians + Haste** (area or single-target flexibility).
+- **Fecal (Visceralist, renamed from Dung)** — added **Filthworks** (filth barriers, difficult terrain, improvised tools) and a Blinding rider on Setting Bomb's restrain. *(2.75 → 3.00)*
+
+**Nerfs**
+
+- **Sex (Visceralist, renamed from Coitus)** — *Mend* now restores **half** your Ardor die + Con modifier (was the full die).
+- **Lymph (Visceralist)** — Rut **Flush** now does cleanse **or** heal for **half** your Lymph die (previously both cleanse **and** a full-die heal).
 
 ---
 
 ## Cross-class balance notes
 
-- **Support/toolkit builds top every class.** Humoral, Carbon, Coitus, Flood, Carnal
-  Devotion — the winners all cover three or four scales at once. If you want the field
-  flatter, the biggest single lever is the **at-will, no-resource** economies (Coitus's
-  Anointing Release, Flood's Blessed Waters, Lymph's White-Cell Swarm). Adding even a light
-  cost or per-turn cap to those closes most of the gap.
-- **Pure healers (Breastmilk, Nourishment) and pure buffers (Ejaculation) read as "low
-  average" but are fine** in a party — their problem is *dead weight in a fight*, which a
-  single token offensive option fixes without touching their support ceiling.
-- **The bottom of each class (Sundering, Gallows/Dominion, Dung/Gale) are one-note.** They
-  don't need power so much as a second thing to do — an earlier upgrade, a small AoE, or a
-  utility hook that distinguishes them from a stronger neighbor.
-- **The dice nerf did its job:** first-tier signature output dropped from 2d8 to 1d8 across
-  the board, which pulled every die-based subclass's early Offense down uniformly, so the
-  *relative* rankings above are stable before and after the change.
+- **Support/toolkit builds still top every class.** Humoral, Carbon, Sex, Flood, Carnal Devotion — the winners cover three or four scales at once. The biggest single lever remains the **at-will, no-resource** economies (Sex's Anointing Release, Flood's Blessed Waters, Lymph's White-Cell Swarm); a light cost or per-turn cap closes most of the gap.
+- **Pure healers (Breastmilk, Nourishment) and pure buffers (Ejaculation)** read as "low average" but are fine in a party — their only problem is being dead weight *in a fight*, which one token offensive option fixes.
+- **The floor came up this pass.** Sundering (was 2.75, dead last) and Fecal (was 2.75) both climbed out of the basement, so no subclass is now a clear trap pick.

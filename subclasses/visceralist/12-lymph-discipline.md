@@ -28,10 +28,11 @@ While in **Rut**, you gain:
 - **Passive — Adaptive Resistance.** Whenever you take damage of a type, you gain **Resistance to
   that damage type** until the end of your next turn (the body learns). You also have **Advantage
   on saving throws against spells**.
-- **Rut Bonus Action — Flush.** Choose a creature within 30 feet; it ends one condition or disease
-  on itself (as Antibodies) **and** regains **Lymph die** Hit Points, or — if you target an enemy —
-  it makes a **Constitution saving throw** or takes your **Lymph die** in Necrotic damage as you
-  turn its own lymph against it.
+- **Rut Bonus Action — Flush.** Choose a creature within 30 feet. If it's an ally (or yourself),
+  choose **one, not both**: it ends one condition or disease on itself (as Antibodies), **or** it
+  regains **half your Lymph die** Hit Points. If you target an enemy instead, it makes a
+  **Constitution saving throw** or takes your **Lymph die** in Necrotic damage as you turn its
+  own lymph against it.
 
 ## Level 6: White-Cell Swarm
 

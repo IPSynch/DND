@@ -23,14 +23,24 @@ foe laid low by your bowels dies knowing what you thought of them.
 
 ## Level 3: Bared and Befouled
 
-This oath knows no modesty — its magic vents only from a body left utterly exposed. To use **any
-feature of this subclass**, you must be **completely naked, with your anus uncovered and
-unobstructed**: armor, any garment covering your hindquarters, or anything plugging or capping
-your anus chokes off the flow and disables your oath features until removed. So bared, you gain:
+This oath knows no modesty — its magic vents only from a body left exposed where it counts. To
+use **any feature of this subclass**, you must be **naked from the waist down, with your anus
+uncovered and unobstructed**: leg or hip armor, any garment covering your hindquarters, or
+anything plugging or capping your anus chokes off the flow and disables your oath features until
+removed. (You may clothe your upper body freely — though the AC below assumes you go fully
+unarmored.) So bared, you gain:
 
-- **Unclad Defense.** While you wear no armor and no clothing, and your anus is uncovered, your
-  base Armor Class equals **10 + your Constitution modifier + your Charisma modifier**. You can
-  still hold a Shield and gain its bonus.
+- **Unclad Defense.** While you wear no armor and your lower body is bare with your anus
+  uncovered, your base Armor Class equals **10 + your Constitution modifier + your Charisma
+  modifier**. You can still hold a Shield and gain its bonus.
+- **Filth-Caked Hide.** A living crust of hardened ordure plates your skin. You gain a **+1
+  bonus to AC**, you have **Resistance to Poison damage**, and you are **immune to disease** —
+  benefits you keep from level 3, long before your aura comes online.
+- **Retch Ward (Reaction).** When a creature within 5 feet of you hits you with an attack, you
+  can use your **Reaction** to void a gout of caustic filth at it: it takes **1d8 Necrotic or
+  Poison** damage (rising to **2d8** at 11th level and **3d8** at 17th, matching Septic Surge),
+  and you gain **Temporary Hit Points equal to your Charisma modifier**. You can do this a
+  number of times per Long Rest equal to your Charisma modifier (minimum once).
 
 ## Level 3: Filth-Forged Arsenal
 

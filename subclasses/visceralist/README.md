@@ -14,7 +14,7 @@ can also be re-fired by burning a chunk of Hit Points (the class's usual fuel).
 | # | Discipline | Concept | Bent |
 |---|-----------|---------|------|
 | 01 | [Gale](./01-gale-discipline.md) | Farts & a gaped vent — flight, cones/lines, no-Concentration auras | Control / AoE |
-| 02 | [Dung](./02-dung-discipline.md) | Fecal armaments (Force/Necrotic), restraint bombs — bladesinger-ish | Melee / Control |
+| 02 | [Fecal](./02-fecal-discipline.md) | Fecal armaments (Force/Necrotic), restraint bombs, filth utility | Melee / Control |
 | 03 | [Flood](./03-flood-discipline.md) | Urine — area denial and ally buffs | Control / Support |
 | 04 | [Nourishment](./04-nourishment-discipline.md) | Breastmilk/seed healing — out-heals a Life Cleric | Healer / Support |
 | 05 | [Sinew](./05-sinew-discipline.md) | Muscle & bone — unarmed brawler | Melee / Striker |
@@ -25,5 +25,5 @@ can also be re-fired by burning a chunk of Hit Points (the class's usual fuel).
 | 10 | [Ooze](./10-ooze-discipline.md) | Mucus/phlegm/bile — acid, mire, engulf | Control / Striker |
 | 11 | [Frenzy](./11-frenzy-discipline.md) | Adrenaline — turn spent HP into fury (self-buff berserker) | Melee / Striker |
 | 12 | [Lymph](./12-lymph-discipline.md) | Antibodies — cleanse, counter-magic, adaptive immunity | Support / Anti-magic |
-| 13 | [Coitus](./13-coitus-discipline.md) | Sex & seed — anoint, buff, heal, and a charming climax | Support / Control |
+| 13 | [Sex](./13-sex-discipline.md) | Sex & seed — anoint, buff, heal, and a charming climax | Support / Control |
 </content>

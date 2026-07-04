@@ -76,8 +76,8 @@ spells.)
   affected creature enters the area for the first time on a turn or starts its turn there, it
   makes a Wisdom saving throw, taking your Euphoria die total as Psychic damage on a failed
   save (half as much on a success) and being unable to take Reactions until the start of its
-  next turn on a failure. The first creature that fails this save on each of your turns
-  grants you 1 Ecstasy.
+  next turn on a failure. The first creature to fail this save on each turn — yours or an enemy's — grants you 1
+  Ecstasy (so a creature that starts its own turn in the area and fails feeds you too).
 - **Numbing Haze (2 Sorcery Points).** *Sensory overload, as the* Slow *spell.* You flood a
   20-foot-radius area within 60 feet of you with disorienting sensation for the duration.
   Whenever a creature of your choice is in the area, it is subjected to the *Slow* spell

@@ -16,7 +16,7 @@ you serve is just is a question you stopped asking long ago.
 |---------------|--------|
 | 3 | *Bane*, *Wrathful Smite* |
 | 5 | *Ray of Enfeeblement*, *Hold Person* |
-| 9 | *Fear*, *Bestow Curse* |
+| 9 | *Spirit Guardians*, *Haste* |
 | 13 | *Phantasmal Killer*, *Staggering Smite* |
 | 17 | *Hold Monster*, *Destructive Wave* |
 

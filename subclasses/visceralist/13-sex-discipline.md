@@ -1,4 +1,4 @@
-# Discipline of Coitus (Visceralist Subclass)
+# Discipline of Sex (Visceralist Subclass)
 
 *The Lover — Ecstasy Given and Taken*
 
@@ -26,8 +26,8 @@ mode (each lasts 1 minute, no Concentration, unless noted):
   choice of the weapon's type or Radiant) on a hit.
 - **Fill (a creature).** The target gains **Temporary Hit Points equal to your Ardor die** and has
   **Advantage on its next attack roll or saving throw**.
-- **Mend (a creature).** The target regains **Ardor die + your Constitution modifier** Hit Points
-  (instantaneous).
+- **Mend (a creature).** The target regains **half your Ardor die (rounded down) + your
+  Constitution modifier** Hit Points (instantaneous).
 
 The three modes above are an **unlimited ability — you can use them any number of times, with no
 cost and no daily limit.**

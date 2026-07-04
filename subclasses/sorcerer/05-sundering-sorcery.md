@@ -69,6 +69,30 @@ Force damage. You can instead spend 1 Sorcery Point to loose a number of these
 slashes equal to your Charisma modifier, divided among any creatures you can see
 within range.
 
+**Keen Escalation.** Each slash from your *Magic Missile* now deals **1d6 + 1** Force
+damage (instead of 1d4 + 1).
+
+**Surgical Cuts.** Your slashes don't just wound — they *disable*. Once on each of your
+turns, when one or more slashes from your *Magic Missile* (or a Flick) hit a creature, you
+can spend Sorcery Points to lace the cut with a precise, crippling effect. The target
+makes the listed saving throw against your spell save DC; choose one:
+
+- **Hamstring (1 SP).** *Strength save* or the creature is Slowed (as the *Slow* spell)
+  until the end of its next turn — you sever the tendons.
+- **Sunder Armor (1 SP).** No save: one nonmagical armor or shield it wears takes a
+  permanent **−1 penalty to the AC it grants** (repaired as normal), stacking to −5.
+- **Nerve Cut (1 SP).** *Constitution save* or the creature has Disadvantage on attack
+  rolls until the start of your next turn — you nick the wrist.
+- **Disarm (1 SP).** *Strength save* or the creature drops one held item of your choice.
+- **Silencing Slash (2 SP).** *Constitution save* or the creature can't speak and can't
+  cast spells with Verbal components until the end of its next turn — you open the throat.
+- **Blinding Slash (2 SP).** *Dexterity save* or the creature is Blinded until the end of
+  its next turn — you cut across the eyes.
+- **Crippling Cut (2 SP).** *Strength save* or the creature's Speed becomes 0 until the
+  start of your next turn — you cut deep into the leg.
+
+You can apply only one Surgical Cut per turn.
+
 ## Level 14: World-Cutting
 
 Your blade ignores the distinctions that protect lesser foes. You gain the
@@ -77,8 +101,8 @@ following benefits.
 **Nothing Resists the Edge.** Your Force damage ignores Resistance and treats
 Immunity to Force damage as Resistance instead.
 
-**Greater Slashes.** Each slash from your *Magic Missile* now deals 1d6 + 1 Force
-damage (instead of 1d4 + 1), and your Dismantle Cone increases to a 30-foot Cone.
+**Greater Slashes.** Each slash from your *Magic Missile* now deals 1d8 + 1 Force
+damage (instead of 1d6 + 1), and your Dismantle Cone increases to a 30-foot Cone.
 
 **Sever.** The first time on each of your turns that you deal Force damage to a
 creature, its Speed is halved and it can't take Reactions until the start of its
@@ -92,8 +116,8 @@ Three-Quarters Cover.
 You unfold a private space where your cuts are the only law. You gain the following
 benefits.
 
-**Perfected Missiles.** Each slash from your *Magic Missile* now deals 1d8 + 1
-Force damage (instead of 1d6 + 1), and the cantrip casting produces one additional
+**Perfected Missiles.** Each slash from your *Magic Missile* now deals 1d10 + 1
+Force damage (instead of 1d8 + 1), and the cantrip casting produces one additional
 slash. Your *Magic Missile* can't be thwarted by the *Shield* spell, and you can
 cast the cantrip version of *Magic Missile* as a Bonus Action.
 

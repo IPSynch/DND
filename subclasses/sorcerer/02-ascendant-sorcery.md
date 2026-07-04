@@ -37,6 +37,15 @@ Points equal to twice your Sorcerer level (these are granted, and refreshed, eac
 time you activate the feature), and your Sorcerer cantrips deal an extra 1d8
 damage of the cantrip's type.
 
+**Ascendant Bolt.** While your Innate Sorcery feature is active, you can take a Bonus
+Action to hurl a bolt of raw, overcharged magic at a creature you can see within 60
+feet. Make a ranged spell attack; on a hit, the target takes Force damage equal to
+**2d6 + your Charisma modifier**. This damage increases to **3d6** at level 6, **4d6**
+at level 14, and **5d6** at level 18. You can spend **1 Sorcery Point** when you fire it
+to add **1d6** damage and force the target (on a hit) to make a Constitution saving
+throw against your spell save DC or have Disadvantage on the next saving throw it makes
+before the start of your next turn.
+
 ## Level 3: Burning Vitality
 
 Raw magic surges beneath your skin, turning aside what would harm you. While you aren't
