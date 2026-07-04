@@ -43,64 +43,148 @@ share; each class doc covers its own features.
 ## The Fluidic Abilities list
 
 A representative, curated list of spells reskinned as bodily effects. Your DM can approve other
-spells reflavored to fit. Names in parentheses are the mimicked spell.
+spells reflavored to fit. **Mimics** is the spell each ability copies.
 
-**Cantrips:** choose from the **Sorcerer cantrip list**, reflavored (e.g., *Acid Splash* as a
-spat glob of bile, *Fire Bolt* as an ignited gas jet, *Mind Sliver* as a psychic musk).
+**Cantrips:** choose from the **Sorcerer cantrip list**, reflavored — e.g. *Acid Splash* as a
+spat glob of bile, *Fire Bolt* as an ignited gas jet, *Mind Sliver* as a psychic musk.
 
-**1st level:** Fluid Mending (*Cure Wounds*) · Quick Squirt (*Healing Word*) · Slick (*Grease*)
-· Caustic Spray (*Tasha's Caustic Brew*) · Gas Cloud (*Fog Cloud*) · Pressure Burst
-(*Thunderwave*) · Bounding Legs (*Jump*) · Fast Twitch (*Expeditious Retreat*) · Nauseating
-Mist (*Ray of Sickness*) · Reflexive Hide (*Absorb Elements*) · Clench (*Shield* — snap-harden
-muscle, bone, and skin) · Scalding Spray (*Burning Hands*) · Rectal Launch (*Catapult* — insert
-an object and fire it) · Volatile Discharge (*Chaos Bolt*) · Humor Orb (*Chromatic Orb*) · Endless
-Flow (*Create or Destroy Water* — piss or milk without end) · Fart Brake (*Feather Fall*) · Body
-Snacks (*Goodberry* — fecal snacks, urine jellies, milk sweets) · Caustic Reprisal (*Hellish
-Rebuke*) · Rotting Touch (*Inflict Wounds*) · Cleanse Intake (*Purify Food and Drink*) · Knockout
-Reek (*Sleep* — fragrant fecal bombs).
+### 1st Level
 
-**2nd level:** Sticky Strands (*Web*) · Tissue Swell (*Enlarge/Reduce*) · Steady Nerves
-(*Enhance Ability*) · Nerve Lock (*Hold Person*) · Acid Lob (*Melf's Acid Arrow*) · Filth in
-the Eyes (*Blindness/Deafness*) · Fortifying Draught (*Aid* — energizing seed, milk, or filth) ·
-Purge (*Lesser Restoration*) · Blurred Sweat (*Blur*) · Black Shroud (*Darkness* — a perpetual
-gout of black gas that follows you) · Bodily Breath (*Dragon's Breath* — from the mouth or the
-anus) · Burning Filth Blade (*Flame Blade* — a lit fecal blade that dissolves after 1 minute) ·
-Scalding Rays (*Scorching Ray*).
+| Fluidic Ability | Mimics | Flavor / Notes |
+|---|---|---|
+| Fluid Mending | *Cure Wounds* | |
+| Quick Squirt | *Healing Word* | |
+| Slick | *Grease* | |
+| Caustic Spray | *Tasha's Caustic Brew* | |
+| Gas Cloud | *Fog Cloud* | |
+| Pressure Burst | *Thunderwave* | |
+| Bounding Legs | *Jump* | |
+| Fast Twitch | *Expeditious Retreat* | |
+| Nauseating Mist | *Ray of Sickness* | |
+| Reflexive Hide | *Absorb Elements* | |
+| Clench | *Shield* | Snap-harden muscle, bone, and skin |
+| Scalding Spray | *Burning Hands* | |
+| Rectal Launch | *Catapult* | Insert an object and fire it |
+| Volatile Discharge | *Chaos Bolt* | |
+| Humor Orb | *Chromatic Orb* | |
+| Endless Flow | *Create or Destroy Water* | Piss or milk without end |
+| Fart Brake | *Feather Fall* | |
+| Body Snacks | *Goodberry* | Fecal snacks, urine jellies, milk sweets |
+| Caustic Reprisal | *Hellish Rebuke* | |
+| Rotting Touch | *Inflict Wounds* | |
+| Cleanse Intake | *Purify Food and Drink* | |
+| Knockout Reek | *Sleep* | Fragrant fecal bombs |
 
-**3rd level:** Reeking Guardians (*Spirit Guardians*) · Filth Bomb (*Fireball*) · Blood Seizure
-(*Counterspell*) · Choking Cloud (*Stinking Cloud*) · Bloodletting Grasp (*Vampiric Touch*) ·
-Adrenal Rush (*Haste*) · Sludge Field (*Slow*) · Unmake Magic (*Dispel Magic*) · Group Squirt
-(*Mass Healing Word*) · Invigorating Musk (*Aura of Vitality*) · Provender (*Create Food and
-Water* — nutrient-rich filth and drink) · Fart Flight (*Fly*) · Fertile Filth (*Plant Growth* —
-your waste makes anything bloom).
+### 2nd Level
 
-**4th level:** Muscle Leap (*Dimension Door* — a 500-ft bound) · Wither (*Blight*) · Flesh
-Reshaping (*Polymorph*) · Bile Tendrils (*Evard's Black Tentacles*) · Hardened Hide
-(*Stoneskin*) · Acid Sphere (*Vitriolic Sphere*) · Loose Joints (*Freedom of Movement*) · Pore
-Burst (*Destructive Wave* — every pore flares and detonates around you).
+| Fluidic Ability | Mimics | Flavor / Notes |
+|---|---|---|
+| Sticky Strands | *Web* | |
+| Tissue Swell | *Enlarge/Reduce* | |
+| Steady Nerves | *Enhance Ability* | |
+| Nerve Lock | *Hold Person* | |
+| Acid Lob | *Melf's Acid Arrow* | |
+| Filth in the Eyes | *Blindness/Deafness* | |
+| Fortifying Draught | *Aid* | Energizing seed, milk, or filth |
+| Purge | *Lesser Restoration* | |
+| Blurred Sweat | *Blur* | |
+| Black Shroud | *Darkness* | A perpetual gout of black gas that follows you |
+| Bodily Breath | *Dragon's Breath* | From the mouth or the anus |
+| Burning Filth Blade | *Flame Blade* | A lit fecal blade that dissolves after 1 minute |
+| Scalding Rays | *Scorching Ray* | |
 
-**5th level:** Giant Filth Hand (*Bigby's Hand*) · Killing Fog (*Cloudkill*) · Mass Mending
-(*Mass Cure Wounds*) · Plague Touch (*Contagion*) · Membrane Wall (*Wall of Force*) · Blood
-Puppetry (*Hold Monster*) · Fluidic Grip (*Telekinesis*) · Swarmspawn (*Insect Plague*) ·
-Overclocked Assault (*Steel Wind Strike* — your muscles redline and you blur through several foes
-at once).
+### 3rd Level
 
-**6th level:** Total Restoration (*Heal*) · Dissolve (*Disintegrate*) · Petrifying Secretion
-(*Flesh to Stone*) · Necrotic Purge (*Harm*) · Ring of Rot (*Circle of Death*) · Bone Bramble
-(*Wall of Thorns*) · Membrane Globe (*Globe of Invulnerability*) · Transcendent Flesh (*Tasha's
-Otherworldly Guise*) · Battle Metabolism (*Tenser's Transformation*).
+| Fluidic Ability | Mimics | Flavor / Notes |
+|---|---|---|
+| Reeking Guardians | *Spirit Guardians* | |
+| Filth Bomb | *Fireball* | |
+| Blood Seizure | *Counterspell* | |
+| Choking Cloud | *Stinking Cloud* | |
+| Bloodletting Grasp | *Vampiric Touch* | |
+| Adrenal Rush | *Haste* | |
+| Sludge Field | *Slow* | |
+| Unmake Magic | *Dispel Magic* | |
+| Group Squirt | *Mass Healing Word* | |
+| Invigorating Musk | *Aura of Vitality* | |
+| Provender | *Create Food and Water* | Nutrient-rich filth and drink |
+| Fart Flight | *Fly* | |
+| Fertile Filth | *Plant Growth* | Your waste makes anything bloom |
 
-**7th level:** Regrow (*Regenerate*) · Death's Touch (*Finger of Death*) · Filth Storm (*Fire
-Storm*) · Body Ghost (*Etherealness*) · Branded Filth (*Symbol*) · Fermenting Filth Bomb
-(*Delayed Blast Fireball*) · Ascended Form (*Draconic Transformation* — a secretion-wreathed
-"super" state, not an actual dragon) · Word of Vigor (*Power Word Fortify*) · Word of Agony
-(*Power Word Pain*).
+### 4th Level
 
-**8th level:** Desiccate (*Abi-Dalzim's Horrid Wilting* — drains every fluid) · Melt Mind
-(*Feeblemind* — bloodbend the vessels in a foe's brain until they burst) · Methane Detonation
-(*Incendiary Cloud*) · Nerve Stop (*Power Word Stun*) · Bodyquake (*Earthquake*).
+| Fluidic Ability | Mimics | Flavor / Notes |
+|---|---|---|
+| Muscle Leap | *Dimension Door* | A 500-ft bound |
+| Wither | *Blight* | |
+| Flesh Reshaping | *Polymorph* | |
+| Bile Tendrils | *Evard's Black Tentacles* | |
+| Hardened Hide | *Stoneskin* | |
+| Acid Sphere | *Vitriolic Sphere* | |
+| Loose Joints | *Freedom of Movement* | |
+| Pore Burst | *Destructive Wave* | Every pore flares and detonates around you |
 
-**9th level:** Mass Regrowth (*Mass Heal*) · Heartstop (*Power Word Kill*) · Filth Barrage
-(*Meteor Swarm*) · Overclock (*Time Stop*) · Perfect Reshaping (*True Polymorph*) · Unmaking
-(*Weird*) · Perfect Hide (*Invulnerability*) · Word of Renewal (*Power Word Heal*).
-</content>
+### 5th Level
+
+| Fluidic Ability | Mimics | Flavor / Notes |
+|---|---|---|
+| Giant Filth Hand | *Bigby's Hand* | |
+| Killing Fog | *Cloudkill* | |
+| Mass Mending | *Mass Cure Wounds* | |
+| Plague Touch | *Contagion* | |
+| Membrane Wall | *Wall of Force* | |
+| Blood Puppetry | *Hold Monster* | |
+| Fluidic Grip | *Telekinesis* | |
+| Swarmspawn | *Insect Plague* | |
+| Overclocked Assault | *Steel Wind Strike* | Muscles redline; you blur through several foes at once |
+
+### 6th Level
+
+| Fluidic Ability | Mimics | Flavor / Notes |
+|---|---|---|
+| Total Restoration | *Heal* | |
+| Dissolve | *Disintegrate* | |
+| Petrifying Secretion | *Flesh to Stone* | |
+| Necrotic Purge | *Harm* | |
+| Ring of Rot | *Circle of Death* | |
+| Bone Bramble | *Wall of Thorns* | |
+| Membrane Globe | *Globe of Invulnerability* | |
+| Transcendent Flesh | *Tasha's Otherworldly Guise* | |
+| Battle Metabolism | *Tenser's Transformation* | |
+
+### 7th Level
+
+| Fluidic Ability | Mimics | Flavor / Notes |
+|---|---|---|
+| Regrow | *Regenerate* | |
+| Death's Touch | *Finger of Death* | |
+| Filth Storm | *Fire Storm* | |
+| Body Ghost | *Etherealness* | |
+| Branded Filth | *Symbol* | |
+| Fermenting Filth Bomb | *Delayed Blast Fireball* | |
+| Ascended Form | *Draconic Transformation* | A secretion-wreathed "super" state, not an actual dragon |
+| Word of Vigor | *Power Word Fortify* | |
+| Word of Agony | *Power Word Pain* | |
+
+### 8th Level
+
+| Fluidic Ability | Mimics | Flavor / Notes |
+|---|---|---|
+| Desiccate | *Abi-Dalzim's Horrid Wilting* | Drains every fluid |
+| Melt Mind | *Feeblemind* | Bloodbend the vessels in a foe's brain until they burst |
+| Methane Detonation | *Incendiary Cloud* | |
+| Nerve Stop | *Power Word Stun* | |
+| Bodyquake | *Earthquake* | |
+
+### 9th Level
+
+| Fluidic Ability | Mimics | Flavor / Notes |
+|---|---|---|
+| Mass Regrowth | *Mass Heal* | |
+| Heartstop | *Power Word Kill* | |
+| Filth Barrage | *Meteor Swarm* | |
+| Overclock | *Time Stop* | |
+| Perfect Reshaping | *True Polymorph* | |
+| Unmaking | *Weird* | |
+| Perfect Hide | *Invulnerability* | |
+| Word of Renewal | *Power Word Heal* | |

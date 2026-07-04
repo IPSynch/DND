@@ -14,8 +14,9 @@ Transformation)*, *Ascended Form (Draconic Transformation)*.
 ## Level 3: Bloodrage
 
 You turn self-harm into strength. Your Unarmed Strike (Damage option) deals **1d8 + your
-Constitution modifier** Bludgeoning or Force damage and counts as magical, and immediately after
-you take the Attack action you can make **one Unarmed Strike as a Bonus Action**. Whenever you
+Constitution modifier** Bludgeoning or Force damage and counts as magical, and you can make **one
+Unarmed Strike as a Bonus Action** on your turn (you don't need to have taken the Attack action
+first). Whenever you
 **spend Hit Points to cast a Fluidic Ability** (or lose Hit Points to an enemy), you gain
 **Temporary Hit Points equal to your Constitution modifier**, and your next attack before the end
 of your next turn deals **extra damage equal to your Proficiency Bonus**.
