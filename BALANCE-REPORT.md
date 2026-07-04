@@ -82,42 +82,41 @@ more here than for any other class.*
 
 | # | Discipline | Archetype | O | D | H | U | Avg | Tier | Verdict |
 |---|-----------|-----------|:-:|:-:|:-:|:-:|:---:|:----:|---------|
-| 1 | Sex *(was Coitus)* | Buff / Charm Support | 3 | 4 | 4 | 5 | **4.00** | A | **Nerfed** — Mend now heals **half** your Ardor die + Con (was full). Still the most complete discipline; watch the free at-will loop. |
-| 2 | Flood | Battlefield Support / Buffer | 3 | 3 | 4 | 5 | **3.75** | A | **Nerf** — unlimited Blessed Waters is the strongest at-will buff; cap uses or drop the die stacking. |
+| 1 | Sex *(was Coitus)* | Buff / Charm Support | 3 | 4 | 4 | 5 | **4.00** | A | **Nerfed** — Mend heals **half** Ardor die + Con. Still the most complete discipline; watch the free at-will loop. |
+| 2 | Dragon | Transforming Dragon Bruiser | 5 | 5 | 1 | 4 | **3.75** | A | **Hold** — the Visceralist mirror of Draconic Ascendant; hybrid → full dragon → apex breath. Transformation-gated. |
 | 3 | Blast | Explosive Mobile Blaster | 5 | 4 | 1 | 5 | **3.75** | A | **Hold** — elite offense fused with elite mobility. A highlight. |
-| 4 | Lymph | Anti-Magic Cleanser | 2 | 5 | 3 | 5 | **3.75** | A | **Nerfed** — Rut **Flush** is now cleanse **or** half-die heal (not both). Still an elite anti-caster. |
-| 5 | Elasticity | Rubber Reach Bruiser | 4 | 5 | 1 | 4 | **3.50** | B | **Hold** — durable 30-ft-reach bruiser with layered damage reduction. |
-| 6 | Musk | Pheromone Charmer | 3 | 4 | 2 | 5 | **3.50** | B | **Hold** — charm/fear control with ignore-immunity teeth. Lean into control. |
-| 7 | Sinew | Unarmed Juggernaut | 5 | 5 | 1 | 3 | **3.50** | B | **Buffed** — Muscle die on Pulverize, ~2× Con on every attack, flat **Con-per-instance damage reduction**, and a bonus-damage capstone. *(3.25 → 3.50)* |
-| 8 | Nourishment | Ultimate Party Healer | 1 | 4 | 5 | 4 | **3.50** | B | **Buffed** — every heal now also grants the target **Con-mod Temp HP** (doubled in Rut), atop already-maxed healing. *(3.25 → 3.50)* |
-| 9 | Mane | Grapple Lockdown Controller | 4 | 3 | 1 | 5 | **3.25** | B | **Hold** — mass grapple-and-restrain with drain is potent lockdown. |
-| 10 | Ooze | Corrosive Debuff Tank | 3 | 5 | 1 | 4 | **3.25** | B | **Hold** — slippery debuff-tank that shreds AC and gear. |
-| 11 | Frenzy | Berserker Rage Engine | 4 | 4 | 2 | 3 | **3.25** | B | **Buffed** — Bloodrage's Bonus-Action strike no longer needs the Attack action first. Watch the capstone's extra action. |
-| 12 | Gale | Flying Storm Controller | 3 | 3 | 1 | 5 | **3.00** | C | **Buff** — strengthen the Gale die riders so the storm actually hurts. |
-| 13 | Fecal *(was Dung)* | Melee Filth Bruiser / Controller | 4 | 3 | 1 | 4 | **3.00** | C | **Buffed** — gained **Filthworks** (barriers, difficult terrain, tools) and a Blinding restrain, giving it the utility identity Sinew lacks. |
+| 4 | Bone *(Osseous)* | Weaponized-Skeleton Zoner | 4 | 5 | 2 | 4 | **3.75** | A | **Hold** — the zoning half of Sinew: bone walls, restraining fields, ranged darts, durable frame. |
+| 5 | Blood *(Sanguine)* | Hemomancer / Bloodbender | 4 | 4 | 3 | 4 | **3.75** | A | **Watch** — most complete of the new ten: bleed + transfuse (self *and* ally heal) + bloodbend + a Heartstop execute (keep the 25-HP threshold). |
+| 6 | Demon *(Take Over)* | Versatile Mode-Shifter | 5 | 4 | 1 | 5 | **3.75** | A | **Hold** — three pickable Rut forms (melee / blaster / utility), all three at 18. Watch the Twin-Souls double-Bonus-Action turn. |
+| 7 | Flood | Battlefield Support / Buffer | 3 | 3 | 4 | 5 | **3.75** | A | **Nerf** — unlimited Blessed Waters is the strongest at-will buff; cap uses or drop the die stacking. |
+| 8 | Lymph | Anti-Magic Cleanser | 2 | 5 | 3 | 5 | **3.75** | A | **Nerfed** — Rut **Flush** is now cleanse **or** half-die heal (not both). Still an elite anti-caster. |
+| 9 | Elements *(Logia)* | Elemental Body Blaster | 5 | 5 | 1 | 3 | **3.50** | B | **Hold** — permanent nonmagical-physical immunity at 10 is strong but classic Logia; magic is the clean answer. |
+| 10 | Sinew | Unarmed Juggernaut | 5 | 5 | 1 | 3 | **3.50** | B | **Buffed** — Muscle die, ~2× Con on every attack, flat **Con-per-instance damage reduction**, bonus-damage capstone. *(3.25 → 3.50)* |
+| 11 | Permeation | Phasing Ghost Skirmisher | 3 | 5 | 1 | 5 | **3.50** | B | **Hold** — untouchable defense + go-anywhere utility; AC/cover-ignoring strikes keep offense honest. Magic still hits it. |
+| 12 | Elasticity | Rubber Reach Bruiser | 4 | 5 | 1 | 4 | **3.50** | B | **Hold** — durable 30-ft-reach bruiser with layered damage reduction. |
+| 13 | Titan | Colossal Regenerating Bruiser | 4 | 5 | 3 | 2 | **3.50** | B | **Hold** — steam regen + hardening + damage threshold = sturdiest frontline; low reach/control by design. |
+| 14 | Musk | Pheromone Charmer | 3 | 4 | 2 | 5 | **3.50** | B | **Hold** — charm/fear control with ignore-immunity teeth. Lean into control. |
+| 15 | Nourishment | Ultimate Party Healer | 1 | 4 | 5 | 4 | **3.50** | B | **Buffed** — every heal also grants the target **Con-mod Temp HP** (doubled in Rut), atop maxed healing. *(3.25 → 3.50)* |
+| 16 | Masochist | Comeback Engine | 5 | 5 | 1 | 2 | **3.25** | B | **Watch** — offense *and* defense scale as HP falls; the capstone treating you as at 1 HP is the ceiling. Anti-synergizes with healing, by design. |
+| 17 | Velocity | Run-Through Skirmisher | 4 | 3 | 1 | 5 | **3.25** | B | **Hold** — line-charge striker with elite mobility and an extra action at 18. Watch Sonic Run's repeat hits. |
+| 18 | Brood *(Womb)* | Kamikaze Summoner | 5 | 3 | 1 | 4 | **3.25** | B | **Hold** — spawns resolve inside your action (no initiative clutter) and one strong Prime persists; keep the one-Prime cap firm. |
+| 19 | Mane | Grapple Lockdown Controller | 4 | 3 | 1 | 5 | **3.25** | B | **Hold** — mass grapple-and-restrain with drain is potent lockdown. |
+| 20 | Ooze | Corrosive Debuff Tank | 3 | 5 | 1 | 4 | **3.25** | B | **Hold** — slippery debuff-tank that shreds AC and gear. |
+| 21 | Frenzy | Berserker Rage Engine | 4 | 4 | 2 | 3 | **3.25** | B | **Buffed** — Bloodrage's Bonus-Action strike no longer needs the Attack action first. Watch the capstone's extra action. |
+| 22 | Gale | Flying Storm Controller | 3 | 3 | 1 | 5 | **3.00** | C | **Buff** — strengthen the Gale die riders so the storm actually hurts. |
+| 23 | Fecal *(was Dung)* | Melee Filth Bruiser / Controller | 4 | 3 | 1 | 4 | **3.00** | C | **Buffed** — gained **Filthworks** (barriers, difficult terrain, tools) and a Blinding restrain — the utility Sinew lacks. |
 
-### New disciplines (14–23)
-
-Ten new disciplines, scored on the same four axes and slotted into the ranking above at their
-average. All follow the class's **3 / 6 / 10 / 18** cadence and the standard signature-die curve
-(**1d8 → 2d8 → 3d8 → 4d8**).
-
-| # | Discipline | Archetype | O | D | H | U | Avg | Tier | Verdict |
-|---|-----------|-----------|:-:|:-:|:-:|:-:|:---:|:----:|---------|
-| 14 | Demon *(Take Over)* | Versatile Mode-Shifter | 5 | 4 | 1 | 5 | **3.75** | A | **Hold** — three pickable Rut forms (melee / blaster / utility), fusing into all three at 18. The most flexible discipline; watch the Twin-Souls double-Bonus-Action turn. |
-| 15 | Titan | Colossal Regenerating Bruiser | 4 | 5 | 3 | 2 | **3.50** | B | **Hold** — steam regen + hardening + damage threshold make it the sturdiest frontline; low reach/control by design. |
-| 16 | Brood *(Womb)* | Kamikaze Summoner | 5 | 3 | 1 | 4 | **3.25** | B | **Hold** — spawns resolve inside your action (no initiative clutter) and one strong Prime persists; keep the one-Prime cap firm. |
-| 17 | Dragon | Transforming Dragon Bruiser | 5 | 5 | 1 | 4 | **3.75** | A | **Hold** — the Visceralist mirror of Draconic Ascendant; hybrid at 3, full dragon at 10, apex breath at 18. Transformation-gated. |
-| 18 | Velocity | Run-Through Skirmisher | 4 | 3 | 1 | 5 | **3.25** | B | **Hold** — line-charge striker with elite mobility and an extra action at 18. Watch the capstone Sonic Run's repeat hits. |
-| 19 | Permeation | Phasing Ghost Skirmisher | 3 | 5 | 1 | 5 | **3.50** | B | **Hold** — untouchable defense + go-anywhere utility; AC/cover-ignoring strikes keep its offense honest. Magic still hits it. |
-| 20 | Masochist | Comeback Engine | 5 | 5 | 1 | 2 | **3.25** | B | **Watch** — offense *and* defense scale as HP falls; the capstone that treats you as at 1 HP for every tier is the ceiling. Anti-synergizes with being healed, by design. |
-| 21 | Elements *(Logia)* | Elemental Body Blaster | 5 | 5 | 1 | 3 | **3.50** | B | **Hold** — permanent nonmagical-physical immunity at 10 is strong but classic Logia; magical damage is the clean answer. |
-| 22 | Bone *(Osseous)* | Weaponized-Skeleton Zoner | 4 | 5 | 2 | 4 | **3.75** | A | **Hold** — the utility/zoning half of Sinew: bone walls, restraining fields, ranged darts, plus a durable frame. |
-| 23 | Blood *(Sanguine)* | Hemomancer / Bloodbender | 4 | 4 | 3 | 4 | **3.75** | A | **Watch** — the most complete of the new ten: bleed + transfuse (self *and* ally heal) + bloodbend control + a Heartstop execute. Keep the execute threshold at 25 HP. |
+*The ten newest disciplines (Demon, Titan, Brood, Dragon, Velocity, Permeation, Masochist,
+Elements, Bone, Blood) are ranked together with the rest in the table above — four of them
+(Dragon, Bone, Blood, Demon) land straight in A tier at 3.75, and none are trap picks.*
 
 ---
 
 ## What changed (recent balance passes)
+
+**New content**
+
+- **+10 Visceralist disciplines (14–23).** Demon, Titan, Brood, Dragon, Velocity, Permeation, Masochist, Elements, Bone, and Blood — the class now has **23** disciplines (**55** subclasses total). All are scored and folded into the Visceralist ranking above; Dragon, Bone, Blood, and Demon debut in A tier.
 
 **Buffs**
 
