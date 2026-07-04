@@ -89,7 +89,7 @@ more here than for any other class.*
 | 5 | Elasticity | Rubber Reach Bruiser | 4 | 5 | 1 | 4 | **3.50** | B | **Hold** — durable 30-ft-reach bruiser with layered damage reduction. |
 | 6 | Musk | Pheromone Charmer | 3 | 4 | 2 | 5 | **3.50** | B | **Hold** — charm/fear control with ignore-immunity teeth. Lean into control. |
 | 7 | Sinew | Unarmed Juggernaut | 5 | 5 | 1 | 3 | **3.50** | B | **Buffed** — Muscle die on Pulverize, ~2× Con on every attack, flat **Con-per-instance damage reduction**, and a bonus-damage capstone. *(3.25 → 3.50)* |
-| 8 | Nourishment | Dedicated Healer | 1 | 3 | 5 | 4 | **3.25** | B | **Buff** — give it one token offensive option so it isn't idle on the attack. |
+| 8 | Nourishment | Ultimate Party Healer | 1 | 4 | 5 | 4 | **3.50** | B | **Buffed** — every heal now also grants the target **Con-mod Temp HP** (doubled in Rut), atop already-maxed healing. *(3.25 → 3.50)* |
 | 9 | Mane | Grapple Lockdown Controller | 4 | 3 | 1 | 5 | **3.25** | B | **Hold** — mass grapple-and-restrain with drain is potent lockdown. |
 | 10 | Ooze | Corrosive Debuff Tank | 3 | 5 | 1 | 4 | **3.25** | B | **Hold** — slippery debuff-tank that shreds AC and gear. |
 | 11 | Frenzy | Berserker Rage Engine | 4 | 4 | 2 | 3 | **3.25** | B | **Buffed** — Bloodrage's Bonus-Action strike no longer needs the Attack action first. Watch the capstone's extra action. |
@@ -102,8 +102,9 @@ more here than for any other class.*
 
 **Buffs**
 
-- **Sinew (Visceralist)** — added a **Muscle die** (Pulverize rides it on top of the Unarmed Strike), made **Bone-Shattering Blows** apply to *all* attacks (≈2× Con on a fist), added level-10 **Iron-Dense Physiology** (flat damage reduction = Con per instance — a whole *Magic Missile* counts once), and reworked the capstone (the 2d10 is bonus damage; the 30-ft Line replaces one attack, not the action). *(3.25 → 3.50)*
+- **Sinew (Visceralist)** — added a **Muscle die** (Pulverize rides it on top of the Unarmed Strike), made **Bone-Shattering Blows** apply to *all* attacks (≈2× Con on a fist), added level-10 **Iron-Dense Physiology** (flat damage reduction = Con per instance — a whole *Magic Missile* counts once), and reworked the capstone (the 2d10 is bonus damage; the earth-cracker is now a **60-ft Line or 30-ft Cone** and replaces one attack, not the action). *(3.25 → 3.50)*
 - **Frenzy (Visceralist)** — Bloodrage's Bonus-Action Unarmed Strike no longer requires taking the Attack action first.
+- **Nourishment (Visceralist)** — every heal now also grants the target **Temporary Hit Points equal to your Constitution modifier** (Overflowing Care), **doubled in Rut** (Rich Flow). The dedicated healer becomes the definitive support. *(3.25 → 3.50)*
 
 - **Euphoric (Sorcerer)** — *Tide of Sensation* now grants 1 Ecstasy on the first creature to fail its save on **any** turn (including enemies failing at the start of their own turn), not just on your turns.
 - **Ascendant (Sorcerer)** — added **Ascendant Bolt**: a Bonus-Action ranged Force nova (2d6 → 5d6 + Cha, with a Sorcery-Point rider) usable only while Innate Sorcery is active. It finally has a payload of its own. *(3.25 → 3.50)*
@@ -116,6 +117,10 @@ more here than for any other class.*
 
 - **Sex (Visceralist, renamed from Coitus)** — *Mend* now restores **half** your Ardor die + Con modifier (was the full die).
 - **Lymph (Visceralist)** — Rut **Flush** now does cleanse **or** heal for **half** your Lymph die (previously both cleanse **and** a full-die heal).
+
+**Class-wide (Visceralist)**
+
+- ***Cure Wounds* → Blood Rush.** Removed *Cure Wounds* from the Fluidic Abilities list and replaced it with **Blood Rush** — a Bonus-Action self-heal that **expends a Hit Point Die** (rolled twice + Con). This caps every Visceralist's at-will self-healing to their Hit Point Dice, ending the out-of-combat heal-spam that made the whole class effectively unkillable between fights. It lowers baseline class sustain but doesn't reshuffle the subclass order — and it makes Nourishment's unlimited in-Rut healing shine as the real healing engine.
 
 ---
 

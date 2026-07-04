@@ -59,8 +59,9 @@ Your flesh and bone have grown so dense that blows barely register. **Whenever y
 reduce that damage by your Constitution modifier.** This reduction applies **once per source** —
 per attack, per effect, or per spell — **not** per die or per projectile: a *Magic Missile* or an
 *Eldritch Blast* that strikes you several times in a single casting is treated as **one instance**
-and reduced only once. A separate attack, or an effect that damages you again on a later turn, is a
-new instance and is reduced again.
+and reduced only once. A separate attack, or the same
+effect damaging you again as a **later, separate instance**, is reduced again — the reduction is
+**always on**, with no once-per-turn cap; every distinct instance of damage you take is reduced.
 
 ## Level 18: Apex Physique (Capstone)
 
@@ -74,8 +75,8 @@ duration:
   have **Resistance to all damage**.
 - Once on each of your turns, you can **replace one of the attacks** in your Attack action with a
   single earth-cracking blow (your other attacks that turn are unaffected): every creature of your
-  choice in a **30-foot Line** makes a **Strength saving throw**, taking **6d10 Force** damage and
-  being knocked **Prone** on a failure (half damage, no Prone, on a success).
+  choice in a **60-foot Line or a 30-foot Cone** makes a **Strength saving throw**, taking **6d10
+  Force** damage and being knocked **Prone** on a failure (half damage, no Prone, on a success).
 
 Once you use this feature, you can't use it again until you finish a Long Rest, unless you spend
 **40 Hit Points** to use it again.

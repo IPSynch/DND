@@ -8,8 +8,8 @@ a squirt closes a gash, a mouthful hauls a dying friend back to their feet, and 
 own nourishment keeps everyone standing long after they should have fallen. You out-heal a Life
 Cleric without breaking a sweat — well, without breaking *that* kind of sweat.
 
-**Discipline Abilities.** Always known, not counted against your Abilities Known: *Fluid Mending
-(Cure Wounds)*, *Group Squirt (Mass Healing Word)*, *Invigorating Musk (Aura of Vitality)*, *Mass
+**Discipline Abilities.** Always known, not counted against your Abilities Known: *Blood Rush*,
+*Group Squirt (Mass Healing Word)*, *Invigorating Musk (Aura of Vitality)*, *Mass
 Mending (Mass Cure Wounds)*, *Word of Renewal (Power Word Heal)*.
 
 Your **Milk die** is **1d8** at 3rd level, **2d8** at 7th, **3d8** at 11th, and **4d8** at 15th.
@@ -18,15 +18,16 @@ Your **Milk die** is **1d8** at 3rd level, **2d8** at 7th, **3d8** at 11th, and 
 
 Your fluids mend better than any priest's magic. Whenever you restore Hit Points to a creature
 with a Fluidic Ability or a Discipline feature, add **your Visceralist level** to the Hit Points
-restored. (This is stronger than, and does not stack with, the Life Domain's Disciple of Life.)
+restored, and that creature also gains **Temporary Hit Points equal to your Constitution
+modifier**. (This is stronger than, and does not stack with, the Life Domain's Disciple of Life.)
 
 ## Level 3: Let-Down (Primed)
 
 While in **Rut**, you gain:
 
-- **Passive — Rich Flow.** Any creature you restore Hit Points to also gains **Temporary Hit
-  Points equal to your Constitution modifier**, and your own **Sanguine Reserve** healing is
-  doubled.
+- **Passive — Rich Flow.** The **Temporary Hit Points** a creature gains from your Overflowing
+  Care are **doubled** (to twice your Constitution modifier), and your own **Sanguine Reserve**
+  healing is doubled.
 - **Rut Bonus Action — Nurse.** Choose to either heal one creature within 30 feet for your **Milk
   die + your Constitution modifier**, or spray a **15-foot Cone**, healing every ally in it for
   your **Milk die**.

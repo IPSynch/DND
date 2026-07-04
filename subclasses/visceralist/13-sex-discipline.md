@@ -11,8 +11,8 @@ tool, and every tool of yours is generous.
 > **Tone.** A frank, bawdy, sex-positive discipline, written tasteful rather than explicit. Reskin
 > "seed," "release," and "climax" to "essence," "effluence," and "surge" if your table prefers.
 
-**Discipline Abilities.** Always known, not counted against your Abilities Known: *Fluid Mending
-(Cure Wounds)*, *Steady Nerves (Enhance Ability)*, *Invigorating Musk (Aura of Vitality)*, *Adrenal
+**Discipline Abilities.** Always known, not counted against your Abilities Known: *Blood Rush*,
+*Steady Nerves (Enhance Ability)*, *Invigorating Musk (Aura of Vitality)*, *Adrenal
 Rush (Haste)*, *Word of Vigor (Power Word Fortify)*.
 
 Your **Ardor die** is **1d8** at 3rd level, **2d8** at 7th, **3d8** at 11th, and **4d8** at 15th.

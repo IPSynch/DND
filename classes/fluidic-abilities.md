@@ -48,11 +48,33 @@ spells reflavored to fit. **Mimics** is the spell each ability copies.
 **Cantrips:** choose from the **Sorcerer cantrip list**, reflavored — e.g. *Acid Splash* as a
 spat glob of bile, *Fire Bolt* as an ignited gas jet, *Mind Sliver* as a psychic musk.
 
+### Blood Rush — 1st-level Fluidic Ability *(custom; replaces Cure Wounds)*
+
+| | |
+|---|---|
+| **Casting Time** | 1 Bonus Action |
+| **Range / Area** | Self |
+| **Components** | S |
+| **Duration** | Instantaneous |
+| **School** | Transmutation (Sangromancy) |
+
+As part of casting this ability you must **expend one Hit Point Die**, or the casting
+automatically fails. Roll that Hit Point Die **twice** and regain Hit Points equal to **the
+total of both rolls plus your Constitution modifier**.
+
+**At Higher Levels.** When you cast Blood Rush as a higher-level ability, **expend one
+additional Hit Point Die for each level above 1st**, rolling every expended die twice and adding
+all the rolls to the total.
+
+> **Why it replaces *Cure Wounds*.** Blood Rush keeps the Visceralist's at-will self-healing but
+> **caps it to your pool of Hit Point Dice**, so you can no longer spam a cheap heal out of
+> combat into effective immortality. It heals **only you**.
+
 ### 1st Level
 
 | Fluidic Ability | Mimics | Flavor / Notes |
 |---|---|---|
-| Fluid Mending | *Cure Wounds* | |
+| Blood Rush | *(custom — see above)* | Sangromancy self-heal; costs a Hit Point Die |
 | Quick Squirt | *Healing Word* | |
 | Slick | *Grease* | |
 | Caustic Spray | *Tasha's Caustic Brew* | |
