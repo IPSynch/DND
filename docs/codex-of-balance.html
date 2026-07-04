@@ -1,0 +1,570 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Codex of Balance</title>
+<style>
+  :root{
+    --ground:#efe6d4; --panel:#f6efe0; --panel-2:#e8dcc4;
+    --ink:#26201a; --ink-soft:#5c5145; --line:#d3c4a6; --line-strong:#c0ad88;
+    --crimson:#8f2f28; --crimson-bright:#ab3a30; --gold:#9a7420; --gold-soft:#b9922f;
+    --s5:#2f6f4f; --s5b:#cfe4d5; --s4:#5a8a3e; --s4b:#dbe7c8;
+    --s3:#a67d1e; --s3b:#efe1bd; --s2:#b45f2a; --s2b:#f0d9c2; --s1:#a5352c; --s1b:#eecac4;
+    --tierS:#7a2530; --tierA:#8a5a1a; --tierB:#4a6a44; --tierC:#5b5148;
+    --shadow:0 1px 0 rgba(255,255,255,.5) inset, 0 2px 10px rgba(60,42,20,.10);
+  }
+  @media (prefers-color-scheme:dark){
+    :root{
+      --ground:#15120e; --panel:#1e1a14; --panel-2:#25201a;
+      --ink:#ece0c8; --ink-soft:#a7987f; --line:#372f24; --line-strong:#4a4030;
+      --crimson:#d0574c; --crimson-bright:#e0655a; --gold:#d2a747; --gold-soft:#c69a3c;
+      --s5:#7dc59b; --s5b:#1f3a2c; --s4:#a6cd7f; --s4b:#28331d;
+      --s3:#e0b955; --s3b:#3a2f16; --s2:#e08a52; --s2b:#3a2716; --s1:#e77b70; --s1b:#3a201c;
+      --tierS:#e77f8b; --tierA:#e0b061; --tierB:#8fc47f; --tierC:#a9997f;
+      --shadow:0 1px 0 rgba(255,255,255,.03) inset, 0 2px 14px rgba(0,0,0,.4);
+    }
+  }
+  :root[data-theme="light"]{
+    --ground:#efe6d4; --panel:#f6efe0; --panel-2:#e8dcc4;
+    --ink:#26201a; --ink-soft:#5c5145; --line:#d3c4a6; --line-strong:#c0ad88;
+    --crimson:#8f2f28; --crimson-bright:#ab3a30; --gold:#9a7420; --gold-soft:#b9922f;
+    --s5:#2f6f4f; --s5b:#cfe4d5; --s4:#5a8a3e; --s4b:#dbe7c8;
+    --s3:#a67d1e; --s3b:#efe1bd; --s2:#b45f2a; --s2b:#f0d9c2; --s1:#a5352c; --s1b:#eecac4;
+    --tierS:#7a2530; --tierA:#8a5a1a; --tierB:#4a6a44; --tierC:#5b5148;
+    --shadow:0 1px 0 rgba(255,255,255,.5) inset, 0 2px 10px rgba(60,42,20,.10);
+  }
+  :root[data-theme="dark"]{
+    --ground:#15120e; --panel:#1e1a14; --panel-2:#25201a;
+    --ink:#ece0c8; --ink-soft:#a7987f; --line:#372f24; --line-strong:#4a4030;
+    --crimson:#d0574c; --crimson-bright:#e0655a; --gold:#d2a747; --gold-soft:#c69a3c;
+    --s5:#7dc59b; --s5b:#1f3a2c; --s4:#a6cd7f; --s4b:#28331d;
+    --s3:#e0b955; --s3b:#3a2f16; --s2:#e08a52; --s2b:#3a2716; --s1:#e77b70; --s1b:#3a201c;
+    --tierS:#e77f8b; --tierA:#e0b061; --tierB:#8fc47f; --tierC:#a9997f;
+    --shadow:0 1px 0 rgba(255,255,255,.03) inset, 0 2px 14px rgba(0,0,0,.4);
+  }
+
+  *{box-sizing:border-box}
+  body{
+    margin:0; background:var(--ground); color:var(--ink);
+    font-family:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
+    line-height:1.5; -webkit-font-smoothing:antialiased;
+  }
+  .serif{font-family:"Iowan Old Style","Palatino Linotype",Palatino,"Book Antiqua",Georgia,serif;}
+  .wrap{max-width:1120px; margin:0 auto; padding:clamp(20px,4vw,52px) clamp(14px,3vw,34px) 80px;}
+
+  /* Header */
+  header{
+    position:relative; border:1px solid var(--line-strong); border-radius:5px;
+    background:
+      radial-gradient(120% 140% at 100% 0%, color-mix(in srgb, var(--crimson) 12%, transparent), transparent 60%),
+      var(--panel);
+    box-shadow:var(--shadow); padding:clamp(22px,4vw,40px); overflow:hidden;
+  }
+  header::before{
+    content:""; position:absolute; inset:6px; border:1px solid var(--line); border-radius:3px; pointer-events:none;
+  }
+  .eyebrow{
+    font-size:.72rem; letter-spacing:.28em; text-transform:uppercase; color:var(--crimson);
+    font-weight:700; margin:0 0 .7rem;
+  }
+  h1.title{
+    font-size:clamp(2.1rem,6vw,3.8rem); line-height:1.02; margin:0; font-weight:600;
+    letter-spacing:-.01em; text-wrap:balance; color:var(--ink);
+  }
+  h1.title em{color:var(--crimson); font-style:italic;}
+  .lede{max-width:60ch; margin:1.1rem 0 0; color:var(--ink-soft); font-size:1.02rem;}
+  .lede b{color:var(--ink); font-weight:600;}
+
+  .ribbon{
+    display:flex; flex-wrap:wrap; gap:10px 22px; align-items:center;
+    margin-top:1.4rem; padding-top:1.2rem; border-top:1px dashed var(--line-strong);
+    font-size:.9rem; color:var(--ink-soft);
+  }
+  .ribbon .tag{
+    display:inline-flex; align-items:center; gap:8px; font-weight:600; color:var(--ink);
+  }
+  .dot{width:9px;height:9px;border-radius:50%;background:var(--crimson);box-shadow:0 0 0 3px color-mix(in srgb,var(--crimson) 22%,transparent);}
+
+  /* Legend */
+  .legend{
+    display:flex; flex-wrap:wrap; gap:14px 26px; align-items:center;
+    margin:26px 0 6px; padding:14px 18px; border:1px solid var(--line); border-radius:5px;
+    background:var(--panel); font-size:.86rem; box-shadow:var(--shadow);
+  }
+  .legend h3{margin:0 12px 0 0; font-size:.74rem; letter-spacing:.18em; text-transform:uppercase; color:var(--ink-soft); font-weight:700;}
+  .legend .row{display:flex; align-items:center; gap:9px; flex-wrap:wrap;}
+  .legend .item{display:inline-flex; align-items:center; gap:7px; color:var(--ink-soft);}
+  .swatch{width:20px; height:20px; border-radius:4px; font-size:.72rem; font-weight:700; display:grid; place-items:center;}
+  .axk{display:inline-flex;gap:6px;align-items:baseline}
+  .axk b{color:var(--ink); font-weight:700;}
+
+  /* Section */
+  section{margin-top:46px;}
+  .sec-head{display:flex; align-items:flex-end; justify-content:space-between; gap:18px; flex-wrap:wrap; margin-bottom:14px;}
+  .sec-title{display:flex; align-items:baseline; gap:14px; flex-wrap:wrap;}
+  .sec-title h2{
+    font-size:clamp(1.5rem,3.4vw,2.15rem); margin:0; font-weight:600; letter-spacing:-.01em;
+  }
+  .sec-title .count{color:var(--crimson); font-weight:700;}
+  .sec-note{color:var(--ink-soft); font-size:.9rem; max-width:46ch; text-align:right;}
+
+  /* Table */
+  .tbl-scroll{overflow-x:auto; border:1px solid var(--line-strong); border-radius:6px; box-shadow:var(--shadow); background:var(--panel);}
+  table{border-collapse:collapse; width:100%; min-width:860px; font-size:.92rem;}
+  thead th{
+    position:sticky; top:0; z-index:1;
+    background:var(--panel-2); color:var(--ink-soft);
+    font-size:.68rem; letter-spacing:.14em; text-transform:uppercase; font-weight:700;
+    text-align:left; padding:12px 12px; border-bottom:2px solid var(--line-strong); white-space:nowrap;
+  }
+  thead th.num{text-align:center;}
+  tbody td{padding:12px; border-bottom:1px solid var(--line); vertical-align:top;}
+  tbody tr:last-child td{border-bottom:none;}
+  tbody tr:hover td{background:color-mix(in srgb, var(--gold) 8%, transparent);}
+  .c-rank{width:40px; text-align:center; font-family:"SF Mono",ui-monospace,Menlo,monospace; color:var(--ink-soft); font-weight:600;}
+  .name{font-weight:650; font-size:1rem; color:var(--ink); letter-spacing:-.005em;}
+  .name .serif{font-weight:600;}
+  .arch{color:var(--ink-soft); font-size:.82rem; margin-top:2px;}
+  td.num{text-align:center;}
+
+  .chip{
+    display:inline-grid; place-items:center; width:30px; height:30px; border-radius:6px;
+    font-family:"SF Mono",ui-monospace,Menlo,monospace; font-weight:700; font-size:.95rem;
+    font-variant-numeric:tabular-nums; border:1px solid transparent;
+  }
+  .s5{background:var(--s5b); color:var(--s5); border-color:color-mix(in srgb,var(--s5) 30%,transparent);}
+  .s4{background:var(--s4b); color:var(--s4); border-color:color-mix(in srgb,var(--s4) 30%,transparent);}
+  .s3{background:var(--s3b); color:var(--s3); border-color:color-mix(in srgb,var(--s3) 30%,transparent);}
+  .s2{background:var(--s2b); color:var(--s2); border-color:color-mix(in srgb,var(--s2) 30%,transparent);}
+  .s1{background:var(--s1b); color:var(--s1); border-color:color-mix(in srgb,var(--s1) 30%,transparent);}
+
+  .avg{display:flex; align-items:center; gap:8px;}
+  .avg .val{font-family:"SF Mono",ui-monospace,Menlo,monospace; font-weight:700; font-size:1.02rem; font-variant-numeric:tabular-nums;}
+  .tier{
+    display:inline-grid; place-items:center; width:26px; height:26px; border-radius:5px;
+    font-weight:800; font-size:.86rem; color:#fff; letter-spacing:.02em;
+  }
+  .tS{background:var(--tierS);} .tA{background:var(--tierA);} .tB{background:var(--tierB);} .tC{background:var(--tierC);}
+  :root[data-theme="dark"] .tier, :root:not([data-theme="light"]) .tier{color:#15120e;}
+  @media (prefers-color-scheme:light){:root:not([data-theme="dark"]) .tier{color:#fff;}}
+
+  .verdict{font-size:.85rem; color:var(--ink-soft); max-width:40ch; line-height:1.45;}
+  .verdict .k{font-weight:700; text-transform:uppercase; font-size:.68rem; letter-spacing:.1em; padding:1px 6px; border-radius:4px; margin-right:5px; white-space:nowrap;}
+  .k.nerf{color:var(--s1); background:var(--s1b);}
+  .k.buff{color:var(--s5); background:var(--s5b);}
+  .k.hold{color:var(--gold); background:color-mix(in srgb,var(--gold) 16%,transparent);}
+
+  .method{
+    margin-top:56px; border:1px solid var(--line); border-radius:6px; background:var(--panel);
+    padding:clamp(20px,3vw,32px); box-shadow:var(--shadow);
+  }
+  .method h2{margin:0 0 .6rem; font-size:1.3rem; font-weight:600;}
+  .method p{margin:.5rem 0; color:var(--ink-soft); max-width:74ch;}
+  .method strong{color:var(--ink);}
+  footer{margin-top:40px; text-align:center; color:var(--ink-soft); font-size:.82rem;}
+
+  @media (max-width:640px){
+    .sec-note{text-align:left;}
+    .verdict{max-width:none;}
+  }
+</style>
+</head>
+<body>
+
+<div class="wrap">
+  <header>
+    <p class="eyebrow">A Game Balance Master's Reckoning</p>
+    <h1 class="title serif">The Codex of <em>Balance</em></h1>
+    <p class="lede">Forty-five homebrew subclasses weighed on four scales — <b>Offense</b>, <b>Defense</b>, <b>Healing</b>, and <b>Utility</b> — each scored 1&ndash;5, then ranked within its own class by the average. Every subclass earns an <b>archetype</b> and a <b>verdict</b>: hold, nerf, or buff.</p>
+    <div class="ribbon">
+      <span class="tag"><span class="dot"></span>Dice already nerfed</span>
+      <span>Every signature “<i>XXX die</i>” now opens at <b style="color:var(--ink)">1d8</b> at level 3 (was 2d8), scaling 1d8&nbsp;/&nbsp;2d8&nbsp;/&nbsp;3d8&nbsp;/&nbsp;4d8. Scores below reflect the post-nerf math.</span>
+    </div>
+  </header>
+
+  <div class="legend" role="note" aria-label="Scoring legend">
+    <h3>Score</h3>
+    <div class="row">
+      <span class="item"><span class="swatch s5">5</span> Elite</span>
+      <span class="item"><span class="swatch s4">4</span> Strong</span>
+      <span class="item"><span class="swatch s3">3</span> Fair</span>
+      <span class="item"><span class="swatch s2">2</span> Thin</span>
+      <span class="item"><span class="swatch s1">1</span> None</span>
+    </div>
+    <h3 style="margin-left:8px">Axes</h3>
+    <div class="row">
+      <span class="axk"><b>O</b> Offense</span><span class="axk"><b>D</b> Defense</span>
+      <span class="axk"><b>H</b> Healing</span><span class="axk"><b>U</b> Utility</span>
+    </div>
+    <h3 style="margin-left:8px">Tier</h3>
+    <div class="row">
+      <span class="item"><span class="tier tS">S</span></span>
+      <span class="item"><span class="tier tA">A</span></span>
+      <span class="item"><span class="tier tB">B</span></span>
+      <span class="item"><span class="tier tC">C</span></span>
+    </div>
+  </div>
+
+  <!-- ============ SORCERER ============ -->
+  <section>
+    <div class="sec-head">
+      <div class="sec-title"><h2 class="serif">Sorcerer</h2><span class="count">22 origins</span></div>
+      <p class="sec-note">The average is dragged down for pure blasters that zero out Healing — read Offense and Utility for their real threat.</p>
+    </div>
+    <div class="tbl-scroll">
+      <table>
+        <thead>
+          <tr>
+            <th class="num">#</th><th>Subclass &amp; Archetype</th>
+            <th class="num" title="Offense">O</th><th class="num" title="Defense">D</th>
+            <th class="num" title="Healing">H</th><th class="num" title="Utility">U</th>
+            <th class="num">Avg</th><th>Verdict</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td class="c-rank">1</td>
+            <td><div class="name serif">Humoral</div><div class="arch">Do-Everything Bodily Toolkit</div></td>
+            <td class="num"><span class="chip s5">5</span></td><td class="num"><span class="chip s4">4</span></td><td class="num"><span class="chip s4">4</span></td><td class="num"><span class="chip s5">5</span></td>
+            <td class="num"><div class="avg"><span class="val">4.50</span><span class="tier tS">S</span></div></td>
+            <td><div class="verdict"><span class="k nerf">Nerf</span>Overloaded — damage, control, heal, and defense at once. Cap Overcharged Humors to one per turn; drop Transfusion to 1× die.</div></td></tr>
+
+          <tr><td class="c-rank">2</td>
+            <td><div class="name serif">Carbon</div><div class="arch">Tank / Bruiser Toolkit</div></td>
+            <td class="num"><span class="chip s3">3</span></td><td class="num"><span class="chip s5">5</span></td><td class="num"><span class="chip s4">4</span></td><td class="num"><span class="chip s4">4</span></td>
+            <td class="num"><div class="avg"><span class="val">4.00</span><span class="tier tA">A</span></div></td>
+            <td><div class="verdict"><span class="k hold">Hold</span>The sturdiest caster alive (Diamond Body + resist-all). Balanced; just don't let 13+Cha stack with heavy defensive spells.</div></td></tr>
+
+          <tr><td class="c-rank">3</td>
+            <td><div class="name serif">Hallowed</div><div class="arch">Aura Support Controller</div></td>
+            <td class="num"><span class="chip s4">4</span></td><td class="num"><span class="chip s4">4</span></td><td class="num"><span class="chip s4">4</span></td><td class="num"><span class="chip s4">4</span></td>
+            <td class="num"><div class="avg"><span class="val">4.00</span><span class="tier tA">A</span></div></td>
+            <td><div class="verdict"><span class="k nerf">Nerf</span>Bonus-action <i>Spirit Guardians</i> is potent. Keep Concentration required until 14; the no-conc capstone is fine.</div></td></tr>
+
+          <tr><td class="c-rank">4</td>
+            <td><div class="name serif">Draconic Ascendant</div><div class="arch">Transforming Dragon Bruiser</div></td>
+            <td class="num"><span class="chip s5">5</span></td><td class="num"><span class="chip s5">5</span></td><td class="num"><span class="chip s1">1</span></td><td class="num"><span class="chip s4">4</span></td>
+            <td class="num"><div class="avg"><span class="val">3.75</span><span class="tier tA">A</span></div></td>
+            <td><div class="verdict"><span class="k hold">Hold</span>A benchmark for the tier — big form, breath weapon, flight, all gated behind Innate Sorcery uptime.</div></td></tr>
+
+          <tr><td class="c-rank">5</td>
+            <td><div class="name serif">Demonic Soul</div><div class="arch">Transforming Demon Bruiser</div></td>
+            <td class="num"><span class="chip s5">5</span></td><td class="num"><span class="chip s5">5</span></td><td class="num"><span class="chip s1">1</span></td><td class="num"><span class="chip s3">3</span></td>
+            <td class="num"><div class="avg"><span class="val">3.50</span><span class="tier tB">B</span></div></td>
+            <td><div class="verdict"><span class="k hold">Hold</span>Resist-all-but-radiant at 14 is the ceiling, but it's transformation-gated. Balanced.</div></td></tr>
+
+          <tr><td class="c-rank">6</td>
+            <td><div class="name serif">Bound Spirit</div><div class="arch">Guardian Pet Bruiser</div></td>
+            <td class="num"><span class="chip s4">4</span></td><td class="num"><span class="chip s4">4</span></td><td class="num"><span class="chip s3">3</span></td><td class="num"><span class="chip s4">4</span></td>
+            <td class="num"><div class="avg"><span class="val">3.75</span><span class="tier tA">A</span></div></td>
+            <td><div class="verdict"><span class="k nerf">Nerf</span>Free damage-soak + pet economy. Limit the Guardian redirect to CON-mod times/rest so it isn't a permanent shield.</div></td></tr>
+
+          <tr><td class="c-rank">7</td>
+            <td><div class="name serif">Bowel</div><div class="arch">Filth Control Artillery</div></td>
+            <td class="num"><span class="chip s5">5</span></td><td class="num"><span class="chip s4">4</span></td><td class="num"><span class="chip s1">1</span></td><td class="num"><span class="chip s5">5</span></td>
+            <td class="num"><div class="avg"><span class="val">3.75</span><span class="tier tA">A</span></div></td>
+            <td><div class="verdict"><span class="k nerf">Nerf</span>A blaster kit rivaling Humoral. Bowel Breath at 3× die is steep — trim to 2.5× or guarantee half-on-save.</div></td></tr>
+
+          <tr><td class="c-rank">8</td>
+            <td><div class="name serif">Soul</div><div class="arch">Minionmancer / Summoner</div></td>
+            <td class="num"><span class="chip s4">4</span></td><td class="num"><span class="chip s4">4</span></td><td class="num"><span class="chip s1">1</span></td><td class="num"><span class="chip s5">5</span></td>
+            <td class="num"><div class="avg"><span class="val">3.50</span><span class="tier tB">B</span></div></td>
+            <td><div class="verdict"><span class="k hold">Hold</span>The action economy is the real power. Fine — just keep a firm cap on total Homunculi to save table time.</div></td></tr>
+
+          <tr><td class="c-rank">9</td>
+            <td><div class="name serif">Freedom</div><div class="arch">Elastic Mobile Bruiser</div></td>
+            <td class="num"><span class="chip s4">4</span></td><td class="num"><span class="chip s5">5</span></td><td class="num"><span class="chip s1">1</span></td><td class="num"><span class="chip s4">4</span></td>
+            <td class="num"><div class="avg"><span class="val">3.50</span><span class="tier tB">B</span></div></td>
+            <td><div class="verdict"><span class="k hold">Hold</span>Resist-all Gears make it durable; damage stays fair. Well-tuned.</div></td></tr>
+
+          <tr><td class="c-rank">10</td>
+            <td><div class="name serif">Radiant Light</div><div class="arch">Blink Striker / Skirmisher</div></td>
+            <td class="num"><span class="chip s4">4</span></td><td class="num"><span class="chip s4">4</span></td><td class="num"><span class="chip s1">1</span></td><td class="num"><span class="chip s5">5</span></td>
+            <td class="num"><div class="avg"><span class="val">3.50</span><span class="tier tB">B</span></div></td>
+            <td><div class="verdict"><span class="k buff">Buff</span>Mobility king, average damage. Give Photon Lance a rider (e.g., Radiant vulnerability) so its blasts bite.</div></td></tr>
+
+          <tr><td class="c-rank">11</td>
+            <td><div class="name serif">Glacial</div><div class="arch">Lockdown Control Mage</div></td>
+            <td class="num"><span class="chip s4">4</span></td><td class="num"><span class="chip s4">4</span></td><td class="num"><span class="chip s1">1</span></td><td class="num"><span class="chip s5">5</span></td>
+            <td class="num"><div class="avg"><span class="val">3.50</span><span class="tier tB">B</span></div></td>
+            <td><div class="verdict"><span class="k hold">Hold</span>Restrain→Paralyze lock is strong control; damage is average by design. Fair.</div></td></tr>
+
+          <tr><td class="c-rank">12</td>
+            <td><div class="name serif">Euphoric</div><div class="arch">Escalating Psychic Controller</div></td>
+            <td class="num"><span class="chip s4">4</span></td><td class="num"><span class="chip s4">4</span></td><td class="num"><span class="chip s2">2</span></td><td class="num"><span class="chip s4">4</span></td>
+            <td class="num"><div class="avg"><span class="val">3.50</span><span class="tier tB">B</span></div></td>
+            <td><div class="verdict"><span class="k nerf">Nerf</span>Ecstasy stacking can spike psychic damage fast. Cap the per-hit Ecstasy bonus or its max stacks.</div></td></tr>
+
+          <tr><td class="c-rank">13</td>
+            <td><div class="name serif">Breastmilk</div><div class="arch">Dedicated Healer / Medic</div></td>
+            <td class="num"><span class="chip s1">1</span></td><td class="num"><span class="chip s4">4</span></td><td class="num"><span class="chip s5">5</span></td><td class="num"><span class="chip s4">4</span></td>
+            <td class="num"><div class="avg"><span class="val">3.50</span><span class="tier tB">B</span></div></td>
+            <td><div class="verdict"><span class="k buff">Buff</span>Best healer in the book, no offense at all. Add a small at-will damaging option so it isn't a passenger in fights.</div></td></tr>
+
+          <tr><td class="c-rank">14</td>
+            <td><div class="name serif">Seismic</div><div class="arch">Artillery Prone-Controller</div></td>
+            <td class="num"><span class="chip s5">5</span></td><td class="num"><span class="chip s3">3</span></td><td class="num"><span class="chip s1">1</span></td><td class="num"><span class="chip s4">4</span></td>
+            <td class="num"><div class="avg"><span class="val">3.25</span><span class="tier tB">B</span></div></td>
+            <td><div class="verdict"><span class="k hold">Hold</span>Clean, characterful prone-lock artillery. A model of restrained design.</div></td></tr>
+
+          <tr><td class="c-rank">15</td>
+            <td><div class="name serif">Chronomantic</div><div class="arch">Tempo / Reaction Manipulator</div></td>
+            <td class="num"><span class="chip s2">2</span></td><td class="num"><span class="chip s4">4</span></td><td class="num"><span class="chip s2">2</span></td><td class="num"><span class="chip s5">5</span></td>
+            <td class="num"><div class="avg"><span class="val">3.25</span><span class="tier tB">B</span></div></td>
+            <td><div class="verdict"><span class="k hold">Hold</span>The average undersells it — multi-Reaction, Time Stop, and reroll denial make it an elite specialist, not a mid-tier.</div></td></tr>
+
+          <tr><td class="c-rank">16</td>
+            <td><div class="name serif">Bladesong</div><div class="arch">Arcane Gish Duelist</div></td>
+            <td class="num"><span class="chip s5">5</span></td><td class="num"><span class="chip s4">4</span></td><td class="num"><span class="chip s1">1</span></td><td class="num"><span class="chip s3">3</span></td>
+            <td class="num"><div class="avg"><span class="val">3.25</span><span class="tier tB">B</span></div></td>
+            <td><div class="verdict"><span class="k hold">Hold</span>Strong melee/spell blend; no healing drags the average. Fine as-is.</div></td></tr>
+
+          <tr><td class="c-rank">17</td>
+            <td><div class="name serif">Decay</div><div class="arch">Attrition Debuffer / Executioner</div></td>
+            <td class="num"><span class="chip s5">5</span></td><td class="num"><span class="chip s3">3</span></td><td class="num"><span class="chip s1">1</span></td><td class="num"><span class="chip s4">4</span></td>
+            <td class="num"><div class="avg"><span class="val">3.25</span><span class="tier tB">B</span></div></td>
+            <td><div class="verdict"><span class="k hold">Hold</span>Max-HP attrition + Disintegrate is scary but fair against creatures; terrifying vs. structures on purpose.</div></td></tr>
+
+          <tr><td class="c-rank">18</td>
+            <td><div class="name serif">Magma</div><div class="arch">Zone-Control Burn Mage</div></td>
+            <td class="num"><span class="chip s4">4</span></td><td class="num"><span class="chip s4">4</span></td><td class="num"><span class="chip s1">1</span></td><td class="num"><span class="chip s4">4</span></td>
+            <td class="num"><div class="avg"><span class="val">3.25</span><span class="tier tB">B</span></div></td>
+            <td><div class="verdict"><span class="k hold">Hold</span>Solid lava-field area denial, average burst. Balanced.</div></td></tr>
+
+          <tr><td class="c-rank">19</td>
+            <td><div class="name serif">Ascendant</div><div class="arch">Metamagic Overcharger</div></td>
+            <td class="num"><span class="chip s4">4</span></td><td class="num"><span class="chip s4">4</span></td><td class="num"><span class="chip s1">1</span></td><td class="num"><span class="chip s4">4</span></td>
+            <td class="num"><div class="avg"><span class="val">3.25</span><span class="tier tB">B</span></div></td>
+            <td><div class="verdict"><span class="k buff">Buff</span>All multipliers, no payload of its own. Give it one signature damage feature so the buffs have something to amplify.</div></td></tr>
+
+          <tr><td class="c-rank">20</td>
+            <td><div class="name serif">Beguiling</div><div class="arch">Charm / Control Dominator</div></td>
+            <td class="num"><span class="chip s3">3</span></td><td class="num"><span class="chip s3">3</span></td><td class="num"><span class="chip s1">1</span></td><td class="num"><span class="chip s5">5</span></td>
+            <td class="num"><div class="avg"><span class="val">3.00</span><span class="tier tC">C</span></div></td>
+            <td><div class="verdict"><span class="k buff">Buff</span>Elite charm-lock, low raw numbers. Nudge damage up a step, or accept it as a dedicated lockdown specialist.</div></td></tr>
+
+          <tr><td class="c-rank">21</td>
+            <td><div class="name serif">Ejaculation</div><div class="arch">Buff / Resource Battery</div></td>
+            <td class="num"><span class="chip s2">2</span></td><td class="num"><span class="chip s3">3</span></td><td class="num"><span class="chip s2">2</span></td><td class="num"><span class="chip s5">5</span></td>
+            <td class="num"><div class="avg"><span class="val">3.00</span><span class="tier tC">C</span></div></td>
+            <td><div class="verdict"><span class="k hold">Hold</span>A genuinely unique resource-refuel battery. Fine in its niche; a touch more self-defense wouldn't hurt.</div></td></tr>
+
+          <tr><td class="c-rank">22</td>
+            <td><div class="name serif">Sundering</div><div class="arch">Precision Auto-Hit Striker</div></td>
+            <td class="num"><span class="chip s4">4</span></td><td class="num"><span class="chip s3">3</span></td><td class="num"><span class="chip s1">1</span></td><td class="num"><span class="chip s3">3</span></td>
+            <td class="num"><div class="avg"><span class="val">2.75</span><span class="tier tC">C</span></div></td>
+            <td><div class="verdict"><span class="k buff">Buff</span>Reliable auto-hit but one-note. Advance the slash-die upgrades one tier earlier so single-target output keeps pace.</div></td></tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <!-- ============ PALADIN ============ -->
+  <section>
+    <div class="sec-head">
+      <div class="sec-title"><h2 class="serif">Paladin</h2><span class="count">10 oaths</span></div>
+      <p class="sec-note">Every oath inherits a strong base chassis (Aura, Smite, Lay on Hands), so the field clusters tight and high.</p>
+    </div>
+    <div class="tbl-scroll">
+      <table>
+        <thead>
+          <tr>
+            <th class="num">#</th><th>Oath &amp; Archetype</th>
+            <th class="num" title="Offense">O</th><th class="num" title="Defense">D</th>
+            <th class="num" title="Healing">H</th><th class="num" title="Utility">U</th>
+            <th class="num">Avg</th><th>Verdict</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td class="c-rank">1</td>
+            <td><div class="name serif">Blade Master</div><div class="arch">Reach Smite Duelist</div></td>
+            <td class="num"><span class="chip s5">5</span></td><td class="num"><span class="chip s4">4</span></td><td class="num"><span class="chip s2">2</span></td><td class="num"><span class="chip s4">4</span></td>
+            <td class="num"><div class="avg"><span class="val">3.75</span><span class="tier tA">A</span></div></td>
+            <td><div class="verdict"><span class="k nerf">Nerf</span>Full Divine Smite at 30&ndash;120 ft is the best offense here. Cap ranged Smite damage past short reach, or curb the crit-fishing.</div></td></tr>
+
+          <tr><td class="c-rank">2</td>
+            <td><div class="name serif">Demon Soul</div><div class="arch">Escalating Demon Bruiser</div></td>
+            <td class="num"><span class="chip s5">5</span></td><td class="num"><span class="chip s5">5</span></td><td class="num"><span class="chip s2">2</span></td><td class="num"><span class="chip s3">3</span></td>
+            <td class="num"><div class="avg"><span class="val">3.75</span><span class="tier tA">A</span></div></td>
+            <td><div class="verdict"><span class="k nerf">Nerf</span>Demon Power snowballs damage <i>and</i> AC in long fights. Cap the AC bonus, or slow the per-turn accrual.</div></td></tr>
+
+          <tr><td class="c-rank">3</td>
+            <td><div class="name serif">Iron Fist</div><div class="arch">Unbreakable Brawler Tank</div></td>
+            <td class="num"><span class="chip s5">5</span></td><td class="num"><span class="chip s5">5</span></td><td class="num"><span class="chip s2">2</span></td><td class="num"><span class="chip s3">3</span></td>
+            <td class="num"><div class="avg"><span class="val">3.75</span><span class="tier tA">A</span></div></td>
+            <td><div class="verdict"><span class="k hold">Hold</span>Best frontline in the class with real fists behind it. Powerful but fair — a clean flagship tank.</div></td></tr>
+
+          <tr><td class="c-rank">4</td>
+            <td><div class="name serif">Black Powder</div><div class="arch">Gunslinger Ranged DPS</div></td>
+            <td class="num"><span class="chip s5">5</span></td><td class="num"><span class="chip s3">3</span></td><td class="num"><span class="chip s2">2</span></td><td class="num"><span class="chip s5">5</span></td>
+            <td class="num"><div class="avg"><span class="val">3.75</span><span class="tier tA">A</span></div></td>
+            <td><div class="verdict"><span class="k nerf">Nerf</span>A ranged smiting Paladin with heavy utility. Tighten Final Judgment's execute threshold (PB×2 is generous).</div></td></tr>
+
+          <tr><td class="c-rank">5</td>
+            <td><div class="name serif">Carnal Devotion</div><div class="arch">Charmer Support Paladin</div></td>
+            <td class="num"><span class="chip s3">3</span></td><td class="num"><span class="chip s4">4</span></td><td class="num"><span class="chip s4">4</span></td><td class="num"><span class="chip s4">4</span></td>
+            <td class="num"><div class="avg"><span class="val">3.75</span><span class="tier tA">A</span></div></td>
+            <td><div class="verdict"><span class="k hold">Hold</span>The most well-rounded oath — charm control, self-heal, and party support. Nicely balanced.</div></td></tr>
+
+          <tr><td class="c-rank">6</td>
+            <td><div class="name serif">Devourer</div><div class="arch">Self-Healing Predator</div></td>
+            <td class="num"><span class="chip s4">4</span></td><td class="num"><span class="chip s4">4</span></td><td class="num"><span class="chip s3">3</span></td><td class="num"><span class="chip s3">3</span></td>
+            <td class="num"><div class="avg"><span class="val">3.50</span><span class="tier tB">B</span></div></td>
+            <td><div class="verdict"><span class="k hold">Hold</span>Excellent self-sustain bruiser. Swallow-on-any-hit is strong but arrives at 20 — fine.</div></td></tr>
+
+          <tr><td class="c-rank">7</td>
+            <td><div class="name serif">Foul Gut</div><div class="arch">Attrition Rot Zealot</div></td>
+            <td class="num"><span class="chip s4">4</span></td><td class="num"><span class="chip s3">3</span></td><td class="num"><span class="chip s3">3</span></td><td class="num"><span class="chip s4">4</span></td>
+            <td class="num"><div class="avg"><span class="val">3.50</span><span class="tier tB">B</span></div></td>
+            <td><div class="verdict"><span class="k buff">Buff</span>Strong rot kit hobbled by the fully-naked requirement (no armor, exposed). Soften the exposure penalty or reward it with real defense.</div></td></tr>
+
+          <tr><td class="c-rank">8</td>
+            <td><div class="name serif">Undying</div><div class="arch">Immortal Wall Tank</div></td>
+            <td class="num"><span class="chip s2">2</span></td><td class="num"><span class="chip s5">5</span></td><td class="num"><span class="chip s4">4</span></td><td class="num"><span class="chip s3">3</span></td>
+            <td class="num"><div class="avg"><span class="val">3.50</span><span class="tier tB">B</span></div></td>
+            <td><div class="verdict"><span class="k hold">Hold</span>Nigh-unkillable, deliberately weak offense. Fair as a pure tank — maybe soften the literal "can't die" capstone for lethal tables.</div></td></tr>
+
+          <tr><td class="c-rank">9</td>
+            <td><div class="name serif">Gallows</div><div class="arch">Single-Target Executioner</div></td>
+            <td class="num"><span class="chip s4">4</span></td><td class="num"><span class="chip s3">3</span></td><td class="num"><span class="chip s2">2</span></td><td class="num"><span class="chip s4">4</span></td>
+            <td class="num"><div class="avg"><span class="val">3.25</span><span class="tier tB">B</span></div></td>
+            <td><div class="verdict"><span class="k buff">Buff</span>Deadly on one target, thin against crowds until 15. Give it a small AoE or multi-mark option earlier.</div></td></tr>
+
+          <tr><td class="c-rank">10</td>
+            <td><div class="name serif">Dominion</div><div class="arch">Compulsion Control Tyrant</div></td>
+            <td class="num"><span class="chip s3">3</span></td><td class="num"><span class="chip s4">4</span></td><td class="num"><span class="chip s1">1</span></td><td class="num"><span class="chip s5">5</span></td>
+            <td class="num"><div class="avg"><span class="val">3.25</span><span class="tier tB">B</span></div></td>
+            <td><div class="verdict"><span class="k hold">Hold</span>Elite compulsion control, modest damage — the average hides how oppressive Command-spam and action-denial can be.</div></td></tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <!-- ============ VISCERALIST ============ -->
+  <section>
+    <div class="sec-head">
+      <div class="sec-title"><h2 class="serif">Visceralist</h2><span class="count">13 disciplines</span></div>
+      <p class="sec-note">A CON-based martial-caster that pays Hit Points to cast — so raw Defense and sustain matter more here than for any other class.</p>
+    </div>
+    <div class="tbl-scroll">
+      <table>
+        <thead>
+          <tr>
+            <th class="num">#</th><th>Discipline &amp; Archetype</th>
+            <th class="num" title="Offense">O</th><th class="num" title="Defense">D</th>
+            <th class="num" title="Healing">H</th><th class="num" title="Utility">U</th>
+            <th class="num">Avg</th><th>Verdict</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td class="c-rank">1</td>
+            <td><div class="name serif">Coitus</div><div class="arch">Buff / Charm Support</div></td>
+            <td class="num"><span class="chip s3">3</span></td><td class="num"><span class="chip s4">4</span></td><td class="num"><span class="chip s4">4</span></td><td class="num"><span class="chip s5">5</span></td>
+            <td class="num"><div class="avg"><span class="val">4.00</span><span class="tier tA">A</span></div></td>
+            <td><div class="verdict"><span class="k nerf">Nerf</span>Best-rounded discipline — buffs, heals, control. The at-will, no-cost Anointing heal/buff loop is a lot; add a light per-turn cap.</div></td></tr>
+
+          <tr><td class="c-rank">2</td>
+            <td><div class="name serif">Flood</div><div class="arch">Battlefield Support / Buffer</div></td>
+            <td class="num"><span class="chip s3">3</span></td><td class="num"><span class="chip s3">3</span></td><td class="num"><span class="chip s4">4</span></td><td class="num"><span class="chip s5">5</span></td>
+            <td class="num"><div class="avg"><span class="val">3.75</span><span class="tier tA">A</span></div></td>
+            <td><div class="verdict"><span class="k nerf">Nerf</span>Unlimited Blessed Waters (THP + a die to every roll) is the strongest at-will buff in the book. Cap uses or drop the die stacking.</div></td></tr>
+
+          <tr><td class="c-rank">3</td>
+            <td><div class="name serif">Blast</div><div class="arch">Explosive Mobile Blaster</div></td>
+            <td class="num"><span class="chip s5">5</span></td><td class="num"><span class="chip s4">4</span></td><td class="num"><span class="chip s1">1</span></td><td class="num"><span class="chip s5">5</span></td>
+            <td class="num"><div class="avg"><span class="val">3.75</span><span class="tier tA">A</span></div></td>
+            <td><div class="verdict"><span class="k hold">Hold</span>Elite offense fused with elite mobility — a highlight of the class. Fair.</div></td></tr>
+
+          <tr><td class="c-rank">4</td>
+            <td><div class="name serif">Lymph</div><div class="arch">Anti-Magic Cleanser</div></td>
+            <td class="num"><span class="chip s2">2</span></td><td class="num"><span class="chip s5">5</span></td><td class="num"><span class="chip s3">3</span></td><td class="num"><span class="chip s5">5</span></td>
+            <td class="num"><div class="avg"><span class="val">3.75</span><span class="tier tA">A</span></div></td>
+            <td><div class="verdict"><span class="k nerf">Nerf</span>Free, ability-less Counterspell/Dispel plus condition immunities makes casters miserable. Attach an HP or resource cost to White-Cell Swarm.</div></td></tr>
+
+          <tr><td class="c-rank">5</td>
+            <td><div class="name serif">Elasticity</div><div class="arch">Rubber Reach Bruiser</div></td>
+            <td class="num"><span class="chip s4">4</span></td><td class="num"><span class="chip s5">5</span></td><td class="num"><span class="chip s1">1</span></td><td class="num"><span class="chip s4">4</span></td>
+            <td class="num"><div class="avg"><span class="val">3.50</span><span class="tier tB">B</span></div></td>
+            <td><div class="verdict"><span class="k hold">Hold</span>Durable 30-ft-reach bruiser with layered damage reduction. Well-tuned.</div></td></tr>
+
+          <tr><td class="c-rank">6</td>
+            <td><div class="name serif">Musk</div><div class="arch">Pheromone Charmer</div></td>
+            <td class="num"><span class="chip s3">3</span></td><td class="num"><span class="chip s4">4</span></td><td class="num"><span class="chip s2">2</span></td><td class="num"><span class="chip s5">5</span></td>
+            <td class="num"><div class="avg"><span class="val">3.50</span><span class="tier tB">B</span></div></td>
+            <td><div class="verdict"><span class="k hold">Hold</span>Charm/fear control with ignore-immunity teeth. Solid; lean fully into control rather than its token healing.</div></td></tr>
+
+          <tr><td class="c-rank">7</td>
+            <td><div class="name serif">Nourishment</div><div class="arch">Dedicated Healer</div></td>
+            <td class="num"><span class="chip s1">1</span></td><td class="num"><span class="chip s3">3</span></td><td class="num"><span class="chip s5">5</span></td><td class="num"><span class="chip s4">4</span></td>
+            <td class="num"><div class="avg"><span class="val">3.25</span><span class="tier tB">B</span></div></td>
+            <td><div class="verdict"><span class="k buff">Buff</span>Out-heals a Life Cleric but can't fight. Give it one token offensive option so it isn't idle on the attack.</div></td></tr>
+
+          <tr><td class="c-rank">8</td>
+            <td><div class="name serif">Sinew</div><div class="arch">Pure Unarmed Bruiser</div></td>
+            <td class="num"><span class="chip s5">5</span></td><td class="num"><span class="chip s4">4</span></td><td class="num"><span class="chip s1">1</span></td><td class="num"><span class="chip s3">3</span></td>
+            <td class="num"><div class="avg"><span class="val">3.25</span><span class="tier tB">B</span></div></td>
+            <td><div class="verdict"><span class="k hold">Hold</span>Clean, hard-hitting fists with Stun on crits. Balanced.</div></td></tr>
+
+          <tr><td class="c-rank">9</td>
+            <td><div class="name serif">Mane</div><div class="arch">Grapple Lockdown Controller</div></td>
+            <td class="num"><span class="chip s4">4</span></td><td class="num"><span class="chip s3">3</span></td><td class="num"><span class="chip s1">1</span></td><td class="num"><span class="chip s5">5</span></td>
+            <td class="num"><div class="avg"><span class="val">3.25</span><span class="tier tB">B</span></div></td>
+            <td><div class="verdict"><span class="k hold">Hold</span>Mass grapple-and-restrain with drain is potent lockdown. Fair.</div></td></tr>
+
+          <tr><td class="c-rank">10</td>
+            <td><div class="name serif">Ooze</div><div class="arch">Corrosive Debuff Tank</div></td>
+            <td class="num"><span class="chip s3">3</span></td><td class="num"><span class="chip s5">5</span></td><td class="num"><span class="chip s1">1</span></td><td class="num"><span class="chip s4">4</span></td>
+            <td class="num"><div class="avg"><span class="val">3.25</span><span class="tier tB">B</span></div></td>
+            <td><div class="verdict"><span class="k hold">Hold</span>Slippery debuff-tank that shreds AC and gear. Balanced; the permanent gear penalties bite but are situational.</div></td></tr>
+
+          <tr><td class="c-rank">11</td>
+            <td><div class="name serif">Frenzy</div><div class="arch">Berserker Rage Engine</div></td>
+            <td class="num"><span class="chip s4">4</span></td><td class="num"><span class="chip s4">4</span></td><td class="num"><span class="chip s2">2</span></td><td class="num"><span class="chip s3">3</span></td>
+            <td class="num"><div class="avg"><span class="val">3.25</span><span class="tier tB">B</span></div></td>
+            <td><div class="verdict"><span class="k nerf">Nerf</span>The capstone's extra full action each turn is spicy. Watch action stacking with Haste-likes; otherwise sound.</div></td></tr>
+
+          <tr><td class="c-rank">12</td>
+            <td><div class="name serif">Gale</div><div class="arch">Flying Storm Controller</div></td>
+            <td class="num"><span class="chip s3">3</span></td><td class="num"><span class="chip s3">3</span></td><td class="num"><span class="chip s1">1</span></td><td class="num"><span class="chip s5">5</span></td>
+            <td class="num"><div class="avg"><span class="val">3.00</span><span class="tier tC">C</span></div></td>
+            <td><div class="verdict"><span class="k buff">Buff</span>Superb flight and zone control, thin payload. Strengthen the Gale die riders (harder push / lingering damage) so the storm hurts.</div></td></tr>
+
+          <tr><td class="c-rank">13</td>
+            <td><div class="name serif">Dung</div><div class="arch">Melee Filth Bruiser</div></td>
+            <td class="num"><span class="chip s4">4</span></td><td class="num"><span class="chip s3">3</span></td><td class="num"><span class="chip s1">1</span></td><td class="num"><span class="chip s3">3</span></td>
+            <td class="num"><div class="avg"><span class="val">2.75</span><span class="tier tC">C</span></div></td>
+            <td><div class="verdict"><span class="k buff">Buff</span>One-note next to Sinew. Give it a reason to exist — richer restrain control or a utility hook that Sinew lacks.</div></td></tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <div class="method">
+    <h2 class="serif">How the scales were weighed</h2>
+    <p><strong>Each axis is scored 1&ndash;5</strong> and the four are averaged for the rank within a class. <strong>Offense</strong> = damage &amp; killing control; <strong>Defense</strong> = AC, resistances, damage reduction, THP; <strong>Healing</strong> = restoring Hit Points to self or party; <strong>Utility</strong> = mobility, hard control, versatility, and out-of-combat reach.</p>
+    <p><strong>Read the average as "how complete," not "how powerful."</strong> A pure blaster that scores 1 on Healing is not weak — it is <em>specialized</em>. Well-rounded toolkits (Humoral, Carbon, Coitus) rise to the top precisely because they refuse to leave a scale empty; dedicated specialists (Chronomantic, Beguiling, Dominion, Nourishment) sit lower on average while dominating their one axis. The <strong>archetype</strong> tells you the role; the <strong>average</strong> tells you the spread.</p>
+    <p><strong>Tiers:</strong> S&nbsp;=&nbsp;4.25+ &nbsp;·&nbsp; A&nbsp;=&nbsp;3.75&ndash;4.24 &nbsp;·&nbsp; B&nbsp;=&nbsp;3.25&ndash;3.74 &nbsp;·&nbsp; C&nbsp;=&nbsp;below&nbsp;3.25. All scores assume the applied dice nerf (signature dice open at 1d8 at level 3).</p>
+  </div>
+
+  <footer>Weighed by the Game Balance Master · 45 subclasses across Sorcerer, Paladin, and Visceralist</footer>
+</div>
+
+<script>
+  (function(){
+    // Keep the tier badge text legible in whichever theme is active.
+    function fixTierInk(){
+      var dark = matchMedia('(prefers-color-scheme:dark)').matches;
+      var root = document.documentElement;
+      var t = root.getAttribute('data-theme');
+      var isDark = t ? t === 'dark' : dark;
+      document.querySelectorAll('.tier').forEach(function(el){
+        el.style.color = isDark ? '#15120e' : '#fff';
+      });
+    }
+    fixTierInk();
+    matchMedia('(prefers-color-scheme:dark)').addEventListener('change', fixTierInk);
+    new MutationObserver(fixTierInk).observe(document.documentElement,{attributes:true,attributeFilter:['data-theme']});
+  })();
+</script>
+</body>
+</html>
