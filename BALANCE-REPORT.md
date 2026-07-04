@@ -1,6 +1,6 @@
 # The Codex of Balance
 
-*A Game Balance Master's ranking of all 45 homebrew subclasses.*
+*A Game Balance Master's ranking of all 55 homebrew subclasses.*
 
 Each subclass is scored **1–5** on four scales and ranked **within its own class** by the
 average:
@@ -75,7 +75,7 @@ so the field clusters tight and high.*
 
 ---
 
-## Visceralist — 13 disciplines
+## Visceralist — 23 disciplines
 
 *A CON-based martial-caster that pays Hit Points to cast — so raw Defense and sustain matter
 more here than for any other class.*
@@ -95,6 +95,25 @@ more here than for any other class.*
 | 11 | Frenzy | Berserker Rage Engine | 4 | 4 | 2 | 3 | **3.25** | B | **Buffed** — Bloodrage's Bonus-Action strike no longer needs the Attack action first. Watch the capstone's extra action. |
 | 12 | Gale | Flying Storm Controller | 3 | 3 | 1 | 5 | **3.00** | C | **Buff** — strengthen the Gale die riders so the storm actually hurts. |
 | 13 | Fecal *(was Dung)* | Melee Filth Bruiser / Controller | 4 | 3 | 1 | 4 | **3.00** | C | **Buffed** — gained **Filthworks** (barriers, difficult terrain, tools) and a Blinding restrain, giving it the utility identity Sinew lacks. |
+
+### New disciplines (14–23)
+
+Ten new disciplines, scored on the same four axes and slotted into the ranking above at their
+average. All follow the class's **3 / 6 / 10 / 18** cadence and the standard signature-die curve
+(**1d8 → 2d8 → 3d8 → 4d8**).
+
+| # | Discipline | Archetype | O | D | H | U | Avg | Tier | Verdict |
+|---|-----------|-----------|:-:|:-:|:-:|:-:|:---:|:----:|---------|
+| 14 | Demon *(Take Over)* | Versatile Mode-Shifter | 5 | 4 | 1 | 5 | **3.75** | A | **Hold** — three pickable Rut forms (melee / blaster / utility), fusing into all three at 18. The most flexible discipline; watch the Twin-Souls double-Bonus-Action turn. |
+| 15 | Titan | Colossal Regenerating Bruiser | 4 | 5 | 3 | 2 | **3.50** | B | **Hold** — steam regen + hardening + damage threshold make it the sturdiest frontline; low reach/control by design. |
+| 16 | Brood *(Womb)* | Kamikaze Summoner | 5 | 3 | 1 | 4 | **3.25** | B | **Hold** — spawns resolve inside your action (no initiative clutter) and one strong Prime persists; keep the one-Prime cap firm. |
+| 17 | Dragon | Transforming Dragon Bruiser | 5 | 5 | 1 | 4 | **3.75** | A | **Hold** — the Visceralist mirror of Draconic Ascendant; hybrid at 3, full dragon at 10, apex breath at 18. Transformation-gated. |
+| 18 | Velocity | Run-Through Skirmisher | 4 | 3 | 1 | 5 | **3.25** | B | **Hold** — line-charge striker with elite mobility and an extra action at 18. Watch the capstone Sonic Run's repeat hits. |
+| 19 | Permeation | Phasing Ghost Skirmisher | 3 | 5 | 1 | 5 | **3.50** | B | **Hold** — untouchable defense + go-anywhere utility; AC/cover-ignoring strikes keep its offense honest. Magic still hits it. |
+| 20 | Masochist | Comeback Engine | 5 | 5 | 1 | 2 | **3.25** | B | **Watch** — offense *and* defense scale as HP falls; the capstone that treats you as at 1 HP for every tier is the ceiling. Anti-synergizes with being healed, by design. |
+| 21 | Elements *(Logia)* | Elemental Body Blaster | 5 | 5 | 1 | 3 | **3.50** | B | **Hold** — permanent nonmagical-physical immunity at 10 is strong but classic Logia; magical damage is the clean answer. |
+| 22 | Bone *(Osseous)* | Weaponized-Skeleton Zoner | 4 | 5 | 2 | 4 | **3.75** | A | **Hold** — the utility/zoning half of Sinew: bone walls, restraining fields, ranged darts, plus a durable frame. |
+| 23 | Blood *(Sanguine)* | Hemomancer / Bloodbender | 4 | 4 | 3 | 4 | **3.75** | A | **Watch** — the most complete of the new ten: bleed + transfuse (self *and* ally heal) + bloodbend control + a Heartstop execute. Keep the execute threshold at 25 HP. |
 
 ---
 

@@ -31,7 +31,7 @@ Each class has its own folder under [`subclasses/`](./subclasses/).
 | Class | Folder | Count |
 |-------|--------|:-----:|
 | Sorcerer | [`subclasses/sorcerer/`](./subclasses/sorcerer/) | 22 origins |
-| Visceralist | [`subclasses/visceralist/`](./subclasses/visceralist/) | 13 disciplines |
+| Visceralist | [`subclasses/visceralist/`](./subclasses/visceralist/) | 23 disciplines |
 | Paladin | [`subclasses/paladin/`](./subclasses/paladin/) | 10 oaths |
 | Fighter | [`subclasses/fighter/`](./subclasses/fighter/) | 11 subclasses |
 | Barbarian | [`subclasses/barbarian/`](./subclasses/barbarian/) | 10 paths |

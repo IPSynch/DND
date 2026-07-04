@@ -1,6 +1,6 @@
 # Visceral Disciplines — Visceralist Subclasses (D&D 2014 / 2024)
 
-Thirteen subclasses ("Visceral Disciplines") for [The Visceralist](../../classes/visceralist.md).
+Twenty-three subclasses ("Visceral Disciplines") for [The Visceralist](../../classes/visceralist.md).
 Each gains features at Visceralist levels **3, 6, 10, and 18** (the subclass capstone), grants a
 short list of always-known **Discipline Abilities**, and — per the class chassis — its level-3
 package always includes a **Primed feature** with a passive benefit **and** a special Bonus Action
@@ -9,7 +9,7 @@ that function only while you are in **Rut** (Primed Metabolism).
 Tuned strong, as the rest of this project. Capstones are recharge-on-Long-Rest "boss buttons" that
 can also be re-fired by burning a chunk of Hit Points (the class's usual fuel).
 
-## The thirteen disciplines
+## The twenty-three disciplines
 
 | # | Discipline | Concept | Bent |
 |---|-----------|---------|------|
@@ -26,4 +26,14 @@ can also be re-fired by burning a chunk of Hit Points (the class's usual fuel).
 | 11 | [Frenzy](./11-frenzy-discipline.md) | Adrenaline — turn spent HP into fury (self-buff berserker) | Melee / Striker |
 | 12 | [Lymph](./12-lymph-discipline.md) | Antibodies — cleanse, counter-magic, adaptive immunity | Support / Anti-magic |
 | 13 | [Sex](./13-sex-discipline.md) | Sex & seed — anoint, buff, heal, and a charming climax | Support / Control |
+| 14 | [Demon](./14-demon-discipline.md) | Take Over demon forms — 3 pickable Rut modes (Mirajane) | Versatile / Mode-Shifter |
+| 15 | [Titan](./15-titan-discipline.md) | Colossal steaming meat, hardening, regen (Attack on Titan) | Defense / Bruiser |
+| 16 | [Brood](./16-brood-discipline.md) | Kamikaze blood-spawn from the womb + one strong Prime (Geto) | Summoner / Offense |
+| 17 | [Dragon](./17-dragon-discipline.md) | Scales, hybrid form, full dragon, breath weapon (Kaido) | Offense / Bruiser |
+| 18 | [Velocity](./18-velocity-discipline.md) | Running *through* enemies — line charges, afterimages | Striker / Mobility |
+| 19 | [Permeation](./19-permeation-discipline.md) | Phasing intangible flesh, strike from anywhere (Mirio) | Defense / Skirmisher |
+| 20 | [Masochist](./20-masochist-discipline.md) | Lower HP = stronger offense *and* defense | Offense / Defense (comeback) |
+| 21 | [Elements](./21-elements-discipline.md) | Logia elemental body, choosable element, intangible | Offense / Defense |
+| 22 | [Bone](./22-bone-discipline.md) | Weaponized skeleton — blades, spike armor, bone walls | Defense / Striker |
+| 23 | [Blood](./23-blood-discipline.md) | Hemomancy & bloodbending — bleed, puppet, transfuse | Control / Offense |
 </content>
