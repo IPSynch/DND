@@ -38,10 +38,10 @@ While in **Rut**, you feed on your own suffering:
 - **Passive — Pain Is Pleasure.** You count as **Bloodied** for all your Masochist features even
   when your Hit Points are above half, and you have **Advantage on saving throws against being
   Frightened or Charmed** — you're already somewhere they can't follow.
-- **Rut Bonus Action — Offer Flesh.** You wound yourself for Hit Points equal to **five times
-  your Constitution modifier** (this can't reduce you below 1). Until the end of your next turn
-  you count as **Broken** regardless of your actual Hit Points, and your attacks deal an extra
-  **Wound die**.
+- **Rut Bonus Action — Savor the Sting.** You drag a nail across your own skin — a taste, not a
+  toll: you lose Hit Points equal to **your Proficiency Bonus** (this can't reduce you below 1
+  and can't be reduced or prevented). Until the end of your next turn you count as **Broken**
+  regardless of your actual Hit Points, and your attacks deal an extra **Wound die**.
 
 ## Level 6: Extra Attack & Numb to Pain
 
@@ -56,9 +56,11 @@ outright, you can drop to **1** instead; you can do this once per **Short or Lon
 
 At the brink you become something that shouldn't still be standing. While you are **Broken**:
 
-- Your attacks **ignore Resistance**, your critical hits land on a roll of **19 or 20**, and the
-  first time you hit a creature on each of your turns you deal the **maximum** result of your
-  Unarmed Strike and Wound dice instead of rolling.
+- Your attacks and cantrips **ignore Resistance**, and your critical hits land on a roll of
+  **19 or 20**. In addition, **once per turn** (on anyone's turn — an Opportunity Attack or a
+  Reaction counts), when you hit a creature with an attack or deal damage to a creature with a
+  cantrip, you deal the **maximum** result of that attack's or cantrip's damage dice (including
+  your Wound dice) instead of rolling.
 - You have **Advantage on all saving throws**.
 
 You also gain a third threshold. While your current Hit Points are **at or below your Visceralist
