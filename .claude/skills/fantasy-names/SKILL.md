@@ -177,3 +177,8 @@ vowels, discard two-thirds. A seed is a starting point, never an answer.
 - **`references/epithets.md`** — titles, bynames, house names, orders, and
   the `, the X Y` construction. Read when naming anything that isn't a person,
   or when adding a title layer on top of a finished name.
+- **`references/name-bank.md`** — 200 finished names, 10 male and 10 female per
+  style, each glossed. Read it when you want calibration for what a style looks
+  like done right, when the user wants a batch rather than a slate, or when you
+  need parts to recombine — the surnames in particular transplant cleanly onto
+  other given names.
