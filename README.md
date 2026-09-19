@@ -9,6 +9,7 @@ custom **classes**, **subclasses** across many classes, and **species**.
 classes/           Homebrew base classes (+ supporting rules)
 subclasses/        Homebrew subclasses, one folder per class
 species/           Homebrew player species/lineages
+.claude/skills/    Claude Code skills for working on this compendium
 BALANCE-REPORT.md  Game-balance ranking of the Sorcerer / Paladin / Visceralist subclasses
 ```
 
@@ -44,6 +45,14 @@ Each class has its own folder under [`subclasses/`](./subclasses/).
 
 Homebrew player species live in [`species/`](./species/) — 12 concept species plus a
 trio of Elven lineages built for Elven Accuracy.
+
+## Naming
+
+[`.claude/skills/fantasy-names/`](./.claude/skills/fantasy-names/) is a naming
+system for characters, NPCs, houses and orders — ten defined styles
+(Anglo-Gothic, High Sindarin, Kenning-Byname, Concept-Loan, Portmanteau-Root,
+Apostrophe-Clan, Sentence-Name, Imperial Rolling, Compact Duotone, Harsh
+Particle) reverse-engineered from the campaign's existing character names.
 
 ## Balance notes
 
