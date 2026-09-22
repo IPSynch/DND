@@ -127,7 +127,14 @@ These are what separate the author's names from generic fantasy output.
   placeholders; the seam is where character lives.
 - **Let the given name be boring.** Bartholomew is a parish clerk's name. That's
   the joke and the horror — the surname does the work. Resist making both halves
-  exotic.
+  exotic. This is a rule about *balance*, not about position: whichever half is
+  ordinary, the other one has to carry the character. Flip an Anglo-Gothic name
+  around — `Xenophon Bartholomew` — and the given name inherits the whole job.
+- **Check what it shortens to.** A player character gets abbreviated at the
+  table whether you plan for it or not, so decide the short form yourself. If
+  they want to be called X, the name needs a hard X at the front and enough
+  syllables behind it that the nickname feels earned — `Xenophon` cuts to X,
+  `Xan` just competes with it. Three or four syllables is the reliable range.
 - **Concrete nouns beat abstractions.** `-ditch`, `-spire`, `-way`, `-barrow`
   land; `-doom`, `-fate`, `-shadow` are worn smooth. Grimsditch is a *ditch*.
 - **One weird mark per name, maximum.** One apostrophe or one x/tz cluster.
